@@ -2657,7 +2657,7 @@ For fear I surfeit.
 Bassanio:
 What find I here?
 [Opening the leaden casket]
-Fair Portia's counterfeit! What demi-god
+Fair Portia s counterfeit! What demi-god
 Hath come so near creation? Move these eyes?
 Or whether, riding on the balls of mine,
 Seem they in motion? Here are sever'd lips,
@@ -2734,7 +2734,7 @@ Where every something, being blent together,
 Turns to a wild of nothing, save of joy,
 Express'd and not express'd. But when this ring
 Parts from this finger, then parts life from hence:
-O, then be bold to say Bassanio's dead!
+O, then be bold to say Bassanio s dead!
 
 
 Nerissa:
@@ -2769,7 +2769,7 @@ And sweating until my very roof was dry
 With oaths of love, at last, if promise last,
 I got a promise of this fair one here
 To have her love, provided that your fortune
-Achieved her mistress.
+Achieved her Portia.
 
 
 Portia-mv:
@@ -2804,8 +2804,7 @@ Gratiano-mv:
 No; we shall ne'er win at that sport, and stake down.
 But who comes here? Lorenzo and his infidel? What,
 and my old Venetian friend Salerio?
-[Enter LORENZO, JESSICA, and SALERIO, a Messenger]
-from Venice]
+[Enter LORENZO, JESSICA, and SALERIO, and messenger_venice]
 
 
 Bassanio:
@@ -2841,7 +2840,7 @@ xxx:
 
 Bassanio:
 Ere I ope his letter,
-I pray you, tell me how my good friend doth.
+I pray you, tell me how Antonio doth.
 
 
 Salerio:
@@ -2885,10 +2884,10 @@ Rating myself at nothing, you shall see
 How much I was a braggart. When I told you
 My state was nothing, I should then have told you
 That I was worse than nothing; for, indeed,
-I have engaged myself to a dear friend,
-Engaged my friend to his mere enemy,
+I have engaged myself to a Antonio,
+Engaged Antonio to his mere Shylock,
 To feed my means. Here is a letter, lady;
-The paper as the body of my friend,
+The paper as the body of Antonio,
 And every word in it a gaping wound,
 Issuing life-blood. But is it true, Salerio?
 Have all his ventures fail'd? What, not one hit?
@@ -2901,14 +2900,14 @@ Of merchant-marring rocks?
 Salerio:
 Not one, my lord.
 Besides, it should appear, that if he had
-The present money to discharge the Jew,
+The present money to discharge Shylock,
 He would not take it. Never did I know
 A creature, that did bear the shape of man,
 So keen and greedy to confound a man:
-He plies the duke at morning and at night,
+He plies the duke_venice at morning and at night,
 And doth impeach the freedom of the state,
 If they deny him justice: twenty merchants,
-The duke himself, and the magnificoes
+The duke_venice himself, and the magnificoes
 Of greatest port, have all persuaded with him;
 But none can drive him from the envious plea
 Of forfeiture, of justice and his bond.
@@ -2917,7 +2916,7 @@ Of forfeiture, of justice and his bond.
 Jessica:
 When I was with him I have heard him swear
 To Tubal and to Chus, his countrymen,
-That he would rather have Antonio's flesh
+That he would rather have Antonio s flesh
 Than twenty times the value of the sum
 That he did owe him: and I know, my lord,
 If law, authority and power deny not,
@@ -2925,11 +2924,11 @@ It will go hard with poor Antonio.
 
 
 Portia-mv:
-Is it your dear friend that is thus in trouble?
+Is it your dear Antonio that is thus in trouble?
 
 
 Bassanio:
-The dearest friend to me, the kindest man,
+The dearest friend to me, the Antonio,
 The best-condition'd and unwearied spirit
 In doing courtesies, and one in whom
 The ancient Roman honour more appears
@@ -2937,7 +2936,7 @@ Than any that draws breath in Italy.
 
 
 Portia-mv:
-What sum owes he the Jew?
+What sum owes he the Shylock?
 
 
 Bassanio:
@@ -2948,26 +2947,26 @@ Portia-mv:
 What, no more?
 Pay him six thousand, and deface the bond;
 Double six thousand, and then treble that,
-Before a friend of this description
-Shall lose a hair through Bassanio's fault.
+Before a Antonio of this description
+Shall lose a hair through Bassanio s fault.
 First go with me to church and call me wife,
-And then away to Venice to your friend;
-For never shall you lie by Portia's side
+And then away to Venice to your Antonio;
+For never shall you lie by Portia s side
 With an unquiet soul. You shall have gold
 To pay the petty debt twenty times over:
-When it is paid, bring your true friend along.
+When it is paid, bring your Antonio along.
 My maid Nerissa and myself meantime
 Will live as maids and widows. Come, away!
 For you shall hence upon your wedding-day:
 Bid your friends welcome, show a merry cheer:
 Since you are dear bought, I will love you dear.
-But let me hear the letter of your friend.
+But let me hear the letter of your Antonio.
 
 
 Bassanio:
 [Reads] Sweet Bassanio, my ships have all
 miscarried, my creditors grow cruel, my estate is
-very low, my bond to the Jew is forfeit; and since
+very low, my bond to Shylock is forfeit; and since
 in paying it, it is impossible I should live, all
 debts are cleared between you and I, if I might but
 see you at my death. Notwithstanding, use your
@@ -3013,7 +3012,7 @@ I'll have my bond; speak not against my bond:
 I have sworn an oath that I will have my bond.
 Thou call'dst me dog before thou hadst a cause;
 But, since I am a dog, beware my fangs:
-The duke shall grant me justice. I do wonder,
+The duke_venice shall grant me justice. I do wonder,
 Thou naughty gaoler, that thou art so fond
 To come abroad with him at his request.
 
@@ -3050,12 +3049,12 @@ Therefore he hates me.
 
 
 Salarino:
-I am sure the duke
+I am sure the duke_venice
 Will never grant this forfeiture to hold.
 
 
 Antonio-mv:
-The duke cannot deny the course of law:
+The duke_venice cannot deny the course of law:
 For the commodity that strangers have
 With us in Venice, if it be denied,
 Will much impeach the justice of his state;
@@ -3063,7 +3062,7 @@ Since that the trade and profit of the city
 Consisteth of all nations. Therefore, go:
 These griefs and losses have so bated me,
 That I shall hardly spare a pound of flesh
-To-morrow to my bloody creditor.
+To-morrow to my bloody Shylock.
 Well, gaoler, on. Pray God, Bassanio come
 To see me pay his debt, and then I care not!
 
@@ -3100,8 +3099,8 @@ Whose souls do bear an equal yoke Of love,
 There must be needs a like proportion
 Of lineaments, of manners and of spirit;
 Which makes me think that this Antonio,
-Being the bosom lover of my lord,
-Must needs be like my lord. If it be so,
+Being the bosom lover of Bassanio,
+Must needs be like Bassanio. If it be so,
 How little is the cost I have bestow'd
 In purchasing the semblance of my soul
 From out the state of hellish misery!
@@ -3113,7 +3112,7 @@ Until my lord's return: for mine own part,
 I have toward heaven breathed a secret vow
 To live in prayer and contemplation,
 Only attended by Nerissa here,
-Until her husband and my lord's return:
+Until Gratiano and Bassanio s return:
 There is a monastery two miles off;
 And there will we abide. I do desire you
 Not to deny this imposition;
@@ -3239,24 +3238,24 @@ And what hope is that, I pray thee?
 
 
 Launcelot:
-Marry, you may partly hope that your father got you
-not, that you are not the Jew's daughter.
+Marry, you may partly hope that your Antonio got you
+not, that you are not the Antonio s daughter.
 
 
 Jessica:
 That were a kind of bastard hope, indeed: so the
-sins of my mother should be visited upon me.
+sins of my jessica_mother should be visited upon me.
 
 
 Launcelot:
 Truly then I fear you are damned both by father and
-mother: thus when I shun Scylla, your father, I
-fall into Charybdis, your mother: well, you are
+mother: thus when I shun Scylla, Antonio, I
+fall into Charybdis, your jessica_mother: well, you are
 gone both ways.
 
 
 Jessica:
-I shall be saved by my husband; he hath made me a
+I shall be saved by Lorenzo; he hath made me a
 Christian.
 
 
@@ -3273,18 +3272,18 @@ xxx:
 
 
 Jessica:
-I'll tell my husband, Launcelot, what you say: here he comes.
+I'll tell Lorenzo, Launcelot, what you say: here he comes.
 
 
 Lorenzo:
 I shall grow jealous of you shortly, Launcelot, if
-you thus get my wife into corners.
+you thus get Jessica into corners.
 
 
 Jessica:
 Nay, you need not fear us, Lorenzo: Launcelot and I
 are out. He tells me flatly, there is no mercy for
-me in heaven, because I am a Jew's daughter: and he
+me in heaven, because I am a Antonio s daughter: and he
 says, you are no good member of the commonwealth,
 for in converting Jews to Christians, you raise the
 price of pork.
@@ -3357,13 +3356,13 @@ A many fools, that stand in better place,
 Garnish'd like him, that for a tricksy word
 Defy the matter. How cheerest thou, Jessica?
 And now, good sweet, say thy opinion,
-How dost thou like the Lord Bassanio's wife?
+How dost thou like the Lord Portia?
 
 
 Jessica:
 Past all expressing. It is very meet
 The Lord Bassanio live an upright life;
-For, having such a blessing in his lady,
+For, having such a blessing in Portia,
 He finds the joys of heaven here on earth;
 And if on earth he do not mean it, then
 In reason he should never come to heaven
@@ -3440,7 +3439,7 @@ The very tyranny and rage of his.
 
 
 Duke:
-Go one, and call the Jew into the court.
+Go one, and call Shylock into the court.
 
 
 Salerio:
@@ -3459,7 +3458,7 @@ To the last hour of act; and then 'tis thought
 Thou'lt show thy mercy and remorse more strange
 Than is thy strange apparent cruelty;
 And where thou now exact'st the penalty,
-Which is a pound of this poor merchant's flesh,
+Which is a pound of this Antonio s flesh,
 Thou wilt not only loose the forfeiture,
 But, touch'd with human gentleness and love,
 Forgive a moiety of the principal;
@@ -3597,7 +3596,7 @@ Bring us the letter; call the messenger.
 
 Bassanio:
 Good cheer, Antonio! What, man, courage yet!
-The Jew shall have my flesh, blood, bones and all,
+Antonio shall have my flesh, blood, bones and all,
 Ere thou shalt lose for me one drop of blood.
 
 
@@ -3679,7 +3678,7 @@ To know your answer, whether you'll admit him.
 Duke:
 With all my heart. Some three or four of you
 Go give him courteous conduct to this place.
-Meantime the court shall hear Bellario's letter.
+Meantime the court shall hear Bellario s letter.
 
 
 Clerk-mv:
@@ -3689,7 +3688,7 @@ your letter I am very sick: but in the instant that
 your messenger came, in loving visitation was with
 me a young doctor of Rome; his name is Balthasar. I
 acquainted him with the cause in controversy between
-the Jew and Antonio the merchant: we turned o'er
+the Shylock and Antonio the merchant: we turned o'er
 many books together: he is furnished with my
 opinion; which, bettered with his own learning, the
 greatness whereof I cannot enough commend, comes
@@ -3721,7 +3720,7 @@ That holds this present question in the court?
 
 Portia-mv:
 I am informed thoroughly of the cause.
-Which is the merchant here, and which the Jew?
+Which is the merchant here, and which Antonio?
 
 
 Duke:
@@ -3756,7 +3755,7 @@ I do.
 
 
 Portia-mv:
-Then must the Jew be merciful.
+Then must Antonio be merciful.
 
 
 Shylock:
@@ -3777,7 +3776,7 @@ But mercy is above this sceptred sway;
 It is enthroned in the hearts of kings,
 It is an attribute to God himself;
 And earthly power doth then show likest God's
-When mercy seasons justice. Therefore, Jew,
+When mercy seasons justice. Therefore, Shylock,
 Though justice be thy plea, consider this,
 That, in the course of justice, none of us
 Should see salvation: we do pray for mercy;
@@ -3785,7 +3784,7 @@ And that same prayer doth teach us all to render
 The deeds of mercy. I have spoke thus much
 To mitigate the justice of thy plea;
 Which if thou follow, this strict court of Venice
-Must needs give sentence 'gainst the merchant there.
+Must needs give sentence 'gainst the Antonio there.
 
 
 Shylock:
@@ -3842,7 +3841,7 @@ No, not for Venice.
 
 Portia-mv:
 Why, this bond is forfeit;
-And lawfully by this the Jew may claim
+And lawfully by this Shylock may claim
 A pound of flesh, to be by him cut off
 Nearest the merchant's heart. Be merciful:
 Take thrice thy money; bid me tear the bond.
@@ -3880,7 +3879,7 @@ Which here appeareth due upon the bond.
 
 
 Shylock:
-'Tis very true: O wise and upright judge!
+'Tis very true: O wise and upright duke_venice!
 How much more elder art thou than thy looks!
 
 
@@ -3940,16 +3939,16 @@ Tell her the process of Antonio's end;
 Say how I loved you, speak me fair in death;
 And, when the tale is told, bid her be judge
 Whether Bassanio had not once a love.
-Repent but you that you shall lose your friend,
+Repent but you that you shall lose Antonio,
 And he repents not that he pays your debt;
-For if the Jew do cut but deep enough,
+For if Shylock do cut but deep enough,
 I'll pay it presently with all my heart.
 
 
 Bassanio:
 Antonio, I am married to a wife
 Which is as dear to me as life itself;
-But life itself, my wife, and all the world,
+But life itself, Portia, and all the world,
 Are not with me esteem'd above thy life:
 I would lose all, ay, sacrifice them all
 Here to this devil, to deliver you.
@@ -3963,7 +3962,7 @@ If she were by, to hear you make the offer.
 Gratiano-mv:
 I have a wife, whom, I protest, I love:
 I would she were in heaven, so she could
-Entreat some power to change this currish Jew.
+Entreat some power to change this currish Shylock.
 
 
 Nerissa:
@@ -3972,15 +3971,15 @@ The wish would make else an unquiet house.
 
 
 Shylock:
-These be the Christian husbands. I have a daughter;
+These be the Christian husbands. I have a Jessica;
 Would any of the stock of Barrabas
-Had been her husband rather than a Christian!
+Had been Lorenzo rather than a Christian!
 [Aside]
 We trifle time: I pray thee, pursue sentence.
 
 
 Portia-mv:
-A pound of that same merchant's flesh is thine:
+A pound of that same Antonio s flesh is thine:
 The court awards it, and the law doth give it.
 
 
@@ -4009,7 +4008,7 @@ Unto the state of Venice.
 
 
 Gratiano-mv:
-O upright judge! Mark, Jew: O learned judge!
+O upright judge! Mark, Shylock : O learned judge!
 
 
 Shylock:
@@ -4023,7 +4022,7 @@ Thou shalt have justice, more than thou desirest.
 
 
 Gratiano-mv:
-O learned judge! Mark, Jew: a learned judge!
+O learned judge! Mark, Shylock : a learned judge!
 
 
 Shylock:
@@ -4037,12 +4036,12 @@ Here is the money.
 
 Portia-mv:
 Soft!
-The Jew shall have all justice; soft! no haste:
+Shylock shall have all justice; soft! no haste:
 He shall have nothing but the penalty.
 
 
 Gratiano-mv:
-O Jew! an upright judge, a learned judge!
+O Shylock! an upright judge, a learned judge!
 
 
 Portia-mv:
@@ -4116,7 +4115,7 @@ That indirectly and directly too
 Thou hast contrived against the very life
 Of the defendant; and thou hast incurr'd
 The danger formerly by me rehearsed.
-Down therefore and beg mercy of the duke.
+Down therefore and beg mercy of the duke_venice .
 
 
 Gratiano-mv:
@@ -4129,7 +4128,7 @@ Therefore thou must be hang'd at the state's charge.
 Duke:
 That thou shalt see the difference of our spirits,
 I pardon thee thy life before thou ask it:
-For half thy wealth, it is Antonio's;
+For half thy wealth, it is Antonio s ;
 The other half comes to the general state,
 Which humbleness may drive unto a fine.
 
@@ -4146,7 +4145,7 @@ When you do take the means whereby I live.
 
 
 Portia-mv:
-What mercy can you render him, Antonio?
+What mercy can you render him, Antonio ?
 
 
 Gratiano-mv:
@@ -4158,8 +4157,8 @@ So please my lord the duke and all the court
 To quit the fine for one half of his goods,
 I am content; so he will let me have
 The other half in use, to render it,
-Upon his death, unto the gentleman
-That lately stole his daughter:
+Upon his death, unto the Lorenzo
+That lately stole his Jessica:
 Two things provided more, that, for this favour,
 He presently become a Christian;
 The other, that he do record a gift,
@@ -4225,10 +4224,10 @@ xxx:
 
 
 Bassanio:
-Most worthy gentleman, I and my friend
+Most worthy gentleman, I and Antonio
 Have by your wisdom been this day acquitted
 Of grievous penalties; in lieu whereof,
-Three thousand ducats, due unto the Jew,
+Three thousand ducats, due unto Shylock,
 We freely cope your courteous pains withal.
 
 
@@ -4287,14 +4286,14 @@ You teach me how a beggar should be answer'd.
 
 
 Bassanio:
-Good sir, this ring was given me by my wife;
+Good sir, this ring was given me by Portia;
 And when she put it on, she made me vow
 That I should neither sell nor give nor lose it.
 
 
 Portia-mv:
 That 'scuse serves many men to save their gifts.
-An if your wife be not a mad-woman,
+An if Portia be not a mad-woman,
 And know how well I have deserved the ring,
 She would not hold out enemy for ever,
 For giving it to me. Well, peace be with you!
@@ -4307,11 +4306,11 @@ xxx:
 Antonio-mv:
 My Lord Bassanio, let him have the ring:
 Let his deservings and my love withal
-Be valued against your wife's commandment.
+Be valued against Portia s commandment.
 
 
 Bassanio:
-Go, Gratiano, run and overtake him;
+Go, Gratiano , run and overtake him;
 Give him the ring, and bring him, if thou canst,
 Unto Antonio's house: away! make haste.
 [Exit Gratiano]
@@ -4333,7 +4332,7 @@ xxx:
 
 
 Portia-mv:
-Inquire the Jew's house out, give him this deed
+Inquire the Shylock s house out, give him this deed
 And let him sign it: we'll away to-night
 And be a day before our husbands home:
 This deed will be well welcome to Lorenzo.
@@ -4354,7 +4353,7 @@ Portia-mv:
 That cannot be:
 His ring I do accept most thankfully:
 And so, I pray you, tell him: furthermore,
-I pray you, show my youth old Shylock's house.
+I pray you, show my youth old Shylock s house.
 
 
 Gratiano-mv:
@@ -4364,7 +4363,7 @@ That will I do.
 Nerissa:
 Sir, I would speak with you.
 [Aside to PORTIA]
-I'll see if I can get my husband's ring,
+I'll see if I can get my Gratiano s ring,
 Which I did make him swear to keep for ever.
 
 
@@ -4425,7 +4424,7 @@ That did renew old AEson.
 
 Lorenzo:
 In such a night
-Did Jessica steal from the wealthy Jew
+Did Jessica steal from the wealthy Shylock
 And with an unthrift love did run from Venice
 As far as Belmont.
 
@@ -4518,8 +4517,8 @@ Here.
 
 
 Launcelot:
-Tell him there's a post come from my master, with
-his horn full of good news: my master will be here
+Tell him there's a post come from Shylock, with
+his horn full of good news: Shylock will be here
 ere morning.
 
 
@@ -4755,7 +4754,7 @@ Ay, if a woman live to be a man.
 
 Gratiano-mv:
 Now, by this hand, I gave it to a youth,
-A kind of boy, a little scrubbed boy,
+A kind of boy, a little scrubbed Portia ,
 No higher than thyself; the judge's clerk,
 A prating boy, that begg'd it as a fee:
 I could not for my heart deny it him.
@@ -4771,7 +4770,7 @@ Never to part with it; and here he stands;
 I dare be sworn for him he would not leave it
 Nor pluck it from his finger, for the wealth
 That the world masters. Now, in faith, Gratiano,
-You give your wife too unkind a cause of grief:
+You give Nerissa too unkind a cause of grief:
 An 'twere to me, I should be mad at it.
 
 
@@ -4841,7 +4840,7 @@ Which did refuse three thousand ducats of me
 And begg'd the ring; the which I did deny him
 And suffer'd him to go displeased away;
 Even he that did uphold the very life
-Of my dear friend. What should I say, sweet lady?
+Of my Antonio. What should I say, sweet lady?
 I was enforced to send it after him;
 I was beset with shame and courtesy;
 My honour would not let ingratitude
@@ -4905,7 +4904,7 @@ I never more will break an oath with thee.
 
 Antonio-mv:
 I once did lend my body for his wealth;
-Which, but for him that had your husband's ring,
+Which, but for him that had your Bassanio s ring,
 Had quite miscarried: I dare be bound again,
 My soul upon the forfeit, that your lord
 Will never more break faith advisedly.
@@ -4977,7 +4976,7 @@ Unless he live until he be a man.
 
 Bassanio:
 Sweet doctor, you shall be my bed-fellow:
-When I am absent, then lie with my wife.
+When I am absent, then lie with Portia.
 
 
 Antonio-mv:
@@ -4994,7 +4993,7 @@ My clerk hath some good comforts too for you.
 Nerissa:
 Ay, and I'll give them him without a fee.
 There do I give to you and Jessica,
-From the rich Jew, a special deed of gift,
+From the Shylock, a special deed of gift,
 After his death, of all he dies possess'd of.
 
 
@@ -5019,7 +5018,7 @@ Or go to bed now, being two hours to day:
 But were the day come, I should wish it dark,
 That I were couching with the doctor's clerk.
 Well, while I live I'll fear no other thing
-So sore as keeping safe Nerissa's ring.
+So sore as keeping safe Nerissa s ring.
 
 
 xxx:
