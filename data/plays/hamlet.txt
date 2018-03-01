@@ -13,7 +13,7 @@ Nay, answer me. Stand and unfold yourself.
 
 
 bernardo:
-Long live the King!
+Long live the King_Ghost!
 
 
 francisco:
@@ -149,7 +149,7 @@ Peace! break thee off! Look where it comes again!
 
 
 bernardo:
-In the same figure, like the King that's dead. 
+In the same figure, like the King_Ghost that's dead. 
 
 
 marcellus:
@@ -157,7 +157,7 @@ Thou art a scholar; speak to it, Horatio.
 
 
 bernardo:
-Looks it not like the King? Mark it, Horatio.
+Looks it not like the King_Ghost? Mark it, Horatio.
 
 
 horatio:
@@ -212,7 +212,7 @@ Of mine own eyes.
 
 
 marcellus:
-Is it not like the King?
+Is it not like the King_Ghost?
 
 
 horatio:
@@ -250,7 +250,7 @@ Who is't that can inform me?
 
 horatio:
 That can I.
-At least, the whisper goes so. Our last king,
+At least, the whisper goes so. Our last king_Ghost,
 Whose image even but now appear'd to us,
 Was, as you know, by Fortinbras of Norway,
 Thereto prick'd on by a most emulate pride,
@@ -261,7 +261,7 @@ Well ratified by law and heraldry,
 Did forfeit, with his life, all those his lands
 Which he stood seiz'd of, to the conqueror;
 Against the which a moiety competent
-Was gaged by our king; which had return'd
+Was gaged by our king_Ghost; which had return'd
 To the inheritance of Fortinbras,
 Had he been vanquisher, as, by the same cov'nant
 And carriage of the article design'd,
@@ -283,7 +283,7 @@ Of this post-haste and romage in the land.
 bernardo:
 I think it be no other but e'en so.
 Well may it sort that this portentous figure
-Comes armed through our watch, so like the King
+Comes armed through our watch, so like the King_Ghost
 That was and is the question of these wars.
 
 
@@ -923,7 +923,7 @@ xxx:
 
 laertes:
 My necessaries are embark'd. Farewell.
-And, sister, as the winds give benefit
+And, sister_Ophelia, as the winds give benefit
 And convoy is assistant, do not sleep,
 But let me hear from you.
 
@@ -969,7 +969,7 @@ Then weigh what loss your honour may sustain
 If with too credent ear you list his songs,
 Or lose your heart, or your chaste treasure open
 To his unmast'red importunity.
-Fear it, Ophelia, fear it, my dear sister,
+Fear it, Ophelia, fear it, my dear sister_Ophelia,
 And keep you in the rear of your affection, 
 Out of the shot and danger of desire.
 The chariest maid is prodigal enough
@@ -996,7 +996,7 @@ And recks not his own rede.
 laertes:
 O, fear me not!
 [Enter Polonius. ]
-I stay too long. But here my father comes.
+I stay too long. But here my father_Polonius comes.
 A double blessing is a double grace;
 Occasion smiles upon a second leave.
 
@@ -1032,7 +1032,7 @@ Farewell. My blessing season this in thee!
 
 
 laertes:
-Most humbly do I take my leave, my lord.
+Most humbly do I take my leave, my lord_Polonius.
 
 
 polonius:
@@ -1069,12 +1069,12 @@ Have of your audience been most free and bounteous.
 If it be so- as so 'tis put on me,
 And that in way of caution- I must tell you
 You do not understand yourself so clearly
-As it behooves my daughter and your honour.
+As it behooves my daughter_Ophelia and your honour.
 What is between you? Give me up the truth.
 
 
 ophelia:
-He hath, my lord, of late made many tenders
+He hath, my lord_Polonius, of late made many tenders
 Of his affection to me.
 
 
@@ -1085,7 +1085,7 @@ Do you believe his tenders, as you call them?
 
 
 ophelia:
-I do not know, my lord, what I should think,
+I do not know, my lord_Polonius, what I should think,
 
 
 polonius:
@@ -1097,7 +1097,7 @@ Running it thus) you'll tender me a fool.
 
 
 ophelia:
-My lord, he hath importun'd me with love
+My lord_Polonius, he hath importun'd me with love
 In honourable fashion.
 
 
@@ -1106,14 +1106,14 @@ Ay, fashion you may call it. Go to, go to!
 
 
 ophelia:
-And hath given countenance to his speech, my lord,
+And hath given countenance to his speech, my lord_Polonius,
 With almost all the holy vows of heaven.
 
 
 polonius:
 Ay, springes to catch woodcocks! I do know,
 When the blood burns, how prodigal the soul
-Lends the tongue vows. These blazes, daughter,
+Lends the tongue vows. These blazes, daughter_Ophelia,
 Giving more light than heat, extinct in both
 Even in their promise, as it is a-making,
 You must not take for fire. From this time
@@ -1135,7 +1135,7 @@ Look to't, I charge you. Come your ways.
 
 
 ophelia:
-I shall obey, my lord.
+I shall obey, my lord_Polonius.
 
 
 xxx:
@@ -1174,11 +1174,11 @@ horatio:
 Indeed? I heard it not. It then draws near the season
 Wherein the spirit held his wont to walk.
 [A flourish of trumpets, and two pieces go off.]
-What does this mean, my lord?
+What does this mean, my lord_Hamlet?
 
 
 hamlet:
-The King doth wake to-night and takes his rouse,
+The King_Ghost doth wake to-night and takes his rouse,
 Keeps wassail, and the swagg'ring upspring reels,
 And, as he drains his draughts of Rhenish down,
 The kettledrum and trumpet thus bray out
@@ -1222,7 +1222,7 @@ xxx:
 
 
 horatio:
-Look, my lord, it comes!
+Look, my lord_Hamlet, it comes!
 
 
 hamlet:
@@ -1231,8 +1231,8 @@ Be thou a spirit of health or goblin damn'd,
 Bring with thee airs from heaven or blasts from hell,
 Be thy intents wicked or charitable,
 Thou com'st in such a questionable shape
-That I will speak to thee. I'll call thee Hamlet,
-King, father, royal Dane. O, answer me?
+That I will speak to thee. I'll call thee Hamlet_Ghost,
+King_Ghost, father_Ghost, royal Dane. O, answer me?
 Let me not burst in ignorance, but tell
 Why thy canoniz'd bones, hearsed in death,
 Have burst their cerements; why the sepulchre
@@ -1272,7 +1272,7 @@ It will not speak. Then will I follow it.
 
 
 horatio:
-Do not, my lord!
+Do not, my lord_Hamlet!
 
 
 hamlet:
@@ -1284,7 +1284,7 @@ It waves me forth again. I'll follow it.
 
 
 horatio:
-What if it tempt you toward the flood, my lord,
+What if it tempt you toward the flood, my lord_Hamlet,
 Or to the dreadful summit of the cliff
 That beetles o'er his base into the sea,
 And there assume some other, horrible form
@@ -1302,7 +1302,7 @@ Go on. I'll follow thee.
 
 
 marcellus:
-You shall not go, my lord.
+You shall not go, my lord_Hamlet.
 
 
 hamlet:
@@ -1318,7 +1318,7 @@ My fate cries out
 And makes each petty artire in this body
 As hardy as the Nemean lion's nerve.
 [Ghost beckons.]
-Still am I call'd. Unhand me, gentlemen.
+Still am I call'd. Unhand me, gentlemen_Ghost.
 By heaven, I'll make a ghost of him that lets me!-
 I say, away!- Go on. I'll follow thee.
 
@@ -4964,7 +4964,7 @@ xxx:
 Act 4, Scene 1
 
 xxx:
-[Enter King and Queen, with Rosencrantz and Guildenstern]
+[Enter King_Claudius and Queen_Gertrude, with Rosencrantz and Guildenstern]
 
 
 claudius:
@@ -4976,7 +4976,7 @@ Where is your son?
 gertrude:
 Bestow this place on us a little while.
 [Exeunt Rosencrantz and Guildenstern.]
-Ah, mine own lord, what have I seen to-night!
+Ah, mine own lord_Claudius, what have I seen to-night!
 
 
 claudius:
@@ -5023,7 +5023,7 @@ Both countenance and excuse. Ho, Guildenstern!
 [Enter Rosencrantz and Guildenstern.]
 Friends both, go join you with some further aid.
 Hamlet in madness hath Polonius slain,
-And from his mother's closet hath he dragg'd him.
+And from his mother_Gertrude's closet hath he dragg'd him.
 Go seek him out; speak fair, and bring the body
 Into the chapel. I pray you haste in this.
 [Exeunt [Rosencrantz and Guildenstern].]
@@ -5070,7 +5070,7 @@ xxx:
 
 
 rosencrantz:
-What have you done, my lord, with the dead body?
+What have you done, my lord_Hamlet, with the dead body?
 
 
 hamlet:
@@ -5093,16 +5093,16 @@ Believe what?
 hamlet:
 That I can keep your counsel, and not mine own. Besides, to be
 demanded of a sponge, what replication should be made by the son
-of a king?
+of a king_Ghost?
 
 
 rosencrantz:
-Take you me for a sponge, my lord?
+Take you me for a sponge, my lord_Hamlet?
 
 
 hamlet:
-Ay, sir; that soaks up the King's countenance, his rewards, 
-his authorities. But such officers do the King best service in
+Ay, sir_Rosencrantz; that soaks up the King_Claudius's countenance, his rewards, 
+his authorities. But such officers do the King_Claudius best service in
 the end. He keeps them, like an ape, in the corner of his jaw;
 first mouth'd, to be last swallowed. When he needs what you have
 glean'd, it is but squeezing you and, sponge, you shall be dry
@@ -5110,7 +5110,7 @@ again.
 
 
 rosencrantz:
-I understand you not, my lord.
+I understand you not, my lord_Hamlet.
 
 
 hamlet:
@@ -5118,17 +5118,17 @@ I am glad of it. A knavish speech sleeps in a foolish ear.
 
 
 rosencrantz:
-My lord, you must tell us where the body is and go with us to
-the King.
+My lord_Hamlet, you must tell us where the body is and go with us to
+the King_Claudius.
 
 
 hamlet:
-The body is with the King, but the King is not with the body.
-The King is a thing-
+The body is with the King_Claudius, but the King_Claudius is not with the body.
+The King_Claudius is a thing-
 
 
 guildenstern:
-A thing, my lord?
+A thing, my lord_Hamlet?
 
 
 hamlet:
@@ -5144,12 +5144,12 @@ xxx:
 Act 4, Scene 3
 
 xxx:
-[Enter King]
+[Enter King_Claudius]
 
 
 claudius:
 I have sent to seek him and to find the body.
-How dangerous is it that this man goes loose!
+How dangerous is it that this man_Hamlet goes loose!
 Yet must not we put the strong law on him.
 He's lov'd of the distracted multitude,
 Who like not in their judgment, but their eyes;
@@ -5173,7 +5173,7 @@ But where is he?
 
 
 rosencrantz:
-Without, my lord; guarded, to know your pleasure.
+Without, my lord_Claudius; guarded, to know your pleasure.
 
 
 claudius:
@@ -5181,7 +5181,7 @@ Bring him before us.
 
 
 rosencrantz:
-Ho, Guildenstern! Bring in my lord.
+Ho, Guildenstern! Bring in my lord_Hamlet.
 
 
 xxx:
@@ -5204,7 +5204,7 @@ hamlet:
 Not where he eats, but where he is eaten. A certain
 convocation of politic worms are e'en at him. Your worm is your
 only emperor for diet. We fat all creatures else to fat us, and
-we fat ourselves for maggots. Your fat king and your lean beggar
+we fat ourselves for maggots. Your fat king_Claudius and your lean beggar
 is but variable service- two dishes, but to one table. That's the
 end.
 
@@ -5214,7 +5214,7 @@ Alas, alas!
 
 
 hamlet:
-A man may fish with the worm that hath eat of a king, and eat
+A man may fish with the worm that hath eat of a king_Claudius, and eat
 of the fish that hath fed of that worm.
 
 
@@ -5223,7 +5223,7 @@ What dost thou mean by this?
 
 
 hamlet:
-Nothing but to show you how a king may go a progress through
+Nothing but to show you how a king_Claudius may go a progress through
 the guts of a beggar.
 
 
@@ -5278,16 +5278,16 @@ So is it, if thou knew'st our purposes.
 
 hamlet:
 I see a cherub that sees them. But come, for England!
-Farewell, dear mother.
+Farewell, dear mother_Gertrude.
 
 
 claudius:
-Thy loving father, Hamlet.
+Thy loving father_Ghost, Hamlet.
 
 
 hamlet:
-My mother! Father and mother is man and wife; man and wife is
-one flesh; and so, my mother. Come, for England!
+My mother_Gertrude! Father_Ghost and mother_Gertrude is man and wife; man and wife is
+one flesh; and so, my mother_Gertrude. Come, for England!
 
 
 xxx:
@@ -5322,17 +5322,17 @@ xxx:
 
 
 fortinbras:
-Go, Captain, from me greet the Danish king.
+Go, Captain_Norcapt, from me greet the Danish king_Claudius.
 Tell him that by his license Fortinbras
 Craves the conveyance of a promis'd march
 Over his kingdom. You know the rendezvous.
-If that his Majesty would aught with us,
+If that his Majesty_Claudius would aught with us,
 We shall express our duty in his eye;
 And let him know so.
 
 
 norcapt:
-I will do't, my lord.
+I will do't, my lord_Fortinbras.
 
 
 fortinbras:
@@ -5340,7 +5340,7 @@ Go softly on.
 
 
 xxx:
-[Exeunt (all but the Captain)]
+[Exeunt (all but the Captain_Norcapt)]
 
 
 xxx:
@@ -5348,15 +5348,15 @@ xxx:
 
 
 hamlet:
-Good sir, whose powers are these?
+Good sir_Norcapt, whose powers are these?
 
 
 norcapt:
-They are of Norway, sir.
+They are of Norway, sir_Hamlet.
 
 
 hamlet:
-How purpos'd, sir, I pray you?
+How purpos'd, sir_Norcapt, I pray you?
 
 
 norcapt:
@@ -5364,7 +5364,7 @@ Against some part of Poland.
 
 
 hamlet:
-Who commands them, sir?
+Who commands them, sir_Norcapt?
 
 
 norcapt:
@@ -5372,7 +5372,7 @@ The nephew to old Norway, Fortinbras.
 
 
 hamlet:
-Goes it against the main of Poland, sir,
+Goes it against the main of Poland, sir_Norcapt,
 Or for some frontier?
 
 
@@ -5398,15 +5398,15 @@ Two thousand souls and twenty thousand ducats
 Will not debate the question of this straw.
 This is th' imposthume of much wealth and peace,
 That inward breaks, and shows no cause without
-Why the man dies.- I humbly thank you, sir.
+Why the man dies.- I humbly thank you, sir_Norcapt.
 
 
 norcapt:
-God b' wi' you, sir.         [Exit.]
+God b' wi' you, sir_Hamlet.         [Exit.]
 
 
 rosencrantz:
-Will't please you go, my lord?
+Will't please you go, my lord_Hamlet?
 
 
 hamlet:
@@ -5437,7 +5437,7 @@ Even for an eggshell. Rightly to be great
 Is not to stir without great argument,
 But greatly to find quarrel in a straw
 When honour's at the stake. How stand I then,
-That have a father kill'd, a mother stain'd,
+That have a father_Ghost kill'd, a mother_Gertrude stain'd,
 Excitements of my reason and my blood,
 And let all sleep, while to my shame I see
 The imminent death of twenty thousand men
@@ -5454,7 +5454,7 @@ My thoughts be bloody, or be nothing worth!            Exit.
 Act 4, Scene 5
 
 xxx:
-[Enter Horatio, Queen, and a Gentleman]
+[Enter Horatio, Queen_Gertrude, and a Gentleman_Hamgent]
 
 
 gertrude:
@@ -5471,7 +5471,7 @@ What would she have?
 
 
 hamgent:
-She speaks much of her father; says she hears
+She speaks much of her father_Polonius; says she hears
 There's tricks i' th' world, and hems, and beats her heart;
 Spurns enviously at straws; speaks things in doubt,
 That carry but half sense. Her speech is nothing,
@@ -5490,7 +5490,7 @@ Dangerous conjectures in ill-breeding minds.
 
 gertrude:
 Let her come in. 
-[Exit Gentleman.]
+[Exit Gentleman_Hamgent.]
 [Aside] To my sick soul (as sin's true nature is)
 Each toy seems Prologue to some great amiss.
 So full of artless jealousy is guilt
@@ -5502,7 +5502,7 @@ xxx:
 
 
 ophelia:
-Where is the beauteous Majesty of Denmark?
+Where is the beauteous Majesty_Hamlet of Denmark?
 
 
 gertrude:
@@ -5518,12 +5518,12 @@ ophelia:
 
 
 gertrude:
-Alas, sweet lady, what imports this song?
+Alas, sweet lady_Ophelia, what imports this song?
 
 
 ophelia:
 Say you? Nay, pray You mark.
-(Sings) He is dead and gone, lady, 
+(Sings) He is dead and gone, lady_Ophelia, 
         He is dead and gone;
        At his head a grass-green turf,
          At his heels a stone.
@@ -5540,11 +5540,11 @@ Pray you mark.
 
 
 xxx:
-[Enter King]
+[Enter King_Claudia]
 
 
 gertrude:
-Alas, look here, my lord!
+Alas, look here, my lord_Claudia!
 
 
 ophelia:
@@ -5555,17 +5555,17 @@ ophelia:
 
 
 claudius:
-How do you, pretty lady?
+How do you, pretty lady_Ophelia?
 
 
 ophelia:
 Well, God dild you! They say the owl was a baker's daughter. 
-Lord, we know what we are, but know not what we may be. God be at
+Lord_Claudia, we know what we are, but know not what we may be. God be at
 your table!
 
 
 claudius:
-Conceit upon her father.
+Conceit upon her father_Polonius.
 
 
 ophelia:
@@ -5605,7 +5605,7 @@ How long hath she been thus?
 ophelia:
 I hope all will be well. We must be patient; but I cannot
 choose but weep to think they would lay him i' th' cold ground.
-My brother shall know of it; and so I thank you for your good
+My brother_Laertes shall know of it; and so I thank you for your good
 counsel. Come, my coach! Good night, ladies. Good night, sweet
 ladies. Good night, good night.     Exit
 
@@ -5614,10 +5614,10 @@ claudius:
 Follow her close; give her good watch, I pray you.
 [Exit Horatio.]
 O, this is the poison of deep grief; it springs
-All from her father's death. O Gertrude, Gertrude,
+All from her father_Polonius's death. O Gertrude, Gertrude,
 When sorrows come, they come not single spies.
-But in battalions! First, her father slain;
-Next, your son gone, and he most violent author
+But in battalions! First, her father_Polonius's slain;
+Next, your son_Hamlet gone, and he most violent author
 Of his own just remove; the people muddied,
 Thick and and unwholesome in their thoughts and whispers
 For good Polonius' death, and we have done but greenly
@@ -5625,10 +5625,10 @@ In hugger-mugger to inter him; poor Ophelia
 Divided from herself and her fair judgment,
 Without the which we are pictures or mere beasts;
 Last, and as much containing as all these,
-Her brother is in secret come from France;
+Her brother_Laertes is in secret come from France;
 Feeds on his wonder, keeps, himself in clouds,
 And wants not buzzers to infect his ear
-With pestilent speeches of his father's death,
+With pestilent speeches of his father_Polonius's death,
 Wherein necessity, of matter beggar'd,
 Will nothing stick our person to arraign
 In ear and ear. O my dear Gertrude, this,
@@ -5647,7 +5647,7 @@ What is the matter?
 
 
 messenger-ham:
-Save Yourself, my lord:
+Save Yourself, my lord_Claudius:
 The ocean, overpeering of his list,
 Eats not the flats with more impetuous haste
 Than Young Laertes, in a riotous head,
@@ -5678,7 +5678,7 @@ xxx:
 
 
 laertes:
-Where is this king?- Sirs, staid you all without.
+Where is this king_Claudius?- Sirs, staid you all without.
 
 
 all-ham:
@@ -5695,8 +5695,8 @@ We will, we will!
 
 laertes:
 I thank you. Keep the door.  [Exeunt his Followers.]
-O thou vile king,
-Give me my father!
+O thou vile king_Claudius,
+Give me my father_Polonius!
 
 
 gertrude:
