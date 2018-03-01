@@ -354,7 +354,7 @@ Nerissa, that I cannot choose one nor refuse none?
 
 
 Nerissa:
-Your father was ever virtuous; and holy men at their
+Your father_cato was ever virtuous; and holy men at their
 death have good inspirations: therefore the lottery,
 that he hath devised in these three chests of gold,
 silver and lead, whereof who chooses his meaning
@@ -371,7 +371,7 @@ description, level at my affection.
 
 
 Nerissa:
-First, there is the Neapolitan prince.
+First, there is the Neapolitan_prince.
 
 
 Portia-mv:
@@ -383,7 +383,7 @@ mother played false with a smith.
 
 
 Nerissa:
-Then there is the County Palatine.
+Then there is the County_Palatine.
 
 
 Portia-mv:
@@ -458,7 +458,7 @@ make shift to go without him.
 
 Nerissa:
 If he should offer to choose, and choose the right
-casket, you should refuse to perform your father's
+casket, you should refuse to perform your father_cato's
 will, if you should refuse to accept him.
 
 
@@ -475,7 +475,7 @@ You need not fear, lady, the having any of these
 lords: they have acquainted me with their
 determinations; which is, indeed, to return to their
 home and to trouble you with no more suit, unless
-you may be won by some other sort than your father's
+you may be won by some other sort than your father_cato's
 imposition depending on the caskets.
 
 
@@ -490,7 +490,7 @@ them a fair departure.
 
 Nerissa:
 Do you not remember, lady, in your father's time, a
-Venetian, a scholar and a soldier, that came hither
+Venetian_Bassanio, a scholar_Bassanio and a soldier_Bassanio, that came hither
 in company of the Marquis of Montferrat?
 
 
@@ -901,7 +901,7 @@ In terms of choice I am not solely led
 By nice direction of a maiden's eyes;
 Besides, the lottery of my destiny
 Bars me the right of voluntary choosing:
-But if my father had not scanted me
+But if my father_cato had not scanted me
 And hedged me by his wit, to yield myself
 His wife who wins me by that means I told you,
 Yourself, renowned prince, then stood as fair
@@ -1007,7 +1007,7 @@ to master Jew's?
 
 
 Launcelot:
-[Aside] O heavens, this is my true-begotten father!
+[Aside] O heavens, this is my true-begotten father_shylock!
 who, being more than sand-blind, high-gravel blind,
 knows me not: I will try confusions with him.
 
@@ -1175,7 +1175,7 @@ xxx:
 
 
 Launcelot:
-To him, father.
+To him, father_Gobbo.
 
 
 OldGobbo:
@@ -1191,7 +1191,7 @@ Here's my son, sir, a poor boy,--
 
 
 Launcelot:
-Not a poor boy, sir, but the rich Jew's man; that
+Not a poor boy, sir, but the rich Jew_shylock's man; that
 would, sir, as my father shall specify--
 
 
@@ -1200,12 +1200,12 @@ He hath a great infection, sir, as one would say, to serve--
 
 
 Launcelot:
-Indeed, the short and the long is, I serve the Jew,
+Indeed, the short and the long is, I serve the Jew_shylock,
 and have a desire, as my father shall specify--
 
 
 OldGobbo:
-His master and he, saving your worship's reverence,
+His master_jew and he, saving your worship's reverence,
 are scarce cater-cousins--
 
 
@@ -1253,8 +1253,8 @@ God, sir, and he hath enough.
 
 
 Bassanio:
-Thou speak'st it well. Go, father, with thy son.
-Take leave of thy old master and inquire
+Thou speak'st it well. Go, father_Gobbo, with thy son.
+Take leave of thy old master_shylock and inquire
 My lodging out. Give him a livery
 More guarded than his fellows': see it done.
 
@@ -1294,7 +1294,7 @@ xxx:
 
 
 Gratiano-mv:
-Where is your master?
+Where is your master_Bassanio?
 
 
 Leonardo:
@@ -1385,7 +1385,7 @@ xxx:
 
 
 Jessica:
-I am sorry thou wilt leave my father so:
+I am sorry thou wilt leave my father_Shylock so:
 Our house is hell, and thou, a merry devil,
 Didst rob it of some taste of tediousness.
 But fare thee well, there is a ducat for thee:
@@ -1478,7 +1478,7 @@ Whither goest thou?
 
 Launcelot:
 Marry, sir, to bid my old master the
-Jew to sup to-night with my new master the Christian.
+Jew_shylock to sup to-night with my new master the Christian.
 
 
 Lorenzo:
@@ -1583,7 +1583,7 @@ For I did dream of money-bags to-night.
 
 
 Launcelot:
-I beseech you, sir, go: my young master doth expect
+I beseech you, sir, go: my young master_antonio doth expect
 your reproach.
 
 
@@ -1715,7 +1715,7 @@ Sweet friends, your patience for my long abode;
 Not I, but my affairs, have made you wait:
 When you shall please to play the thieves for wives,
 I'll watch as long for you then. Approach;
-Here dwells my father Jew. Ho! who's within?
+Here dwells my father Jew_shylock. Ho! who's within?
 
 
 xxx:
@@ -2194,7 +2194,7 @@ xxx:
 
 
 Servant-mv:
-Where is my lady?
+Where is my lady_Portia?
 
 
 Portia-mv:
@@ -2284,7 +2284,7 @@ How now, Shylock! what news among the merchants?
 
 Shylock:
 You know, none so well, none so well as you, of my
-daughter's flight.
+daughter_jessica's flight.
 
 
 Salarino:
@@ -2299,7 +2299,7 @@ to leave the dam.
 
 
 Shylock:
-She is damned for it.
+daughter_jessica is damned for it.
 
 
 Salanio:
@@ -2466,7 +2466,7 @@ him: I am glad of it.
 
 Tubal:
 One of them showed me a ring that he had of your
-daughter for a monkey.
+daughter_jessica for a monkey.
 
 
 Shylock:
