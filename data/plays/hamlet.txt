@@ -5705,7 +5705,7 @@ Calmly, good Laertes.
 
 laertes:
 That drop of blood that's calm proclaims me bastard;
-Cries cuckold to my father; brands the harlot
+Cries cuckold to my father_Polonius; brands the harlot
 Even here between the chaste unsmirched brows
 Of my true mother.
 
@@ -5722,7 +5722,7 @@ Speak, man.
 
 
 laertes:
-Where is my father?
+Where is my father_Polonius?
 
 
 claudius:
@@ -5760,7 +5760,7 @@ They shall go far with little.
 claudius:
 Good Laertes,
 If you desire to know the certainty
-Of your dear father's death, is't writ in your revenge
+Of your dear father_Polonius's death, is't writ in your revenge
 That sweepstake you will draw both friend and foe,
 Winner and loser?
 
@@ -5782,7 +5782,7 @@ Repast them with my blood.
 claudius:
 Why, now You speak
 Like a good child and a true gentleman.
-That I am guiltless of your father's death,
+That I am guiltless of your father_Polonius's death,
 And am most sensibly in grief for it,
 It shall as level to your judgment pierce
 As day does to your eye.
@@ -5799,7 +5799,7 @@ O heat, dry up my brains! Tears seven times salt
 Burn out the sense and virtue of mine eye!
 By heaven, thy madness shall be paid by weight
 Till our scale turn the beam. O rose of May!
-Dear maid, kind sister, sweet Ophelia!
+Dear maid, kind sister_Ophelia, sweet Ophelia!
 O heavens! is't possible a young maid's wits
 Should be as mortal as an old man's life?
 Nature is fine in love, and where 'tis fine,
@@ -5843,7 +5843,7 @@ ophelia:
 There's fennel for you, and columbines. There's rue for you,
 and here's some for me. We may call it herb of grace o' Sundays.
 O, you must wear your rue with a difference! There's a daisy. I
-would give you some violets, but they wither'd all when my father
+would give you some violets, but they wither'd all when my father_Polonius
 died. They say he made a good end.
 [Sings] For bonny sweet Robin is all my joy.
 
@@ -5914,7 +5914,7 @@ xxx:
 Act 4, Scene 6
 
 xxx:
-[Enter Horatio with an Attendant]
+[Enter Horatio with an Attendant_Servant-ham]
 
 
 horatio:
@@ -5952,7 +5952,7 @@ your name be Horatio, as I am let to know it is.
 
 horatio:
 [reads the letter] 'Horatio, when thou shalt have overlook'd
-this, give these fellows some means to the King. They have
+this, give these fellows some means to the King_Claudius. They have
 letters for him. Ere we were two days old at sea, a pirate of
 very warlike appointment gave us chase. Finding ourselves too
 slow of sail, we put on a compelled valour, and in the grapple I
@@ -5976,7 +5976,7 @@ To him from whom you brought them. Exeunt.
 Act 4, Scene 7
 
 xxx:
-[Enter King and Laertes]
+[Enter King_Claudius and Laertes]
 
 
 claudius:
@@ -5998,7 +5998,7 @@ You mainly were stirr'd up.
 claudius:
 O, for two special reasons,
 Which may to you, perhaps, seem much unsinew'd,
-But yet to me they are strong. The Queen his mother
+But yet to me they are strong. The Queen_Gertrude his mother
 Lives almost by his looks; and for myself,-
 My virtue or my plague, be it either which,-
 She's so conjunctive to my life and soul
@@ -6015,8 +6015,8 @@ And not where I had aim'd them.
 
 
 laertes:
-And so have I a noble father lost;
-A sister driven into desp'rate terms,
+And so have I a noble father_Polonius lost;
+A sister_Ophelia driven into desp'rate terms,
 Whose worth, if praises may go back again,
 Stood challenger on mount of all the age
 For her perfections. But my revenge will come.
@@ -6027,7 +6027,7 @@ Break not your sleeps for that. You must not think
 That we are made of stuff so flat and dull
 That we can let our beard be shook with danger,
 And think it pastime. You shortly shall hear more.
-I lov'd your father, and we love ourself,
+I lov'd your father_Polonius, and we love ourself,
 And that, I hope, will teach you to imagine- 
 [Enter a Messenger with letters.]
 How now? What news?
@@ -6035,7 +6035,7 @@ How now? What news?
 
 messenger-ham:
 Letters, my lord, from Hamlet:
-This to your Majesty; this to the Queen.
+This to your Majesty_Claudius; this to the Queen_Gertrude.
 
 
 claudius:
@@ -6095,7 +6095,7 @@ No more to undertake it, I will work him
 To exploit now ripe in my device,
 Under the which he shall not choose but fall;
 And for his death no wind shall breathe
-But even his mother shall uncharge the practice 
+But even his mother_Gertrude shall uncharge the practice 
 And call it accident.
 
 
@@ -6137,11 +6137,11 @@ Come short of what he did.
 
 
 laertes:
-A Norman was't?
+A Norman_Lamound was't?
 
 
 claudius:
-A Norman.
+A Norman_Lamound.
 
 
 laertes:
@@ -6177,7 +6177,7 @@ What out of this, my lord?
 
 
 claudius:
-Laertes, was your father dear to you?
+Laertes, was your father_Polonius dear to you?
 Or are you like the painting of a sorrow,
 A face without a heart,'
 
@@ -6187,7 +6187,7 @@ Why ask you this?
 
 
 claudius:
-Not that I think you did not love your father;
+Not that I think you did not love your father_Polonius;
 But that I know love is begun by time,
 And that I see, in passages of proof,
 Time qualifies the spark and fire of it.
@@ -6202,7 +6202,7 @@ As there are tongues, are hands, are accidents;
 And then this 'should' is like a spendthrift sigh,
 That hurts by easing. But to the quick o' th' ulcer!
 Hamlet comes back. What would you undertake
-To show yourself your father's son in deed
+To show yourself your father_Ghost's son in deed
 More than in words?
 
 
@@ -6223,7 +6223,7 @@ Most generous, and free from all contriving,
 Will not peruse the foils; so that with ease,
 Or with a little shuffling, you may choose
 A sword unbated, and, in a pass of practice,
-Requite him for your father. 
+Requite him for your father_Ghost. 
 
 
 laertes:
@@ -6256,12 +6256,12 @@ A chalice for the nonce; whereon but sipping,
 If he by chance escape your venom'd stuck,
 Our purpose may hold there.- But stay, what noise,
 [Enter Queen.]
-How now, sweet queen?
+How now, sweet queen_Gertrude?
 
 
 gertrude:
 One woe doth tread upon another's heel,
-So fast they follow. Your sister's drown'd, Laertes.
+So fast they follow. Your sister_Ophelia's drown'd, Laertes.
 
 
 laertes:
@@ -6630,7 +6630,7 @@ his kibe.- How long hast thou been a grave-maker?
 
 clown1-ham:
 Of all the days i' th' year, I came to't that day that our
-last king Hamlet overcame Fortinbras.
+last king Hamlet_Ghost overcame Fortinbras.
 
 
 hamlet:
@@ -6723,7 +6723,7 @@ Nay, I know not.
 clown1-ham:
 A pestilence on him for a mad rogue! 'A pour'd a flagon of
 Rhenish on my head once. This same skull, sir, was Yorick's
-skull, the King's jester.
+skull, the King_Claudius's jester.
 
 
 hamlet:
@@ -6792,10 +6792,10 @@ Imperious Caesar, dead and turn'd to clay,
 Might stop a hole to keep the wind away.
 O, that that earth which kept the world in awe
 Should patch a wall t' expel the winter's flaw!
-But soft! but soft! aside! Here comes the King-
-Enter [priests with] a coffin [in funeral procession], King,
-[Queen, Laertes, with Lords attendant.]
-The Queen, the courtiers. Who is this they follow?
+But soft! but soft! aside! Here comes the King_Claudius-
+Enter [priests with] a coffin [in funeral procession], King_Claudius,
+[Queen_Gertrude, Laertes, with Lords attendant.]
+The Queen_Gertrude, the courtiers. Who is this they follow?
 And with such maimed rites? This doth betoken
 The corse they follow did with desp'rate hand
 Fordo it own life. 'Twas of some estate.
@@ -6846,7 +6846,7 @@ laertes:
 Lay her i' th' earth;
 And from her fair and unpolluted flesh 
 May violets spring! I tell thee, churlish priest,
-A minist'ring angel shall my sister be
+A minist'ring angel shall my sister_Ophelia be
 When thou liest howling.
 
 
@@ -6858,7 +6858,7 @@ gertrude:
 Sweets to the sweet! Farewell.
 [Scatters flowers.]
 I hop'd thou shouldst have been my Hamlet's wife;
-I thought thy bride-bed to have deck'd, sweet maid,
+I thought thy bride-bed to have deck'd, sweet maid_Ophelia,
 And not have strew'd thy grave.
 
 
@@ -6925,7 +6925,7 @@ Until my eyelids will no longer wag.
 
 
 gertrude:
-O my son, what theme? 
+O my son_Hamlet, what theme? 
 
 
 hamlet:
