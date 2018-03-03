@@ -1,4 +1,5 @@
-Act 1, Scene 1
+----------------------------------------
+[Act 1, Scene 1
 
 xxx:
 [Thunder and lightning. Enter three Witches]
@@ -53,7 +54,7 @@ xxx:
 
 ----------------------------------------
 
-Act 1, Scene 2
+[Act 1, Scene 2
 
 xxx:
 [Alarum within. Enter DUNCAN, MALCOLM, DONALBAIN,]
@@ -61,7 +62,7 @@ LENNOX, with Attendants, meeting a bleeding Sergeant]
 
 
 duncan:
-What bloody man is that? He can report,
+What bloody man_Sergeant is that? He can report,
 As seemeth by his plight, of the revolt
 The newest state.
 
@@ -70,7 +71,7 @@ malcolm:
 This is the sergeant
 Who like a good and hardy soldier fought
 'Gainst my captivity. Hail, brave friend!
-Say to the king the knowledge of the broil
+Say to the king_Duncan the knowledge of the broil
 As thou didst leave it.
 
 
@@ -83,7 +84,7 @@ The multiplying villanies of nature
 Do swarm upon him--from the western isles
 Of kerns and gallowglasses is supplied;
 And fortune, on his damned quarrel smiling,
-Show'd like a rebel's whore: but all's too weak:
+Show'd like a rebel's whore; but all's too weak;
 For brave Macbeth--well he deserves that name--
 Disdaining fortune, with his brandish'd steel,
 Which smoked with bloody execution,
@@ -102,7 +103,7 @@ sergeant-mac:
 As whence the sun 'gins his reflection
 Shipwrecking storms and direful thunders break,
 So from that spring whence comfort seem'd to come
-Discomfort swells. Mark, king of Scotland, mark:
+Discomfort swells. Mark, king of Scotland, mark;
 No sooner justice had with valour arm'd
 Compell'd these skipping kerns to trust their heels,
 But the Norweyan lord surveying vantage,
@@ -120,7 +121,7 @@ Yes;
 As sparrows eagles, or the hare the lion.
 If I say sooth, I must report they were
 As cannons overcharged with double cracks, so they
-Doubly redoubled strokes upon the foe:
+Doubly redoubled strokes upon the foe;
 Except they meant to bathe in reeking wounds,
 Or memorise another Golgotha,
 I cannot tell.
@@ -165,7 +166,7 @@ The thane of Cawdor, began a dismal conflict;
 Till that Bellona's bridegroom, lapp'd in proof,
 Confronted him with self-comparisons,
 Point against point rebellious, arm 'gainst arm.
-Curbing his lavish spirit: and, to conclude,
+Curbing his lavish spirit; and, to conclude,
 The victory fell on us.
 
 
@@ -175,7 +176,7 @@ Great happiness!
 
 ross:
 That now
-Sweno, the Norways' king, craves composition:
+Sweno, the Norways' king, craves composition;
 Nor would we deign him burial of his men
 Till he disbursed at Saint Colme's inch
 Ten thousand dollars to our general use.
@@ -183,7 +184,7 @@ Ten thousand dollars to our general use.
 
 duncan:
 No more that thane of Cawdor shall deceive
-Our bosom interest: go pronounce his present death,
+Our bosom interest; go pronounce his present death,
 And with his former title greet Macbeth.
 
 
@@ -201,14 +202,14 @@ xxx:
 
 ----------------------------------------
 
-Act 1, Scene 3
+[Act 1, Scene 3
 
 xxx:
 [Thunder. Enter the three Witches]
 
 
 1witch-mac:
-Where hast thou been, sister?
+Where hast thou been, sister-2witch?
 
 
 2witch-mac:
@@ -216,15 +217,15 @@ Killing swine.
 
 
 3witch-mac:
-Sister, where thou?
+Sister-1witch, where thou?
 
 
 1witch-mac:
 A sailor's wife had chestnuts in her lap,
-And munch'd, and munch'd, and munch'd:--
-'Give me,' quoth I:
+And munch'd, and munch'd, and munch’d;—
+'Give me,' quoth I;
 'Aroint thee, witch!' the rump-fed ronyon cries.
-Her husband's to Aleppo gone, master o' the Tiger:
+Her husband's to Aleppo gone, master o' the Tiger;
 But in a sieve I'll thither sail,
 And, like a rat without a tail,
 I'll do, I'll do, and I'll do.
@@ -247,12 +248,12 @@ I myself have all the other,
 And the very ports they blow,
 All the quarters that they know
 I' the shipman's card.
-I will drain him dry as hay:
+I will drain him dry as hay;
 Sleep shall neither night nor day
 Hang upon his pent-house lid;
-He shall live a man forbid:
+He shall live a man forbid;
 Weary se'nnights nine times nine
-Shall he dwindle, peak and pine:
+Shall he dwindle, peak and pine;
 Though his bark cannot be lost,
 Yet it shall be tempest-tost.
 Look what I have.
@@ -279,7 +280,7 @@ Macbeth doth come.
 all-mac:
 The weird sisters, hand in hand,
 Posters of the sea and land,
-Thus do go about, about:
+Thus do go about, about;
 Thrice to thine and thrice to mine
 And thrice again, to make up nine.
 Peace! the charm's wound up.
@@ -300,13 +301,13 @@ That look not like the inhabitants o' the earth,
 And yet are on't? Live you? or are you aught
 That man may question? You seem to understand me,
 By each at once her chappy finger laying
-Upon her skinny lips: you should be women,
+Upon her skinny lips; you should be women,
 And yet your beards forbid me to interpret
 That you are so.
 
 
 macbeth:
-Speak, if you can: what are you?
+Speak, if you can; what are you?
 
 
 1witch-mac:
@@ -318,7 +319,7 @@ All hail, Macbeth, hail to thee, thane of Cawdor!
 
 
 3witch-mac:
-All hail, Macbeth, thou shalt be king hereafter!
+All hail, Macbeth, thou shalt be king_Macbeth hereafter!
 
 
 banquo:
@@ -328,7 +329,7 @@ Are ye fantastical, or that indeed
 Which outwardly ye show? My noble partner
 You greet with present grace and great prediction
 Of noble having and of royal hope,
-That he seems rapt withal: to me you speak not.
+That he seems rapt withal; to me you speak not.
 If you can look into the seeds of time,
 And say which grain will grow and which will not,
 Speak then to me, who neither beg nor fear
@@ -356,7 +357,7 @@ Not so happy, yet much happier.
 
 
 3witch-mac:
-Thou shalt get kings, though thou be none:
+Thou shalt get kings, though thou be none;
 So all hail, Macbeth and Banquo!
 
 
@@ -365,7 +366,7 @@ Banquo and Macbeth, all hail!
 
 
 macbeth:
-Stay, you imperfect speakers, tell me more:
+Stay, you imperfect speakers, tell me more;
 By Sinel's death I know I am thane of Glamis;
 But how of Cawdor? the thane of Cawdor lives,
 A prosperous gentleman; and to be king
@@ -401,7 +402,7 @@ Your children shall be kings.
 
 
 banquo:
-You shall be king.
+You shall be king_Macbeth.
 
 
 macbeth:
@@ -554,7 +555,7 @@ xxx:
 
 ----------------------------------------
 
-Act 1, Scene 4
+[Act 1, Scene 4
 
 xxx:
 [Flourish. Enter DUNCAN, MALCOLM, DONALBAIN, LENNOX, and Attendants]
@@ -634,7 +635,7 @@ And bind us further to you.
 macbeth:
 The rest is labour, which is not used for you:
 I'll be myself the harbinger and make joyful
-The hearing of my wife with your approach;
+The hearing of my wife_ladymacbeth with your approach;
 So humbly take my leave.
 
 
@@ -669,7 +670,7 @@ xxx:
 
 ----------------------------------------
 
-Act 1, Scene 5
+[Act 1, Scene 5
 
 xxx:
 [Enter LADY MACBETH, reading a letter]
@@ -799,7 +800,7 @@ xxx:
 
 ----------------------------------------
 
-Act 1, Scene 6
+[Act 1, Scene 6
 
 xxx:
 [Hautboys and torches. Enter DUNCAN, MALCOLM,]
@@ -874,7 +875,7 @@ xxx:
 
 ----------------------------------------
 
-Act 1, Scene 7
+[Act 1, Scene 7
 
 xxx:
 [Hautboys and torches. Enter a Sewer, and divers]
@@ -1020,7 +1021,7 @@ xxx:
 ****************************************
 
 
-Act 2, Scene 1
+[Act 2, Scene 1
 
 xxx:
 [Enter BANQUO, and FLEANCE bearing a torch before him]
@@ -1059,7 +1060,7 @@ A friend.
 
 
 banquo:
-What, sir, not yet at rest? The king's a-bed:
+What, sir, not yet at rest? The king_Duncan’s a-bed:
 He hath been in unusual pleasure, and
 Sent forth great largess to your offices.
 This diamond he greets your wife withal,
@@ -1159,7 +1160,7 @@ xxx:
 
 ----------------------------------------
 
-Act 2, Scene 2
+[Act 2, Scene 2
 
 xxx:
 [Enter LADY MACBETH]
@@ -1187,9 +1188,9 @@ Alack, I am afraid they have awaked,
 And 'tis not done. The attempt and not the deed
 Confounds us. Hark! I laid their daggers ready;
 He could not miss 'em. Had he not resembled
-My father as he slept, I had done't.
+My father_Lady as he slept, I had done't.
 [Enter MACBETH]
-My husband!
+My husband_Macbeth!
 
 
 macbeth:
@@ -1362,7 +1363,7 @@ xxx:
 
 ----------------------------------------
 
-Act 2, Scene 3
+[Act 2, Scene 3
 
 xxx:
 [Knocking within. Enter a Porter]
@@ -1446,7 +1447,7 @@ I believe drink gave thee the lie last night.
 
 porter-mac:
 That it did, sir, i' the very throat on
-me: but I requited him for his lie; and, I
+me; but I requited him for his lie; and, I
 think, being too strong for him, though he took
 up my legs sometime, yet I made a shift to cast
 him.
@@ -1762,7 +1763,7 @@ xxx:
 
 ----------------------------------------
 
-Act 2, Scene 4
+[Act 2, Scene 4
 
 xxx:
 [Enter ROSS and an old Man]
@@ -1890,7 +1891,7 @@ xxx:
 ****************************************
 
 
-Act 3, Scene 1
+[Act 3, Scene 1
 
 xxx:
 [Enter BANQUO]
@@ -2162,7 +2163,7 @@ xxx:
 
 ----------------------------------------
 
-Act 3, Scene 2
+[Act 3, Scene 2
 
 xxx:
 [Enter LADY MACBETH and a Servant]
@@ -2283,7 +2284,7 @@ xxx:
 
 ----------------------------------------
 
-Act 3, Scene 3
+[Act 3, Scene 3
 
 xxx:
 [Enter three Murderers]
@@ -2399,7 +2400,7 @@ xxx:
 
 ----------------------------------------
 
-Act 3, Scene 4
+[Act 3, Scene 4
 
 xxx:
 [A banquet prepared. Enter MACBETH, LADY MACBETH,]
@@ -2763,7 +2764,7 @@ xxx:
 
 ----------------------------------------
 
-Act 3, Scene 5
+[Act 3, Scene 5
 
 xxx:
 [Thunder. Enter the three Witches meeting HECATE]
@@ -2825,7 +2826,7 @@ xxx:
 
 ----------------------------------------
 
-Act 3, Scene 6
+[Act 3, Scene 6
 
 xxx:
 [Enter LENNOX and another Lord]
@@ -2911,7 +2912,7 @@ xxx:
 ****************************************
 
 
-Act 4, Scene 1
+[Act 4, Scene 1
 
 xxx:
 [Thunder. Enter the three Witches]
@@ -3307,7 +3308,7 @@ xxx:
 
 ----------------------------------------
 
-Act 4, Scene 2
+[Act 4, Scene 2
 
 xxx:
 [Enter LADY MACDUFF, her Son, and ROSS]
@@ -3346,7 +3347,7 @@ So runs against all reason.
 
 ross:
 My dearest coz,
-I pray you, school yourself: but for your husband,
+I pray you, school yourself: but for your husband_Macduff,
 He is noble, wise, judicious, and best knows
 The fits o' the season. I dare not speak
 much further;
@@ -3476,7 +3477,7 @@ But how wilt thou do for a father?
 
 son-mac:
 If he were dead, you'ld weep for
-him: if you would not, it were a good sign
+him; if you would not, it were a good sign
 that I should quickly have a new father.
 
 
@@ -3517,7 +3518,7 @@ What are these faces?
 
 
 1murderer:
-Where is your husband?
+Where is your husband_Macduff?
 
 
 ladymacduff:
@@ -3549,7 +3550,7 @@ Murderers, following her]
 
 ----------------------------------------
 
-Act 4, Scene 3
+[Act 4, Scene 3
 
 xxx:
 [Enter MALCOLM and MACDUFF]
@@ -4050,7 +4051,7 @@ xxx:
 ****************************************
 
 
-Act 5, Scene 1
+[Act 5, Scene 1
 
 xxx:
 [Enter a Doctor of Physic and a Waiting-Gentlewoman]
@@ -4155,7 +4156,7 @@ Go to, go to; you have known what you should not.
 
 gentlewoman-mac:
 She has spoke what she should not, I am sure of
-that: heaven knows what she has known.
+that; heaven knows what she has known.
 
 
 ladymacbeth:
@@ -4237,7 +4238,7 @@ xxx:
 
 ----------------------------------------
 
-Act 5, Scene 2
+[Act 5, Scene 2
 
 xxx:
 [Drum and colours. Enter MENTEITH, CAITHNESS, ANGUS,]
@@ -4317,7 +4318,7 @@ xxx:
 
 ----------------------------------------
 
-Act 5, Scene 3
+[Act 5, Scene 3
 
 xxx:
 [Enter MACBETH, Doctor, and Attendants]
@@ -4466,7 +4467,7 @@ xxx:
 
 ----------------------------------------
 
-Act 5, Scene 4
+[Act 5, Scene 4
 
 xxx:
 [Drum and colours. Enter MALCOLM, SIWARD and YOUNG]
@@ -4537,7 +4538,7 @@ xxx:
 
 ----------------------------------------
 
-Act 5, Scene 5
+[Act 5, Scene 5
 
 xxx:
 [Enter MACBETH, SEYTON, and Soldiers, with drum and colours]
@@ -4646,7 +4647,7 @@ xxx:
 
 ----------------------------------------
 
-Act 5, Scene 6
+[Act 5, Scene 6
 
 xxx:
 [Drum and colours. Enter MALCOLM, SIWARD, MACDUFF,]
@@ -4679,7 +4680,7 @@ xxx:
 
 ----------------------------------------
 
-Act 5, Scene 7
+[Act 5, Scene 7
 
 xxx:
 [Alarums. Enter MACBETH]
@@ -4789,7 +4790,7 @@ xxx:
 
 ----------------------------------------
 
-Act 5, Scene 8
+[Act 5, Scene 8
 
 xxx:
 [Enter MACBETH]
@@ -4934,12 +4935,12 @@ xxx:
 
 
 macduff:
-Hail, king! for so thou art: behold, where stands
+Hail, king_Malcolm! for so thou art: behold, where stands
 The usurper's cursed head: the time is free:
 I see thee compass'd with thy kingdom's pearl,
 That speak my salutation in their minds;
 Whose voices I desire aloud with mine:
-Hail, King of Scotland!
+Hail, King_Malcolm of Scotland!
 
 
 all-mac:
