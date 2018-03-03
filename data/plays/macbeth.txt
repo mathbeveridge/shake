@@ -1,5 +1,5 @@
 ----------------------------------------
-[Act 1, Scene 1
+# Act 1, Scene 1
 
 xxx:
 [Thunder and lightning. Enter three Witches]
@@ -54,7 +54,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 1, Scene 2
+# Act 1, Scene 2
 
 xxx:
 [Alarum within. Enter DUNCAN, MALCOLM, DONALBAIN,]
@@ -103,7 +103,7 @@ sergeant-mac:
 As whence the sun 'gins his reflection
 Shipwrecking storms and direful thunders break,
 So from that spring whence comfort seem'd to come
-Discomfort swells. Mark, king of Scotland, mark;
+Discomfort swells. Mark, king_Duncan of Scotland, mark;
 No sooner justice had with valour arm'd
 Compell'd these skipping kerns to trust their heels,
 But the Norweyan lord surveying vantage,
@@ -149,7 +149,7 @@ That seems to speak things strange.
 
 
 ross:
-God save the king!
+God save the king_Duncan!
 
 
 duncan:
@@ -157,12 +157,12 @@ Whence camest thou, worthy thane?
 
 
 ross:
-From Fife, great king;
+From Fife, great king_Duncan;
 Where the Norweyan banners flout the sky
 And fan our people cold. Norway himself,
 With terrible numbers,
 Assisted by that most disloyal traitor
-The thane of Cawdor, began a dismal conflict;
+The thane of Cawdor_traitor, began a dismal conflict;
 Till that Bellona's bridegroom, lapp'd in proof,
 Confronted him with self-comparisons,
 Point against point rebellious, arm 'gainst arm.
@@ -183,7 +183,7 @@ Ten thousand dollars to our general use.
 
 
 duncan:
-No more that thane of Cawdor shall deceive
+No more that thane of Cawdor_traitor shall deceive
 Our bosom interest; go pronounce his present death,
 And with his former title greet Macbeth.
 
@@ -202,7 +202,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 1, Scene 3
+# Act 1, Scene 3
 
 xxx:
 [Thunder. Enter the three Witches]
@@ -368,8 +368,8 @@ Banquo and Macbeth, all hail!
 macbeth:
 Stay, you imperfect speakers, tell me more;
 By Sinel's death I know I am thane of Glamis;
-But how of Cawdor? the thane of Cawdor lives,
-A prosperous gentleman; and to be king
+But how of Cawdor? the thane of Cawdor_traitor lives,
+A prosperous gentleman; and to be king_Macbeth
 Stands not within the prospect of belief,
 No more than to be Cawdor. Say from whence
 You owe this strange intelligence? or why
@@ -418,7 +418,7 @@ xxx:
 
 
 ross:
-The king hath happily received, Macbeth,
+The king_Duncan hath happily received, Macbeth,
 The news of thy success; and when he reads
 Thy personal venture in the rebels' fight,
 His wonders and his praises do contend
@@ -434,7 +434,7 @@ And pour'd them down before him.
 
 angus:
 We are sent
-To give thee from our royal master thanks;
+To give thee from our royal master_Duncan thanks;
 Only to herald thee into his sight,
 Not pay thee.
 
@@ -451,12 +451,12 @@ What, can the devil speak true?
 
 
 macbeth:
-The thane of Cawdor lives: why do you dress me
+The thane of Cawdor_traitor lives: why do you dress me
 In borrow'd robes?
 
 
 angus:
-Who was the thane lives yet;
+Who was the thane_traitor lives yet;
 But under heavy judgment bears that life
 Which he deserves to lose. Whether he was combined
 With those of Norway, or did line the rebel
@@ -512,7 +512,7 @@ Look, how our partner's rapt.
 
 
 macbeth:
-[Aside] If chance will have me king, why, chance may crown me,
+[Aside] If chance will have me king_Macbeth, why, chance may crown me,
 Without my stir.
 
 
@@ -535,7 +535,7 @@ macbeth:
 Give me your favour: my dull brain was wrought
 With things forgotten. Kind gentlemen, your pains
 Are register'd where every day I turn
-The leaf to read them. Let us toward the king.
+The leaf to read them. Let us toward the king_Duncan.
 Think upon what hath chanced, and, at more time,
 The interim having weigh'd it, let us speak
 Our free hearts each to other.
@@ -555,14 +555,14 @@ xxx:
 
 ----------------------------------------
 
-[Act 1, Scene 4
+# Act 1, Scene 4
 
 xxx:
 [Flourish. Enter DUNCAN, MALCOLM, DONALBAIN, LENNOX, and Attendants]
 
 
 duncan:
-Is execution done on Cawdor? Are not
+Is execution done on Cawdor_traitor? Are not
 Those in commission yet return'd?
 
 
@@ -597,7 +597,7 @@ More is thy due than more than all can pay.
 
 macbeth:
 The service and the loyalty I owe,
-In doing it, pays itself. Your highness' part
+In doing it, pays itself. Your highness_Duncan part
 Is to receive our duties; and our duties
 Are to your throne and state children and servants,
 Which do but what they should, by doing every thing
@@ -670,7 +670,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 1, Scene 5
+# Act 1, Scene 5
 
 xxx:
 [Enter LADY MACBETH, reading a letter]
@@ -682,10 +682,10 @@ learned by the perfectest report, they have more in
 them than mortal knowledge. When I burned in desire
 to question them further, they made themselves air,
 into which they vanished. Whiles I stood rapt in
-the wonder of it, came missives from the king, who
+the wonder of it, came missives from the king_Duncan, who
 all-hailed me 'Thane of Cawdor;' by which title,
 before, these weird sisters saluted me, and referred
-me to the coming on of time, with 'Hail, king that
+me to the coming on of time, with 'Hail, king_Macbeth that
 shalt be!' This have I thought good to deliver
 thee, my dearest partner of greatness, that thou
 mightst not lose the dues of rejoicing, by being
@@ -712,17 +712,17 @@ What is your tidings?
 
 
 messenger-mac:
-The king comes here to-night.
+The king_Duncan comes here to-night.
 
 
 ladymacbeth:
 Thou'rt mad to say it:
-Is not thy master with him? who, were't so,
+Is not thy master_Macbeth with him? who, were't so,
 Would have inform'd for preparation.
 
 
 messenger-mac:
-So please you, it is true: our thane is coming:
+So please you, it is true: our thane_Macbeth is coming:
 One of my fellows had the speed of him,
 Who, almost dead for breath, had scarcely more
 Than would make up his message.
@@ -800,7 +800,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 1, Scene 6
+# Act 1, Scene 6
 
 xxx:
 [Hautboys and torches. Enter DUNCAN, MALCOLM,]
@@ -851,7 +851,7 @@ Where's the thane of Cawdor?
 We coursed him at the heels, and had a purpose
 To be his purveyor: but he rides well;
 And his great love, sharp as his spur, hath holp him
-To his home before us. Fair and noble hostess,
+To his home before us. Fair and noble hostess_ladymacbeth,
 We are your guest to-night.
 
 
@@ -866,7 +866,7 @@ duncan:
 Give me your hand;
 Conduct me to mine host: we love him highly,
 And shall continue our graces towards him.
-By your leave, hostess.
+By your leave, hostess_ladymacbeth.
 
 
 xxx:
@@ -875,7 +875,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 1, Scene 7
+# Act 1, Scene 7
 
 xxx:
 [Hautboys and torches. Enter a Sewer, and divers]
@@ -1021,7 +1021,7 @@ xxx:
 ****************************************
 
 
-[Act 2, Scene 1
+# Act 2, Scene 1
 
 xxx:
 [Enter BANQUO, and FLEANCE bearing a torch before him]
@@ -1063,8 +1063,8 @@ banquo:
 What, sir, not yet at rest? The king_Duncan’s a-bed:
 He hath been in unusual pleasure, and
 Sent forth great largess to your offices.
-This diamond he greets your wife withal,
-By the name of most kind hostess; and shut up
+This diamond he greets your wife_ladymacbeth withal,
+By the name of most kind hostess_ladymacbeth; and shut up
 In measureless content.
 
 
@@ -1160,7 +1160,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 2, Scene 2
+# Act 2, Scene 2
 
 xxx:
 [Enter LADY MACBETH]
@@ -1293,7 +1293,7 @@ Shall sleep no more; Macbeth shall sleep no more.'
 
 
 ladymacbeth:
-Who was it that thus cried? Why, worthy thane,
+Who was it that thus cried? Why, worthy thane_Macbeth,
 You do unbend your noble strength, to think
 So brainsickly of things. Go get some water,
 And wash this filthy witness from your hand.
@@ -1363,7 +1363,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 2, Scene 3
+# Act 2, Scene 3
 
 xxx:
 [Knocking within. Enter a Porter]
@@ -1454,7 +1454,7 @@ him.
 
 
 macduff:
-Is thy master stirring?
+Is thy master_Macbeth stirring?
 [Enter MACBETH]
 Our knocking has awaked him; here he comes.
 
@@ -1468,7 +1468,7 @@ Good morrow, both.
 
 
 macduff:
-Is the king stirring, worthy thane?
+Is the king_duncan stirring, worthy thane_Macbeth?
 
 
 macbeth:
@@ -1504,7 +1504,7 @@ xxx:
 
 
 lennox:
-Goes the king hence to-day?
+Goes the king_Duncan hence to-day?
 
 
 macbeth:
@@ -1556,7 +1556,7 @@ What is 't you say? the life?
 
 
 lennox:
-Mean you his majesty?
+Mean you his majesty_Duncan?
 
 
 macduff:
@@ -1595,7 +1595,7 @@ The repetition, in a woman's ear,
 Would murder as it fell.
 [Enter BANQUO]
 O Banquo, Banquo,
-Our royal master 's murder'd!
+Our royal master_Duncan 's murder'd!
 
 
 ladymacbeth:
@@ -1637,7 +1637,7 @@ Is stopp'd; the very source of it is stopp'd.
 
 
 macduff:
-Your royal father 's murder'd.
+Your royal father_Duncan 's murder'd.
 
 
 malcolm:
@@ -1681,7 +1681,7 @@ Help me hence, ho!
 
 
 macduff:
-Look to the lady.
+Look to the lady_macbeth.
 
 
 malcolm:
@@ -1703,7 +1703,7 @@ Upon the foot of motion.
 
 
 banquo:
-Look to the lady:
+Look to the lady_macbeth:
 [LADY MACBETH is carried out]
 And when we have our naked frailties hid,
 That suffer in exposure, let us meet,
@@ -1763,7 +1763,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 2, Scene 4
+# Act 2, Scene 4
 
 xxx:
 [Enter ROSS and an old Man]
@@ -1777,7 +1777,7 @@ Hath trifled former knowings.
 
 
 ross:
-Ah, good father,
+Ah, good father_oldman,
 Thou seest, the heavens, as troubled with man's act,
 Threaten his bloody stage: by the clock, 'tis day,
 And yet dark night strangles the travelling lamp:
@@ -1863,7 +1863,7 @@ Will you to Scone?
 
 
 macduff:
-No, cousin, I'll to Fife.
+No, cousin_ross, I'll to Fife.
 
 
 ross:
@@ -1876,7 +1876,7 @@ Lest our old robes sit easier than our new!
 
 
 ross:
-Farewell, father.
+Farewell, father_Macduff.
 
 
 oldman-mac:
@@ -1891,14 +1891,14 @@ xxx:
 ****************************************
 
 
-[Act 3, Scene 1
+# Act 3, Scene 1
 
 xxx:
 [Enter BANQUO]
 
 
 banquo:
-Thou hast it now: king, Cawdor, Glamis, all,
+Thou hast it now: king_Macbeth, Cawdor, Glamis, all,
 As the weird women promised, and, I fear,
 Thou play'dst most foully for't: yet it was said
 It should not stand in thy posterity,
@@ -1908,8 +1908,8 @@ As upon thee, Macbeth, their speeches shine--
 Why, by the verities on thee made good,
 May they not be my oracles as well,
 And set me up in hope? But hush! no more.
-[Sennet sounded. Enter MACBETH, as king, LADY]
-MACBETH, as queen, LENNOX, ROSS, Lords, Ladies, and Attendants]
+[Sennet sounded. Enter MACBETH, as king_Macbeth, LADY]
+MACBETH, as queen_ladymacbeth, LENNOX, ROSS, Lords, Ladies, and Attendants]
 
 
 macbeth:
@@ -2008,9 +2008,9 @@ To act in safety. There is none but he
 Whose being I do fear: and, under him,
 My Genius is rebuked; as, it is said,
 Mark Antony's was by Caesar. He chid the sisters
-When first they put the name of king upon me,
+When first they put the name of king_Macbeth upon me,
 And bade them speak to him: then prophet-like
-They hail'd him father to a line of kings:
+They hail'd him father_Banquo to a line of kings:
 Upon my head they placed a fruitless crown,
 And put a barren sceptre in my gripe,
 Thence to be wrench'd with an unlineal hand,
@@ -2030,7 +2030,7 @@ Was it not yesterday we spoke together?
 
 
 1murderer:
-It was, so please your highness.
+It was, so please your highness_Macbeth.
 
 
 macbeth:
@@ -2163,7 +2163,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 3, Scene 2
+# Act 3, Scene 2
 
 xxx:
 [Enter LADY MACBETH and a Servant]
@@ -2178,7 +2178,7 @@ Ay, madam, but returns again to-night.
 
 
 ladymacbeth:
-Say to the king, I would attend his leisure
+Say to the king_Macbeth, I would attend his leisure
 For a few words.
 
 
@@ -2242,7 +2242,7 @@ You must leave this.
 
 
 macbeth:
-O, full of scorpions is my mind, dear wife!
+O, full of scorpions is my mind, dear wife_ladymacbeth!
 Thou know'st that Banquo, and his Fleance, lives.
 
 
@@ -2284,7 +2284,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 3, Scene 3
+# Act 3, Scene 3
 
 xxx:
 [Enter three Murderers]
@@ -2400,7 +2400,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 3, Scene 4
+# Act 3, Scene 4
 
 xxx:
 [A banquet prepared. Enter MACBETH, LADY MACBETH,]
@@ -2413,7 +2413,7 @@ And last the hearty welcome.
 
 
 lords-mac:
-Thanks to your majesty.
+Thanks to your majesty_Macbeth.
 
 
 macbeth:
@@ -2764,7 +2764,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 3, Scene 5
+# Act 3, Scene 5
 
 xxx:
 [Thunder. Enter the three Witches meeting HECATE]
@@ -2826,7 +2826,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 3, Scene 6
+# Act 3, Scene 6
 
 xxx:
 [Enter LENNOX and another Lord]
@@ -2912,7 +2912,7 @@ xxx:
 ****************************************
 
 
-[Act 4, Scene 1
+# Act 4, Scene 1
 
 xxx:
 [Thunder. Enter the three Witches]
@@ -3229,7 +3229,7 @@ Come, sisters, cheer we up his sprites,
 And show the best of our delights:
 I'll charm the air to give a sound,
 While you perform your antic round:
-That this great king may kindly say,
+That this great king_Macbeth may kindly say,
 Our duties did his welcome pay.
 
 
@@ -3308,7 +3308,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 4, Scene 2
+# Act 4, Scene 2
 
 xxx:
 [Enter LADY MACDUFF, her Son, and ROSS]
@@ -3334,7 +3334,7 @@ Whether it was his wisdom or his fear.
 
 
 ladymacduff:
-Wisdom! to leave his wife, to leave his babes,
+Wisdom! to leave his wife_ladymacduff, to leave his babes,
 His mansion and his titles in a place
 From whence himself does fly? He loves us not;
 He wants the natural touch: for the poor wren,
@@ -3358,7 +3358,7 @@ But float upon a wild and violent sea
 Each way and move. I take my leave of you:
 Shall not be long but I'll be here again:
 Things at the worst will cease, or else climb upward
-To what they were before. My pretty cousin,
+To what they were before. My pretty cousin_ladymacduff,
 Blessing upon you!
 
 
@@ -3377,12 +3377,12 @@ xxx:
 
 
 ladymacduff:
-Sirrah, your father's dead;
+Sirrah, your father_Macduff’s dead;
 And what will you do now? How will you live?
 
 
 son-mac:
-As birds do, mother.
+As birds do, mother_ladymacduff.
 
 
 ladymacduff:
@@ -3400,15 +3400,15 @@ The pitfall nor the gin.
 
 son-mac:
 Why should I, mother? Poor birds they are not set for.
-My father is not dead, for all your saying.
+My father_Macduff is not dead, for all your saying.
 
 
 ladymacduff:
-Yes, he is dead; how wilt thou do for a father?
+Yes, he is dead; how wilt thou do for a father_Macduff?
 
 
 son-mac:
-Nay, how will you do for a husband?
+Nay, how will you do for a husband_Macduff?
 
 
 ladymacduff:
@@ -3425,7 +3425,7 @@ With wit enough for thee.
 
 
 son-mac:
-Was my father a traitor, mother?
+Was my father_Macduff a traitor, mother_ladymacduff?
 
 
 ladymacduff:
@@ -3541,7 +3541,7 @@ Young fry of treachery!
 
 
 son-mac:
-He has kill'd me, mother:
+He has kill'd me, mother_ladymacduff:
 Run away, I pray you!
 [Dies]
 [Exit LADY MACDUFF, crying 'Murder!' Exeunt]
@@ -3550,7 +3550,7 @@ Murderers, following her]
 
 ----------------------------------------
 
-[Act 4, Scene 3
+# Act 4, Scene 3
 
 xxx:
 [Enter MALCOLM and MACDUFF]
@@ -3606,7 +3606,7 @@ I have lost my hopes.
 
 malcolm:
 Perchance even there where I did find my doubts.
-Why in that rawness left you wife and child,
+Why in that rawness left you wife_ladymacduff and child_son_Macduff,
 Those precious motives, those strong knots of love,
 Without leave-taking? I pray you,
 Let not my jealousies be your dishonours,
@@ -3738,8 +3738,8 @@ With an untitled tyrant bloody-scepter'd,
 When shalt thou see thy wholesome days again,
 Since that the truest issue of thy throne
 By his own interdiction stands accursed,
-And does blaspheme his breed? Thy royal father
-Was a most sainted king: the queen that bore thee,
+And does blaspheme his breed? Thy royal father_of_Macduff
+Was a most sainted king: the queen_of_Macduff that bore thee,
 Oftener upon her knees than on her feet,
 Died every day she lived. Fare thee well!
 These evils thou repeat'st upon thyself
@@ -3784,7 +3784,7 @@ xxx:
 
 
 malcolm:
-Well; more anon.--Comes the king forth, I pray you?
+Well; more anon.--Comes the king_Edward forth, I pray you?
 
 
 doctor-mac:
@@ -3837,7 +3837,7 @@ My countryman; but yet I know him not.
 
 
 macduff:
-My ever-gentle cousin, welcome hither.
+My ever-gentle cousin_Malcolm, welcome hither.
 
 
 malcolm:
@@ -3881,7 +3881,7 @@ Each minute teems a new one.
 
 
 macduff:
-How does my wife?
+How does my wife_ladymacduff?
 
 
 ross:
@@ -3962,7 +3962,7 @@ Hum! I guess at it.
 
 
 ross:
-Your castle is surprised; your wife and babes
+Your castle is surprised; your wife_ladymacduff and babes
 Savagely slaughter'd: to relate the manner,
 Were, on the quarry of these murder'd deer,
 To add the death of you.
@@ -3986,7 +3986,7 @@ That could be found.
 
 macduff:
 And I must be from thence!
-My wife kill'd too?
+My wife_macduff kill'd too?
 
 
 ross:
@@ -4037,7 +4037,7 @@ Heaven forgive him too!
 
 malcolm:
 This tune goes manly.
-Come, go we to the king; our power is ready;
+Come, go we to the king_Edward; our power is ready;
 Our lack is nothing but our leave; Macbeth
 Is ripe for shaking, and the powers above
 Put on their instruments. Receive what cheer you may:
@@ -4051,7 +4051,7 @@ xxx:
 ****************************************
 
 
-[Act 5, Scene 1
+# Act 5, Scene 1
 
 xxx:
 [Enter a Doctor of Physic and a Waiting-Gentlewoman]
@@ -4144,7 +4144,7 @@ Do you mark that?
 
 
 ladymacbeth:
-The thane of Fife had a wife: where is she now?--
+The thane of Fife had a wife_ladymacduff: where is she now?--
 What, will these hands ne'er be clean?--No more o'
 that, my lord, no more o' that: you mar all with
 this starting.
@@ -4238,7 +4238,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 5, Scene 2
+# Act 5, Scene 2
 
 xxx:
 [Drum and colours. Enter MENTEITH, CAITHNESS, ANGUS,]
@@ -4259,7 +4259,7 @@ Shall we well meet them; that way are they coming.
 
 
 caithness:
-Who knows if Donalbain be with his brother?
+Who knows if Donalbain be with his brother_Malcolm?
 
 
 lennox:
@@ -4318,7 +4318,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 5, Scene 3
+# Act 5, Scene 3
 
 xxx:
 [Enter MACBETH, Doctor, and Attendants]
@@ -4408,7 +4408,7 @@ macbeth:
 I'll put it on.
 Send out more horses; skirr the country round;
 Hang those that talk of fear. Give me mine armour.
-How does your patient, doctor?
+How does your patient_ladymacbeth, doctor?
 
 
 doctor-mac:
@@ -4467,7 +4467,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 5, Scene 4
+# Act 5, Scene 4
 
 xxx:
 [Drum and colours. Enter MALCOLM, SIWARD and YOUNG]
@@ -4538,7 +4538,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 5, Scene 5
+# Act 5, Scene 5
 
 xxx:
 [Enter MACBETH, SEYTON, and Soldiers, with drum and colours]
@@ -4577,7 +4577,7 @@ Wherefore was that cry?
 
 
 seyton:
-The queen, my lord, is dead.
+The queen_ladymacbeth, my lord, is dead.
 
 
 macbeth:
@@ -4647,7 +4647,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 5, Scene 6
+# Act 5, Scene 6
 
 xxx:
 [Drum and colours. Enter MALCOLM, SIWARD, MACDUFF,]
@@ -4656,8 +4656,8 @@ and their Army, with boughs]
 
 malcolm:
 Now near enough: your leafy screens throw down.
-And show like those you are. You, worthy uncle,
-Shall, with my cousin, your right-noble son,
+And show like those you are. You, worthy uncle_Siward,
+Shall, with my cousin_youngsiward, your right-noble son_youngsiward,
 Lead our first battle: worthy Macduff and we
 Shall take upon 's what else remains to do,
 According to our order.
@@ -4680,7 +4680,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 5, Scene 7
+# Act 5, Scene 7
 
 xxx:
 [Alarums. Enter MACBETH]
@@ -4749,11 +4749,11 @@ xxx:
 macduff:
 That way the noise is. Tyrant, show thy face!
 If thou be'st slain and with no stroke of mine,
-My wife and children's ghosts will haunt me still.
+My wife_ladymacduff and children's ghosts will haunt me still.
 I cannot strike at wretched kerns, whose arms
 Are hired to bear their staves: either thou, Macbeth,
 Or else my sword with an unbatter'd edge
-I sheathe again undeeded. There thou shouldst be;
+I sheathe again unneeded. There thou shouldst be;
 By this great clatter, one of greatest note
 Seems bruited. Let me find him, fortune!
 And more I beg not.
@@ -4790,7 +4790,7 @@ xxx:
 
 ----------------------------------------
 
-[Act 5, Scene 8
+# Act 5, Scene 8
 
 xxx:
 [Enter MACBETH]
@@ -4838,7 +4838,7 @@ To one of woman born.
 macduff:
 Despair thy charm;
 And let the angel whom thou still hast served
-Tell thee, Macduff was from his mother's womb
+Tell thee, Macduff was from his mother_ofMacduff’s womb
 Untimely ripp'd.
 
 
@@ -4883,11 +4883,11 @@ So great a day as this is cheaply bought.
 
 
 malcolm:
-Macduff is missing, and your noble son.
+Macduff is missing, and your noble son_youngsiward.
 
 
 ross:
-Your son, my lord, has paid a soldier's debt:
+Your son_youngsiward, my lord, has paid a soldier's debt:
 He only lived but till he was a man;
 The which no sooner had his prowess confirm'd
 In the unshrinking station where he fought,
@@ -4961,7 +4961,7 @@ Which would be planted newly with the time,
 As calling home our exiled friends abroad
 That fled the snares of watchful tyranny;
 Producing forth the cruel ministers
-Of this dead butcher and his fiend-like queen,
+Of this dead butcher_Macbeth and his fiend-like queen_ladymacbeth,
 Who, as 'tis thought, by self and violent hands
 Took off her life; this, and what needful else
 That calls upon us, by the grace of Grace,

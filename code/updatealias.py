@@ -3,8 +3,8 @@ import re
 
 #
 # Creates an aliased version of the script that removes whitespace and
-# apostrophes from nicknames. This way each identifier is a single word.
-#
+# apostrophes from nicknames. Afterwards, each identifier is a single word.
+# This makes the script analysis easier since we can split on whitespace
 #
 #
 
@@ -54,9 +54,12 @@ def change(old_filename, new_filename, aliaslist):
                     # get rid of spaces and apostrophes in the nickname
                     nick_id = nick.replace("'", " ").replace(' ', '_')
                     temp_nick_list.append((nick_id))
+                    #xxxab shake hack: add all the upper case versions too
+                    temp_nick_list.append(nick_id.upper())
                     if (nick != nick_id):
                         print("replacing with dashed", nick, nick_id)
                         s = s.replace(nick, nick_id)
+                        #print("  =====", s)
             nick_list.append(temp_nick_list)
 
     print("nickname list is: ", nick_list)
