@@ -81,7 +81,7 @@ def change(old_filename, new_filename, aliaslist):
     for char_nick in nick_list:
         #print("DEBUG: " , char_nick)
         nick_id = char_nick.pop(0)
-        #print("nick_id=", nick_id, char_nick)
+        print("nick_id=", nick_id, char_nick)
         for nick in char_nick:
             #print("replacing tokenized:", nick, nick_id)
             #tokens = [w.replace(nick, nick + " (" + nick_id + ")") for w in tokens]

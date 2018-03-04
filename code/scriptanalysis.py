@@ -28,7 +28,7 @@ def get_all_characters(filename_list):
             for subline in line.split("\r"):
                 words = subline.split(",")
                 if len(words[0]) > 0:
-                    all_char_list.append(words[0].replace(' ','_').lower())
+                    all_char_list.append(words[0].replace(' ','_'))
     return all_char_list
 
 # writes out the edges in matrix to a file
@@ -127,9 +127,10 @@ def pairs(t):
 turns a character list into a dictionary
 '''
 def make_matrix(character_list):
-    print("cl=",character_list)
+    print("char list is ",character_list)
     temp_dict = dict((k, 0) for k in character_list)
     matrix = dict((k, (dict((k, 0) for k in character_list))) for k in temp_dict)
+    print("matrix is ", matrix)
     return matrix
 
 '''
@@ -265,6 +266,8 @@ def get_reference_interaction(script, char_list):
 
 '''
 Creates an interaction when characters are references in a stage direction together
+Right now, this assumes that the character id matches the way that they are referred to in 
+stage direction, which is not necessarily true.
 '''
 def get_stage_interaction(script, char_list):
     temp_matrix = make_matrix(char_list)
@@ -272,9 +275,6 @@ def get_stage_interaction(script, char_list):
     for scene in script:
         for line in scene:
             if is_stage_direction(line) and not is_new_scene(line):
-                # xxxab shake hack
-                line = line.lower()
-                #print(">>>stage:", line)
                 stage_tokens = re.split("(\W)", line)
                 indices =[i for i, x in enumerate(char_list) if x in stage_tokens]
                 if (len(indices) > 0):

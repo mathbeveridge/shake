@@ -1,4 +1,5 @@
-Act 1, Scene 1
+----------------------------------------
+# Act 1, Scene 1
 
 xxx:
 [of thunder and lightning heard]
@@ -47,13 +48,13 @@ Boatswain:
 I pray now, keep below.
 
 
-Antonio-tem:
+Antonio_tem:
 Where is the master_Master, boatswain?
 
 
 Boatswain:
 Do you not hear him_master? You mar our labour: keep your
-cabins: you do assist the storm.
+cabins; you do assist the storm.
 
 
 Gonzalo:
@@ -88,7 +89,7 @@ Gonzalo:
 I have great comfort from this fellow: methinks he
 hath no drowning mark upon him; his complexion is
 perfect gallows. Stand fast, good Fate, to his
-hanging: make the rope of his destiny our cable,
+hanging; make the rope of his destiny our cable,
 for our own doth little advantage. If he be not
 born to be hanged, our case is miserable.
 
@@ -112,7 +113,7 @@ Yet again! what do you here? Shall we give o'er
 and drown? Have you a mind to sink?
 
 
-Sebastian-tem:
+Sebastian_tem:
 A pox o' your throat, you bawling, blasphemous,
 incharitable dog!
 
@@ -121,7 +122,7 @@ Boatswain:
 Work you then.
 
 
-Antonio-tem:
+Antonio_tem:
 Hang, cur! hang, you whoreson, insolent noisemaker!
 We are less afraid to be drowned than thou art.
 
@@ -154,11 +155,11 @@ The king_Alonso and prince_Ferdinand at prayers! let's assist them,
 For our case is as theirs.
 
 
-Sebastian-tem:
+Sebastian_tem:
 I'm out of patience.
 
 
-Antonio-tem:
+Antonio_tem:
 We are merely cheated of our lives by drunkards:
 This wide-chapp'd rascal--would thou mightst lie drowning
 The washing of ten tides!
@@ -174,11 +175,11 @@ children!'--
 'Farewell, brother!'--'We split, we split, we split!']
 
 
-Antonio-tem:
+Antonio_tem:
 Let's all sink with the king_Alonso.
 
 
-Sebastian-tem:
+Sebastian_tem:
 Let's take leave of him_Alonso.
 
 
@@ -199,7 +200,7 @@ xxx:
 
 ----------------------------------------
 
-Act 1, Scene 2
+# Act 1, Scene 2
 
 xxx:
 [Enter PROSPERO and MIRANDA]
@@ -973,7 +974,7 @@ The strain of strutting chanticleer
 Cry, Cock-a-diddle-dow.
 
 
-Ferdinand-tem:
+Ferdinand_tem:
 Where should this music be? i' the air or the earth?
 It sounds no more: and sure, it waits upon
 Some god o' the island. Sitting on a bank,
@@ -995,7 +996,7 @@ Sea-nymphs hourly ring his knell
 Hark! now I hear them,--Ding-dong, bell.
 
 
-Ferdinand-tem:
+Ferdinand_tem:
 The ditty does remember my drown'd father_Alonso.
 This is no mortal business, nor no sound
 That the earth owes. I hear it now above me.
@@ -1033,7 +1034,7 @@ As my soul prompts it. Spirit, fine spirit! I'll free thee
 Within two days for this.
 
 
-Ferdinand-tem:
+Ferdinand_tem:
 Most sure, the goddess
 On whom these airs attend! Vouchsafe my prayer
 May know if you remain upon this island;
@@ -1048,7 +1049,7 @@ No wonder, sir;
 But certainly a maid.
 
 
-Ferdinand-tem:
+Ferdinand_tem:
 My language! heavens!
 I am the best of them that speak this speech,
 Were I but where 'tis spoken.
@@ -1059,7 +1060,7 @@ How? the best?
 What wert thou_Ferdinand, if the king_Alonso of Naples heard thee?
 
 
-Ferdinand-tem:
+Ferdinand_tem:
 A single thing, as I am now, that wonders
 To hear thee speak of Naples. king_Alonso does hear me;
 And that he does I weep: myself am Naples,
@@ -1071,7 +1072,7 @@ Miranda:
 Alack, for mercy!
 
 
-Ferdinand-tem:
+Ferdinand_tem:
 Yes, faith, and all his lords; the duke_Antonio of Milan
 And his brave son being twain.
 
@@ -1094,7 +1095,7 @@ That e'er I sigh'd for: pity move my father
 To be inclined my way!
 
 
-Ferdinand-tem:
+Ferdinand_tem:
 O, if a virgin,
 And your affection not gone forth, I'll make Miranda
 The queen of Naples.
@@ -1114,7 +1115,7 @@ Upon this island as a spy, to win it
 From me, the lord on't.
 
 
-Ferdinand-tem:
+Ferdinand_tem:
 No, as I am a man.
 
 
@@ -1133,7 +1134,7 @@ The fresh-brook muscles, wither'd roots and husks
 Wherein the acorn cradled. Follow.
 
 
-Ferdinand-tem:
+Ferdinand_tem:
 No;
 I will resist such entertainment till
 Mine enemy has more power.
@@ -1193,7 +1194,7 @@ Thy nerves are in their infancy again
 And have no vigour in them.
 
 
-Ferdinand-tem:
+Ferdinand_tem:
 So they are;
 My spirits, as in a dream, are all bound up.
 My father_Alonso's loss, the weakness which I feel,
@@ -1244,7 +1245,7 @@ xxx:
 ****************************************
 
 
-Act 2, Scene 1
+# Act 2, Scene 1
 
 xxx:
 [Enter ALONSO, SEBASTIAN, ANTONIO, GONZALO,]
@@ -1267,15 +1268,15 @@ Alonso:
 Prithee, peace.
 
 
-Sebastian-tem:
+Sebastian_tem:
 He receives comfort like cold porridge.
 
 
-Antonio-tem:
+Antonio_tem:
 The visitor will not give him o'er so.
 
 
-Sebastian-tem:
+Sebastian_tem:
 Look he's winding up the watch of his wit;
 by and by it will strike.
 
@@ -1284,8 +1285,8 @@ Gonzalo:
 Sir,--
 
 
-Sebastian-tem:
-One: tell.
+Sebastian_tem:
+One; tell.
 
 
 Gonzalo:
@@ -1293,7 +1294,7 @@ When every grief is entertain'd that's offer'd,
 Comes to the entertainer--
 
 
-Sebastian-tem:
+Sebastian_tem:
 A dollar.
 
 
@@ -1302,7 +1303,7 @@ Dolour comes to him, indeed: you
 have spoken truer than you purposed.
 
 
-Sebastian-tem:
+Sebastian_tem:
 You have taken it wiselier than I meant you should.
 
 
@@ -1310,7 +1311,7 @@ Gonzalo:
 Therefore, my sir_Alonso,--
 
 
-Antonio-tem:
+Antonio_tem:
 Fie, what a spendthrift is he of his tongue!
 
 
@@ -1322,81 +1323,81 @@ Gonzalo:
 Well, I have done: but yet,--
 
 
-Sebastian-tem:
+Sebastian_tem:
 He will be talking.
 
 
-Antonio-tem:
+Antonio_tem:
 Which, of he or Adrian, for a good
 wager, first begins to crow?
 
 
-Sebastian-tem:
+Sebastian_tem:
 The old cock.
 
 
-Antonio-tem:
+Antonio_tem:
 The cockerel.
 
 
-Sebastian-tem:
+Sebastian_tem:
 Done. The wager?
 
 
-Antonio-tem:
+Antonio_tem:
 A laughter.
 
 
-Sebastian-tem:
+Sebastian_tem:
 A match!
 
 
-Adrian-tem:
+Adrian_tem:
 Though this island seem to be desert,--
 
 
-Sebastian-tem:
+Sebastian_tem:
 Ha, ha, ha! So, you're paid.
 
 
-Adrian-tem:
+Adrian_tem:
 Uninhabitable and almost inaccessible,--
 
 
-Sebastian-tem:
+Sebastian_tem:
 Yet,--
 
 
-Adrian-tem:
+Adrian_tem:
 Yet,--
 
 
-Antonio-tem:
+Antonio_tem:
 He could not miss't.
 
 
-Adrian-tem:
+Adrian_tem:
 It must needs be of subtle, tender and delicate
 temperance.
 
 
-Antonio-tem:
+Antonio_tem:
 Temperance was a delicate wench.
 
 
-Sebastian-tem:
+Sebastian_tem:
 Ay, and a subtle; as he most learnedly delivered.
 
 
-Adrian-tem:
+Adrian_tem:
 The air breathes upon us here most sweetly.
 
 
-Sebastian-tem:
+Sebastian_tem:
 As if it had lungs and rotten ones.
 
 
-Antonio-tem:
+Antonio_tem:
 Or as 'twere perfumed by a fen.
 
 
@@ -1404,11 +1405,11 @@ Gonzalo:
 Here is everything advantageous to life.
 
 
-Antonio-tem:
+Antonio_tem:
 True; save means to live.
 
 
-Sebastian-tem:
+Sebastian_tem:
 Of that there's none, or little.
 
 
@@ -1416,19 +1417,19 @@ Gonzalo:
 How lush and lusty the grass looks! how green!
 
 
-Antonio-tem:
+Antonio_tem:
 The ground indeed is tawny.
 
 
-Sebastian-tem:
+Sebastian_tem:
 With an eye of green in't.
 
 
-Antonio-tem:
+Antonio_tem:
 He misses not much.
 
 
-Sebastian-tem:
+Sebastian_tem:
 No; he doth but mistake the truth totally.
 
 
@@ -1437,7 +1438,7 @@ But the rarity of it is,--which is indeed almost
 beyond credit,--
 
 
-Sebastian-tem:
+Sebastian_tem:
 As many vouched rarities are.
 
 
@@ -1448,12 +1449,12 @@ glosses, being rather new-dyed than stained with
 salt water.
 
 
-Antonio-tem:
+Antonio_tem:
 If but one of his pockets could speak, would it not
 say he lies?
 
 
-Sebastian-tem:
+Sebastian_tem:
 Ay, or very falsely pocket up his report
 
 
@@ -1463,11 +1464,11 @@ put them on first in Afric, at the marriage of
 the king_Alonso fair daughter Claribel to the King of Tunis.
 
 
-Sebastian-tem:
+Sebastian_tem:
 'Twas a sweet marriage, and we prosper well in our return.
 
 
-Adrian-tem:
+Adrian_tem:
 Tunis was never graced before with such a paragon to
 their queen.
 
@@ -1476,17 +1477,17 @@ Gonzalo:
 Not since widow Dido's time.
 
 
-Antonio-tem:
+Antonio_tem:
 Widow! a pox o' that! How came that widow in?
 widow Dido!
 
 
-Sebastian-tem:
+Sebastian_tem:
 What if he had said 'widower AEneas' too? Good Lord,
 how you take it!
 
 
-Adrian-tem:
+Adrian_tem:
 'Widow Dido' said you? you make me study of that:
 she was of Carthage, not of Tunis.
 
@@ -1495,7 +1496,7 @@ Gonzalo:
 This Tunis, sir, was Carthage.
 
 
-Adrian-tem:
+Adrian_tem:
 Carthage?
 
 
@@ -1503,21 +1504,21 @@ Gonzalo:
 I assure you, Carthage.
 
 
-Sebastian-tem:
+Sebastian_tem:
 His word is more than the miraculous harp; he hath
 raised the wall and houses too.
 
 
-Antonio-tem:
+Antonio_tem:
 What impossible matter will he make easy next?
 
 
-Sebastian-tem:
+Sebastian_tem:
 I think he will carry this island home in his pocket
 and give it his son for an apple.
 
 
-Antonio-tem:
+Antonio_tem:
 And, sowing the kernels of it in the sea, bring
 forth more islands.
 
@@ -1526,7 +1527,7 @@ Gonzalo:
 Ay.
 
 
-Antonio-tem:
+Antonio_tem:
 Why, in good time.
 
 
@@ -1536,15 +1537,15 @@ as fresh as when we were at Tunis at the marriage
 of your daughter, who is now queen.
 
 
-Antonio-tem:
+Antonio_tem:
 And the rarest that e'er came there.
 
 
-Sebastian-tem:
+Sebastian_tem:
 Bate, I beseech you, widow Dido.
 
 
-Antonio-tem:
+Antonio_tem:
 O, widow Dido! ay, widow Dido.
 
 
@@ -1553,7 +1554,7 @@ Is not, sir, my doublet as fresh as the first day I
 wore it? I mean, in a sort.
 
 
-Antonio-tem:
+Antonio_tem:
 That sort was well fished for.
 
 
@@ -1572,7 +1573,7 @@ Of Naples and of Milan, what strange fish
 Hath made his meal on thee?
 
 
-Francisco-tem:
+Francisco_tem:
 sir_Alonso, he may live:
 I saw him beat the surges under him,
 And ride upon their backs; he trod the water,
@@ -1589,7 +1590,7 @@ Alonso:
 No, no, he's gone.
 
 
-Sebastian-tem:
+Sebastian_tem:
 sir_Alonso, you may thank yourself for this great loss,
 That would not bless our Europe with your daughter,
 But rather lose her to an African;
@@ -1601,7 +1602,7 @@ Alonso:
 Prithee, peace.
 
 
-Sebastian-tem:
+Sebastian_tem:
 You were kneel'd to and importuned otherwise
 By all of us, and the fair soul herself
 Weigh'd between loathness and obedience, at
@@ -1624,11 +1625,11 @@ And time to speak it in: you rub the sore,
 When you should bring the plaster.
 
 
-Sebastian-tem:
+Sebastian_tem:
 Very well.
 
 
-Antonio-tem:
+Antonio_tem:
 And most chirurgeonly.
 
 
@@ -1637,11 +1638,11 @@ It is foul weather in us all, good sir,
 When you are cloudy.
 
 
-Sebastian-tem:
+Sebastian_tem:
 Foul weather?
 
 
-Antonio-tem:
+Antonio_tem:
 Very foul.
 
 
@@ -1649,11 +1650,11 @@ Gonzalo:
 Had I plantation of this isle, my lord,--
 
 
-Antonio-tem:
+Antonio_tem:
 He'ld sow't with nettle-seed.
 
 
-Sebastian-tem:
+Sebastian_tem:
 Or docks, or mallows.
 
 
@@ -1661,7 +1662,7 @@ Gonzalo:
 And were the king on't, what would I do?
 
 
-Sebastian-tem:
+Sebastian_tem:
 'Scape being drunk for want of wine.
 
 
@@ -1678,11 +1679,11 @@ And women too, but innocent and pure;
 No sovereignty;--
 
 
-Sebastian-tem:
+Sebastian_tem:
 Yet he would be king on't.
 
 
-Antonio-tem:
+Antonio_tem:
 The latter end of his commonwealth forgets the
 beginning.
 
@@ -1696,11 +1697,11 @@ Of its own kind, all foison, all abundance,
 To feed my innocent people.
 
 
-Sebastian-tem:
+Sebastian_tem:
 No marrying 'mong his subjects?
 
 
-Antonio-tem:
+Antonio_tem:
 None, man; all idle: whores and knaves.
 
 
@@ -1709,11 +1710,11 @@ I would with such perfection govern, sir,
 To excel the golden age.
 
 
-Sebastian-tem:
+Sebastian_tem:
 God save his majesty!
 
 
-Antonio-tem:
+Antonio_tem:
 Long live Gonzalo!
 
 
@@ -1732,7 +1733,7 @@ who are of such sensible and nimble lungs that
 they always use to laugh at nothing.
 
 
-Antonio-tem:
+Antonio_tem:
 'Twas you we laughed at.
 
 
@@ -1742,11 +1743,11 @@ to you: so you may continue and laugh at
 nothing still.
 
 
-Antonio-tem:
+Antonio_tem:
 What a blow was there given!
 
 
-Sebastian-tem:
+Sebastian_tem:
 An it had not fallen flat-long.
 
 
@@ -1760,11 +1761,11 @@ xxx:
 [Enter ARIEL, invisible, playing solemn music]
 
 
-Sebastian-tem:
+Sebastian_tem:
 We would so, and then go a bat-fowling.
 
 
-Antonio-tem:
+Antonio_tem:
 Nay, good my lord, be not angry.
 
 
@@ -1774,7 +1775,7 @@ my discretion so weakly. Will you laugh
 me asleep, for I am very heavy?
 
 
-Antonio-tem:
+Antonio_tem:
 Go sleep, and hear us.
 
 
@@ -1788,14 +1789,14 @@ Would, with themselves, shut up my thoughts: I find
 They are inclined to do so.
 
 
-Sebastian-tem:
+Sebastian_tem:
 Please you, sir_Alonso,
 Do not omit the heavy offer of it:
 It seldom visits sorrow; when it doth,
 It is a comforter.
 
 
-Antonio-tem:
+Antonio_tem:
 We two, my lord,
 Will guard your person while you take your rest,
 And watch your safety.
@@ -1809,21 +1810,21 @@ xxx:
 [ALONSO sleeps. Exit ARIEL]
 
 
-Sebastian-tem:
+Sebastian_tem:
 What a strange drowsiness possesses them!
 
 
-Antonio-tem:
+Antonio_tem:
 It is the quality o' the climate.
 
 
-Sebastian-tem:
+Sebastian_tem:
 Why
 Doth it not then our eyelids sink? I find not
 Myself disposed to sleep.
 
 
-Antonio-tem:
+Antonio_tem:
 Nor I; my spirits are nimble.
 They fell together all, as by consent;
 They dropp'd, as by a thunder-stroke. What might,
@@ -1834,15 +1835,15 @@ My strong imagination sees a crown
 Dropping upon thy head.
 
 
-Sebastian-tem:
+Sebastian_tem:
 What, art Antonio waking?
 
 
-Antonio-tem:
+Antonio_tem:
 Do Sebastian not hear me speak?
 
 
-Sebastian-tem:
+Sebastian_tem:
 I do; and surely
 It is a sleepy language and thou speak'st
 Out of thy sleep. What is it Antonio didst say?
@@ -1851,37 +1852,37 @@ With eyes wide open; standing, speaking, moving,
 And yet so fast asleep.
 
 
-Antonio-tem:
+Antonio_tem:
 Noble Sebastian,
 Thou let'st thy fortune sleep--die, rather; wink'st
 Whiles thou art waking.
 
 
-Sebastian-tem:
+Sebastian_tem:
 Thou dost snore distinctly;
 There's meaning in thy snores.
 
 
-Antonio-tem:
+Antonio_tem:
 I am more serious than my custom: Sebastian
 Must be so too, if heed me; which to do
 Trebles thee o'er.
 
 
-Sebastian-tem:
+Sebastian_tem:
 Well, I am standing water.
 
 
-Antonio-tem:
+Antonio_tem:
 I'll teach Sebastian how to flow.
 
 
-Sebastian-tem:
+Sebastian_tem:
 Do so: to ebb
 Hereditary sloth instructs me.
 
 
-Antonio-tem:
+Antonio_tem:
 O,
 If you but knew how Sebastian the purpose cherish
 Whiles thus you mock it! how, in stripping it,
@@ -1890,14 +1891,14 @@ Most often do so near the bottom run
 By their own fear or sloth.
 
 
-Sebastian-tem:
+Sebastian_tem:
 Prithee, say on:
 The setting of thine eye and cheek proclaim
 A matter from thee, and a birth indeed
 Which throes thee much to yield.
 
 
-Antonio-tem:
+Antonio_tem:
 Thus, Sebastian:
 Although this lord of weak remembrance, this,
 Who shall be of as little memory
@@ -1908,12 +1909,12 @@ Professes to persuade,--the king his son's alive,
 And he that sleeps here swims.
 
 
-Sebastian-tem:
+Sebastian_tem:
 I have no hope
 That he's undrown'd.
 
 
-Antonio-tem:
+Antonio_tem:
 O, out of that 'no hope'
 What great hope have you! no hope that way is
 Another way so high a hope that even
@@ -1922,20 +1923,20 @@ But doubt discovery there. Will you grant with me
 That Ferdinand is drown'd?
 
 
-Sebastian-tem:
+Sebastian_tem:
 He's gone.
 
 
-Antonio-tem:
+Antonio_tem:
 Then, tell me,
 Who's the next heir of Naples?
 
 
-Sebastian-tem:
+Sebastian_tem:
 Claribel.
 
 
-Antonio-tem:
+Antonio_tem:
 She that is queen of Tunis; she that dwells
 Ten leagues beyond man's life; she that from Naples
 Can have no note, unless the sun were post--
@@ -1947,14 +1948,14 @@ Whereof what's past is prologue, what to come
 In yours and my discharge.
 
 
-Sebastian-tem:
+Sebastian_tem:
 What stuff is this! how say you?
 'Tis true, my brother's daughter's queen of Tunis;
 So is she heir of Naples; 'twixt which regions
 There is some space.
 
 
-Antonio-tem:
+Antonio_tem:
 A space whose every cubit
 Seems to cry out, 'How shall that Claribel
 Measure us back to Naples? Keep in Tunis,
@@ -1969,32 +1970,32 @@ The mind that I do! what a sleep were this
 For your advancement! Do you understand me?
 
 
-Sebastian-tem:
+Sebastian_tem:
 Methinks I do.
 
 
-Antonio-tem:
+Antonio_tem:
 And how does your content
 Tender your own good fortune?
 
 
-Sebastian-tem:
+Sebastian_tem:
 I remember
 You did supplant your brother Prospero.
 
 
-Antonio-tem:
-True:
+Antonio_tem:
+True;
 And look how well my garments sit upon me;
 Much feater than before: my Prospero servants
 Were then my fellows; now they are my men.
 
 
-Sebastian-tem:
+Sebastian_tem:
 But, for your conscience?
 
 
-Antonio-tem:
+Antonio_tem:
 Ay, sir; where lies that? if 'twere a kibe,
 'Twould put me to my slipper: but I feel not
 This deity in my bosom: twenty consciences,
@@ -2012,7 +2013,7 @@ They'll tell the clock to any business that
 We say befits the hour.
 
 
-Sebastian-tem:
+Sebastian_tem:
 Thy case, dear friend,
 Shall be my precedent; as thou got'st Milan,
 I'll come by Naples. Draw thy sword: one stroke
@@ -2020,13 +2021,13 @@ Shall free thee from the tribute which thou payest;
 And I the king shall love thee.
 
 
-Antonio-tem:
+Antonio_tem:
 Draw together;
 And when I rear my hand, do you the like,
 To fall it on Gonzalo.
 
 
-Sebastian-tem:
+Sebastian_tem:
 O, but one word.
 
 
@@ -2051,7 +2052,7 @@ Shake off slumber, and beware:
 Awake, awake!
 
 
-Antonio-tem:
+Antonio_tem:
 Then let us both be sudden.
 
 
@@ -2073,7 +2074,7 @@ Gonzalo:
 What's the matter?
 
 
-Sebastian-tem:
+Sebastian_tem:
 Whiles we stood here securing your repose,
 Even now, we heard a hollow burst of bellowing
 Like bulls, or rather lions: did't not wake you?
@@ -2084,7 +2085,7 @@ Alonso:
 I heard nothing.
 
 
-Antonio-tem:
+Antonio_tem:
 O, 'twas a din to fright a monster's ear,
 To make an earthquake! sure, it was the roar
 Of a whole herd of lions.
@@ -2128,7 +2129,7 @@ xxx:
 
 ----------------------------------------
 
-Act 2, Scene 2
+# Act 2, Scene 2
 
 xxx:
 [Enter CALIBAN with a burden of wood. A noise of]
@@ -2193,11 +2194,11 @@ xxx:
 [Enter STEPHANO, singing: a bottle in his hand]
 
 
-Stephano-tem:
+Stephano_tem:
 I shall no more to sea, to sea,
 Here shall I die ashore--
 This is a very scurvy tune to sing at a man's
-funeral: well, here's my comfort. [Drinks]
+funeral; well, here's my comfort. [Drinks]
 [Sings]
 The master_Master, the swabber, the boatswain and I,
 The gunner and his mate
@@ -2219,7 +2220,7 @@ Caliban:
 Do not torment me: Oh!
 
 
-Stephano-tem:
+Stephano_tem:
 What's the matter? Have we devils here? Do you put
 tricks upon's with savages and men of Ind, ha? I
 have not scaped drowning to be afeard now of your
@@ -2233,7 +2234,7 @@ Caliban:
 The spirit torments me; Oh!
 
 
-Stephano-tem:
+Stephano_tem:
 This is some monster of the isle with four legs, who
 hath got, as I take it, an ague. Where the devil
 should he learn our language? I will give him some
@@ -2246,7 +2247,7 @@ Caliban:
 Do not torment me, prithee; I'll bring my wood home faster.
 
 
-Stephano-tem:
+Stephano_tem:
 He's in his fit now and does not talk after the
 wisest. He shall taste of my bottle: if he have
 never drunk wine afore will go near to remove his
@@ -2260,7 +2261,7 @@ Thou dost me yet but little hurt; thou wilt anon, I
 know it by thy trembling: now Prosper works upon thee.
 
 
-Stephano-tem:
+Stephano_tem:
 Come on your ways; open your mouth; here is that
 which will give language to you, cat: open your
 mouth; this will shake your shaking, I can tell you,
@@ -2273,7 +2274,7 @@ I should know that voice: it should be--but he is
 drowned; and these are devils: O defend me!
 
 
-Stephano-tem:
+Stephano_tem:
 Four legs and two voices: a most delicate monster!
 His forward voice now is to speak well of his
 friend; his backward voice is to utter foul speeches
@@ -2286,7 +2287,7 @@ Trinculo:
 Stephano!
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Doth thy other mouth call me? Mercy, mercy! This is
 a devil, and no monster: I will leave him; I have no
 long spoon.
@@ -2298,7 +2299,7 @@ speak to me: for I am Trinculo--be not afeard--thy
 good friend Trinculo.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 If thou beest Trinculo, come forth: I'll pull thee
 by the lesser legs: if any be Trinculo's_Trinculo legs,
 these are they. Thou art very Trinculo indeed! How
@@ -2315,7 +2316,7 @@ the storm. And art thou living, Stephano? O
 Stephano, two Neapolitans 'scaped!
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Prithee, do not turn me about; my stomach is not constant.
 
 
@@ -2326,7 +2327,7 @@ That's a brave god and bears celestial liquor.
 I will kneel to him.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 How didst thou 'scape? How camest thou hither?
 swear by this bottle how thou camest hither. I
 escaped upon a butt of sack which the sailors
@@ -2340,7 +2341,7 @@ I'll swear upon that bottle to be thy true subject;
 for the liquor is not earthly.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Here; swear then how thou escapedst.
 
 
@@ -2349,7 +2350,7 @@ Swum ashore. man, like a duck: I can swim like a
 duck, I'll be sworn.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Here, kiss the book. Though thou canst swim like a
 duck, thou art made like a goose.
 
@@ -2358,7 +2359,7 @@ Trinculo:
 O Stephano. hast any more of this?
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 The whole butt, man: my cellar is in a rock by the
 sea-side where my wine is hid. How now, moon-calf_Caliban!
 how does thine ague?
@@ -2368,7 +2369,7 @@ Caliban:
 Hast thou not dropp'd from heaven?
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Out o' the moon, I do assure thee: I was the man i'
 the moon when time was.
 
@@ -2378,7 +2379,7 @@ I have seen thee in her and I do adore thee:
 My mistress_Sycorax show'd me thee and thy dog and thy bush.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Come, swear to that; kiss the book: I will furnish
 it anon with new contents swear.
 
@@ -2404,7 +2405,7 @@ Caliban:
 I'll kiss thy foot; I'll swear myself thy subject.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Come on then; down, and swear.
 
 
@@ -2414,7 +2415,7 @@ monster_Caliban. A most scurvy monster_Caliban! I could find in my
 heart to beat him,--
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Come, kiss.
 
 
@@ -2444,7 +2445,7 @@ To clustering filberts and sometimes I'll get thee
 Young scamels from the rock. Wilt thou go with me?
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 I prithee now, lead the way without any more
 talking. Trinculo, the king_Alonso and all our company
 else being drowned, we will inherit here: here;
@@ -2472,7 +2473,7 @@ Freedom, hey-day! hey-day, freedom! freedom,
 hey-day, freedom!
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 O brave monster_Caliban! Lead the way.
 
 
@@ -2483,13 +2484,13 @@ xxx:
 ****************************************
 
 
-Act 3, Scene 1
+# Act 3, Scene 1
 
 xxx:
 [Enter FERDINAND, bearing a log]
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 There be some sports are painful, and their labour
 Delight in them sets off: some kinds of baseness
 Are nobly undergone and most poor matters
@@ -2521,7 +2522,7 @@ Is hard at study; pray now, rest yourself;
 He's safe for these three hours.
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 O most dear mistress_Miranda,
 The sun will set before I shall discharge
 What I must strive to do.
@@ -2533,7 +2534,7 @@ I'll bear your logs the while: pray, give me that;
 I'll carry it to the pile.
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 No, precious creature_Miranda;
 I had rather crack my sinews, break my back,
 Than you should such dishonour undergo,
@@ -2556,7 +2557,7 @@ Miranda:
 You look wearily.
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 No, noble mistress_Miranda;'tis fresh morning with me
 When you are by at night. I do beseech you--
 Chiefly that I might set it in my prayers--
@@ -2568,7 +2569,7 @@ Miranda.--O my father_Prospero,
 I have broke your hest to say so!
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 Admired Miranda!
 Indeed the top of admiration! worth
 What's dearest to the world! Full many a lady
@@ -2598,7 +2599,7 @@ Something too wildly and my father's_Prospero precepts
 I therein do forget.
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 I am in my condition
 A prince, Miranda; I do think, a king;
 I would, not so!--and would no more endure
@@ -2614,7 +2615,7 @@ Miranda:
 Do you love me?
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 O heaven, O earth, bear witness to this sound
 And crown what I profess with kind event
 If I speak true! if hollowly, invert
@@ -2634,7 +2635,7 @@ Of two most rare affections! Heavens rain grace
 On that which breeds between 'em!
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 Wherefore weep you?
 
 
@@ -2651,7 +2652,7 @@ You may deny me; but I'll be your servant,
 Whether you will or no.
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 My mistress, dearest_Miranda;
 And I thus humble ever.
 
@@ -2660,7 +2661,7 @@ Miranda:
 My husband, then?
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 Ay, with a heart as willing
 As bondage e'er of freedom: here's my hand.
 
@@ -2670,7 +2671,7 @@ And mine, with my heart in't; and now farewell
 Till half an hour hence.
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 A thousand thousand!
 
 
@@ -2692,13 +2693,13 @@ xxx:
 
 ----------------------------------------
 
-Act 3, Scene 2
+# Act 3, Scene 2
 
 xxx:
 [Enter CALIBAN, STEPHANO, and TRINCULO]
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Tell not me; when the butt is out, we will drink
 water; not a drop before: therefore bear up, and
 board 'em. Servant-monster_Caliban, drink to me.
@@ -2711,7 +2712,7 @@ of them; if th' other two be brained like us, the
 state totters.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Drink, servant-monster_Caliban, when I bid thee: thy eyes
 are almost set in thy head.
 
@@ -2721,7 +2722,7 @@ Where should they be set else? he were a brave
 monster indeed, if they were set in his tail.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 My man-monster_Caliban hath drown'd his tongue in sack:
 for my part, the sea cannot drown me; I swam, ere I
 could recover the shore, five and thirty leagues off
@@ -2733,7 +2734,7 @@ Trinculo:
 Your lieutenant, if you list; he's no standard.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 We'll not run, Monsieur monster_Caliban.
 
 
@@ -2742,7 +2743,7 @@ Nor go neither; but you'll lie like dogs and yet say
 nothing neither.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Moon-calf_Caliban, speak once in thy life, if thou beest a
 good moon-calf.
 
@@ -2772,7 +2773,7 @@ Caliban:
 Lo, lo, again! bite him to death, I prithee.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Trinculo, keep a good tongue in your head: if you
 prove a mutineer,--the next tree! The poor monster's_Caliban
 my subject and he shall not suffer indignity.
@@ -2783,7 +2784,7 @@ I thank my noble lord_Stephano. Wilt thou be pleased to
 hearken once again to the suit I made to thee?
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Marry, will I. kneel and repeat it; I will stand,
 and so shall Trinculo.
 
@@ -2806,7 +2807,7 @@ Thou liest, thou jesting monkey_Ariel, thou: I would my
 valiant master_Stephano would destroy thee! I do not lie.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Trinculo, if you trouble him any more in's tale, by
 this hand, I will supplant some of your teeth.
 
@@ -2815,7 +2816,7 @@ Trinculo:
 Why, I said nothing.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Mum, then, and no more. Proceed.
 
 
@@ -2826,7 +2827,7 @@ Revenge it on him,--for I know thou darest,
 But this thing dare not,--
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 That's most certain.
 
 
@@ -2834,7 +2835,7 @@ Caliban:
 Thou shalt be lord of it and I'll serve thee.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 How now shall this be compassed?
 Canst thou bring me to the party_Prospero?
 
@@ -2856,7 +2857,7 @@ He shall drink nought but brine; for I'll not show him
 Where the quick freshes are.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Trinculo, run into no further danger:
 interrupt the monster_Caliban one word further, and,
 by this hand, I'll turn my mercy out o' doors
@@ -2868,7 +2869,7 @@ Why, what did I? I did nothing. I'll go farther
 off.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Didst thou not say he lied?
 
 
@@ -2876,7 +2877,7 @@ Ariel:
 Thou liest.
 
 
-Stephano-tem:
+Stephano_tem:
 Do I so? take thou that.
 [Beats TRINCULO]
 As you like this, give me the lie another time.
@@ -2893,7 +2894,7 @@ Caliban:
 Ha, ha, ha!
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Now, forward with your tale. Prithee, stand farther
 off.
 
@@ -2903,7 +2904,7 @@ Beat him enough: after a little time
 I'll beat him too.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Stand farther. Come, proceed.
 
 
@@ -2927,7 +2928,7 @@ But she as far surpasseth Sycorax
 As great'st does least.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Is it so brave a lass?
 
 
@@ -2936,7 +2937,7 @@ Ay, lord; she will become thy bed, I warrant.
 And bring thee forth brave brood.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 monster_Caliban, I will kill this man: his daughter_Miranda and I
 will be king and queen--save our graces!--and
 Trinculo and thyself shall be viceroys. Dost thou
@@ -2947,7 +2948,7 @@ Trinculo:
 Excellent.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Give me thy hand: I am sorry I beat thee; but,
 while thou livest, keep a good tongue in thy head.
 
@@ -2957,7 +2958,7 @@ Within this half hour will he be asleep:
 Wilt thou destroy him then?
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Ay, on mine honour.
 
 
@@ -2971,7 +2972,7 @@ Let us be jocund: will you troll the catch
 You taught me but while-ere?
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 At thy request, monster_Caliban, I will do reason, any
 reason. Come on, Trinculo, let us sing.
 [Sings]
@@ -2988,7 +2989,7 @@ xxx:
 [Ariel plays the tune on a tabour and pipe]
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 What is this same?
 
 
@@ -2997,7 +2998,7 @@ This is the tune of our catch, played by the picture
 of Nobody.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 If thou beest a man, show thyself in thy likeness:
 if thou beest a devil, take't as thou list.
 
@@ -3006,7 +3007,7 @@ Trinculo:
 O, forgive me my sins!
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 He that dies pays all debts: I defy thee. Mercy upon us!
 
 
@@ -3014,7 +3015,7 @@ Caliban:
 Art thou afeard?
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 No, monster_Caliban, not I.
 
 
@@ -3030,7 +3031,7 @@ Ready to drop upon me that, when I waked,
 I cried to dream again.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 This will prove a brave kingdom to me, where I shall
 have my music for nothing.
 
@@ -3039,7 +3040,7 @@ Caliban:
 When Prospero is destroyed.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 That shall be by and by: I remember the story.
 
 
@@ -3048,7 +3049,7 @@ The sound is going away; let's follow it, and
 after do our work.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Lead, monster_Caliban; we'll follow. I would I could see
 this tabourer_Ariel; he lays it on.
 
@@ -3063,7 +3064,7 @@ xxx:
 
 ----------------------------------------
 
-Act 3, Scene 3
+# Act 3, Scene 3
 
 xxx:
 [Enter ALONSO, SEBASTIAN, ANTONIO, GONZALO,]
@@ -3087,26 +3088,26 @@ Whom thus we stray to find, and the sea mocks
 Our frustrate search on land. Well, let him go.
 
 
-Antonio-tem_Antonio:
+Antonio_tem:
 [Aside to SEBASTIAN] I am right glad that he's so
 out of hope.
 Do not, for one repulse, forego the purpose
 That you resolved to effect.
 
 
-Sebastian-tem_Sebastian:
+Sebastian_tem:
 [Aside to ANTONIO] The next advantage
 Will we take throughly.
 
 
-Antonio-tem_Antonio:
+Antonio_tem:
 [Aside to SEBASTIAN] Let it be to-night;
 For, now they are oppress'd with travel, they
 Will not, nor cannot, use such vigilance
 As when they are fresh.
 
 
-Sebastian-tem_Sebastian:
+Sebastian_tem:
 [Aside to ANTONIO] I say, to-night: no more.
 
 
@@ -3131,14 +3132,14 @@ Alonso:
 Give us kind keepers, heavens! What were these?
 
 
-Sebastian-tem_Sebastian:
+Sebastian_tem:
 A living drollery. Now I will believe
 That there are unicorns, that in Arabia
 There is one tree, the phoenix' throne, one phoenix
 At this hour reigning there.
 
 
-Antonio-tem_Antonio:
+Antonio_tem:
 I'll believe both;
 And what does else want credit, come to me,
 And I'll be sworn 'tis true: travellers ne'er did
@@ -3174,11 +3175,11 @@ Prospero:
 [Aside]. Praise in departing.
 
 
-Francisco-tem_Francisco:
+Francisco_tem:
 They vanish'd strangely.
 
 
-Sebastian-tem_Sebastian:
+Sebastian_tem:
 No matter, since
 They have left their viands behind; for we have stomachs.
 Will't please you taste of what is here?
@@ -3284,12 +3285,12 @@ xxx:
 [Exit]
 
 
-Sebastian-tem_Sebastian:
+Sebastian_tem:
 But one fiend at a time,
 I'll fight their legions o'er.
 
 
-Antonio-tem_Antonio:
+Antonio_tem:
 I'll be thy second.
 
 
@@ -3306,7 +3307,7 @@ And hinder them from what this ecstasy
 May now provoke them to.
 
 
-Adrian-tem_Adrian:
+Adrian_tem:
 Follow, I pray you.
 
 
@@ -3317,7 +3318,7 @@ xxx:
 ****************************************
 
 
-Act 4, Scene 1
+# Act 4, Scene 1
 
 xxx:
 [Enter PROSPERO, FERDINAND, and MIRANDA]
@@ -3337,7 +3338,7 @@ For thou shalt find she will outstrip all praise
 And make it halt behind her.
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 I do believe it
 Against an oracle.
 
@@ -3356,7 +3357,7 @@ That you shall hate it both: therefore take heed,
 As Hymen's lamps shall light you.
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 As I hope
 For quiet days, fair issue and long life,
 With such love as 'tis now, the murkiest den,
@@ -3429,7 +3430,7 @@ To the fire i' the blood: be more abstemious,
 Or else, good night your vow!
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 I warrant you sir_Prospero;
 The white cold virgin snow upon my heart
 Abates the ardour of my liver.
@@ -3550,7 +3551,7 @@ Scarcity and want shall shun you;
 Ceres' blessing so is on you.
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 This is a most majestic vision, and
 Harmoniously charmingly. May I be bold
 To think these spirits?
@@ -3562,7 +3563,7 @@ I have from their confines call'd to enact
 My present fancies.
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 Let me live here ever;
 So rare a wonder'd father_Prospero and a wife_Miranda
 Makes this place Paradise.
@@ -3607,7 +3608,7 @@ Is almost come.
 Well done! avoid; no more!
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 This is strange: your father's_Prospero in some passion
 That works him strongly.
 
@@ -3638,7 +3639,7 @@ And there repose: a turn or two I'll walk,
 To still my beating mind.
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 [with Miranda] We wish your peace.
 
 
@@ -3724,7 +3725,7 @@ Pray you, tread softly, that the blind mole_Prospero may not
 Hear a foot fall: we now are near his cell.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 monster_Caliban, your fairy_Ariel, which you say is
 a harmless fairy, has done little better than
 played the Jack with us.
@@ -3735,7 +3736,7 @@ monster_Caliban, I do smell all horse-piss; at
 which my nose is in great indignation.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 So is mine. Do you hear, monster_Caliban? If I should take
 a displeasure against you, look you,--
 
@@ -3755,7 +3756,7 @@ Trinculo:
 Ay, but to lose our bottles in the pool,--
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 There is not only disgrace and dishonour in that,
 monster_Caliban, but an infinite loss.
 
@@ -3765,7 +3766,7 @@ That's more to me than my wetting: yet this is your
 harmless fairy_Ariel, monster_Caliban.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 I will fetch off my bottle, though I be o'er ears
 for my labour.
 
@@ -3778,7 +3779,7 @@ Thine own for ever, and I, thy Caliban,
 For aye thy foot-licker.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Give me thy hand. I do begin to have bloody thoughts.
 
 
@@ -3796,7 +3797,7 @@ O, ho, monster_Caliban! we know what belongs to a frippery.
 O king Stephano!
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Put off that gown, Trinculo; by this hand, I'll have
 that gown.
 
@@ -3813,7 +3814,7 @@ From toe to crown he'll fill our skins with pinches,
 Make us strange stuff.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Be you quiet, monster_Caliban. Mistress line,
 is not this my jerkin? Now is the jerkin under
 the line: now, jerkin, you are like to lose your
@@ -3824,7 +3825,7 @@ Trinculo:
 Do, do: we steal by line and level, an't like your grace.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 I thank thee for that jest; here's a garment for't:
 wit shall not go unrewarded while I am king of this
 country. 'Steal by line and level' is an excellent
@@ -3842,7 +3843,7 @@ And all be turn'd to barnacles, or to apes
 With foreheads villanous low.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 monster_Caliban, lay-to your fingers: help to bear this
 away where my hogshead of wine is, or I'll turn you
 out of my kingdom: go to, carry this.
@@ -3852,7 +3853,7 @@ Trinculo:
 And this.
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Ay, and this.
 [A noise of hunters heard. Enter divers Spirits,]
 in shape of dogs and hounds, and hunt them about,
@@ -3896,7 +3897,7 @@ xxx:
 ****************************************
 
 
-Act 5, Scene 1
+# Act 5, Scene 1
 
 xxx:
 [Enter PROSPERO in his magic robes, and ARIEL]
@@ -4110,7 +4111,7 @@ And justify you traitors: at this time
 I will tell no tales.
 
 
-Sebastian-tem_Sebastian:
+Sebastian_tem:
 [Aside] The devil speaks in him.
 
 
@@ -4195,7 +4196,7 @@ Miranda:
 Sweet lord_Ferdinand, you play me false.
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 No, my dear'st love_Miranda,
 I would not for the world.
 
@@ -4211,11 +4212,11 @@ A vision of the Island, one dear son_Ferdinand
 Shall I twice lose.
 
 
-Sebastian-tem_Sebastian:
+Sebastian_tem:
 A most high miracle!
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 Though the seas threaten, they are merciful;
 I have cursed them without cause.
 
@@ -4248,7 +4249,7 @@ Is she the goddess that hath sever'd us,
 And brought us thus together?
 
 
-Ferdinand-tem_Ferdinand:
+Ferdinand_tem:
 Sir, she is mortal;
 But by immortal Providence she's mine:
 I chose her when I could not ask my father_Alonso
@@ -4385,7 +4386,7 @@ Some few odd lads that you remember not.
 and TRINCULO, in their stolen apparel]
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 Every man shift for all the rest, and
 let no man take care for himself; for all is
 but fortune. Coragio, bully-monster_Caliban, coragio!
@@ -4402,13 +4403,13 @@ How fine my master_Prospero is! I am afraid
 He will chastise me.
 
 
-Sebastian-tem_Sebastian:
+Sebastian_tem:
 Ha, ha!
 What things are these, my lord Antonio?
 Will money buy 'em?
 
 
-Antonio-tem_Antonio:
+Antonio_tem:
 Very like; one of them
 Is a plain fish, and, no doubt, marketable.
 
@@ -4434,7 +4435,7 @@ Alonso:
 Is not this Stephano, my drunken butler?
 
 
-Sebastian-tem_Sebastian:
+Sebastian_tem:
 He is drunk now: where had he wine?
 
 
@@ -4450,11 +4451,11 @@ saw you last that, I fear me, will never out of
 my bones: I shall not fear fly-blowing.
 
 
-Sebastian-tem_Sebastian:
+Sebastian_tem:
 Why, how now, Stephano!
 
 
-Stephano-tem:
+Stephano_tem:
 O, touch me not; I am not Stephano, but a cramp.
 
 
@@ -4462,7 +4463,7 @@ Prospero:
 You'ld be king o' the isle, sirrah_Stephano?
 
 
-Stephano-tem_Stephano:
+Stephano_tem:
 I should have been a sore one then.
 
 
@@ -4496,7 +4497,7 @@ Alonso:
 Hence, and bestow your luggage where you found it.
 
 
-Sebastian-tem_Sebastian:
+Sebastian_tem:
 Or stole it, rather.
 
 
