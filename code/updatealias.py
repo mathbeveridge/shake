@@ -37,9 +37,14 @@ def change(old_filename, new_filename, aliaslist):
     # get rid of apostrophes
     s= s.replace("'", " ")
 
+    # search for these nicknames in lines
+    orig_nick_list = [];
+
+    # use these nicknames to replace occurrences in lines
     nick_list = [];
 
-    # first, we update nicknames with underscored versions
+    # first, generate orig_nick_list and nick_list.
+    # To create nick_list, we update nicknames with underscored versions
     for line in aliaslist:
         line = line.strip("\n");
         print("handling: ", line)
@@ -53,6 +58,11 @@ def change(old_filename, new_filename, aliaslist):
                 if (len(nick) > 0):
                     # get rid of spaces and apostrophes in the nickname
                     nick_id = nick.replace("'", " ").replace(' ', '_')
+                    if (nick != nick_id):
+                        print(">>>> replacing", nick, "with", nick_id)
+                        s = s.replace(nick, nick_id)
+                        s = s.replace(nick.upper(), nick_id.upper())
+                        s = s.replace(nick.lower(), nick_id.lower())
                     temp_nick_list.append((nick_id))
                     #xxxab shake hack: add all the upper case versions too
                     temp_nick_list.append(nick_id.upper())
