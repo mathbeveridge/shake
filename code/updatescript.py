@@ -4,8 +4,10 @@ Cleans up inconsistencies in a script file.
 GoT scripts have multiple authors. This file standardizes some features.
 
 This includes
-* Adding the closing square bracket when it is missing
-*  updating the speaker of dialog to consistently use a single identifier
+* - Marking stage direction with ### instead of XXX:, as the latter is confusing when
+* parsing for dialog
+* - Adding the closing square bracket when it is missing
+*  - updating the speaker of dialog to consistently use a single identifier
    (for examaple, always use "NED: ..." instead of "EDDARD: ...."
 
 Note: This file might be unnecessary for Shakespeare. If the speaker of dialog is inconsistent,
@@ -78,7 +80,7 @@ def fix_dialog(file_name, new_file_name):
             line = line.strip()
             print("updating line [" + line + "]")
 
-            if line.startswith("[") or line.startswith("-"):
+            if line.startswith("#") or line.startswith("-"):
                 # scene change or stage direction: write cached lines
                 if (len(currentline) > 0):
                     f.write(currentline)
@@ -90,7 +92,8 @@ def fix_dialog(file_name, new_file_name):
                 if (len(currentline) > 0):
                     f.write(currentline)
                     f.write("\n")
-                currentline = ""
+                # xxxab identify stage direction differently
+                currentline = "### "
             else:
                 # xxxAB this will break with Shakespeare, who actually uses colons!
                 tokens = line.split(':')

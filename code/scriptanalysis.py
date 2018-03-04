@@ -2,9 +2,22 @@ import itertools
 import numpy as np
 import re
 
+#### Constants
+
+# list of ignored characters
+ignored_characters = [
+    "All"
+    ]
+
+# new scene words
+# this will need to be fixed later
+new_scene_char = ["-", "*"]
+
+stage_dir_char = ["[","#"]
+
 ###### FILE I/O
 
-# get all the character ids
+# get all the character ids, which are the first column of the alias csv file
 def get_all_characters(filename_list):
     all_char_list = []
 
@@ -18,6 +31,7 @@ def get_all_characters(filename_list):
                     all_char_list.append(words[0].replace(' ','_').lower())
     return all_char_list
 
+# writes out the edges in matrix to a file
 def write_to_txt(matrix, file, type):
     page = open(file, "w")
     page.write("Source,Target,Weight,Type\n")
@@ -31,6 +45,7 @@ def write_to_txt(matrix, file, type):
                 page.write(log)
     page.close()
 
+# creates a list of all the characters appearing in edges
 def make_node_list(matrix):
     log = []
     for character1, interactions in matrix.items():
@@ -42,27 +57,14 @@ def make_node_list(matrix):
 
 
 
-
-
-
-
-# list of ignored characters should be an input
-ignored_characters = [
-    "All"
-    ]
-
-# new scene words
-# this will need to be fixed later
-new_scene_char = ["-", "*"]
-
-
 ###### script parsing
 
 def is_new_scene(line):
     return (line[0] in new_scene_char)
 
 def is_stage_direction(line):
-    return line.startswith("[") or line.startswith("-")
+#    return line.startswith("[") or line.startswith("-") or line.startswith("#")
+   return (line[0] in stage_dir_char)
 
 # pulls the characters out of the line
 def get_characters(line):
@@ -184,10 +186,18 @@ def get_inscene_characters(scene, char_list):
                     print("adding char:", name, "stage direction", line)
                     scene_char_list.append(name)
                     break
-            elif name == get_speaker(scene[ind]):
+            elif name == get_speaker(line):
                 print("adding char:" , name, "speaker", scene[ind])
                 scene_char_list.append(name)
                 break
+            else:
+                # xxxab look for stage direction within dialog
+                stage_dir = re.findall('\[.*?\]', line)
+                for s in stage_dir:
+                    if name in re.split("(\W)", line):
+                        print("adding char:", name, "dialog stage direction", line)
+                        scene_char_list.append(name)
+                        break
 
     print("SCENE CHARACTERS:", scene_char_list)
     return scene_char_list
@@ -210,6 +220,7 @@ def get_dialog_interaction(script, char_list):
             if len(line) > 0:
                 print(line)
                 if is_stage_direction(line):
+                    # break the chain of interaction
                     character1 = ""
                     character2 = ""
                 else:
@@ -231,8 +242,8 @@ def get_reference_interaction(script, char_list):
 
     for scene in script:
         for line in scene:
-            print(line)
-            if not is_stage_direction(line):
+            #print("<", line, ">")
+            if not is_stage_direction(line) and not is_new_scene(line):
                 speaker = get_speaker(line)
                 dialog_tokens = tokens = re.split("(\W)", get_dialog(line))
 
@@ -241,7 +252,7 @@ def get_reference_interaction(script, char_list):
                     arr = np.array(char_list)
                     ref_list = arr[indices]
 
-                    print("speaker:", speaker, "referenced:", ref_list)
+                    #print("speaker:", speaker, "referenced:", ref_list)
 
                     for ref_char in ref_list:
                         addEncounter(temp_matrix, speaker, ref_char)
@@ -261,13 +272,16 @@ def get_stage_interaction(script, char_list):
     for scene in script:
         for line in scene:
             if is_stage_direction(line) and not is_new_scene(line):
+                # xxxab shake hack
+                line = line.lower()
+                #print(">>>stage:", line)
                 stage_tokens = re.split("(\W)", line)
                 indices =[i for i, x in enumerate(char_list) if x in stage_tokens]
                 if (len(indices) > 0):
                     arr = np.array(char_list)
                     stage_list = arr[indices]
 
-                    print("STAGE ACTION: ", stage_list)
+                    #print("STAGE ACTION: ", stage_list)
                     for chars in pairs(stage_list):
                         addEncounter(temp_matrix, chars[0], chars[1])
 
@@ -300,9 +314,9 @@ def analyze(source_file, char_file_list, out_file_prefix):
 
     #############################
     # Interaction 1: in a scene together
-    #print("writing scene interactions")
-    #scene_matrix = get_scene_interaction(script, all_char_list)
-    #write_to_txt(scene_matrix, scene_file, "undirected")
+    print("writing scene interactions")
+    scene_matrix = get_scene_interaction(script, all_char_list)
+    write_to_txt(scene_matrix, scene_file, "undirected")
 
     #############################
     # Interaction 2: speak in sequence

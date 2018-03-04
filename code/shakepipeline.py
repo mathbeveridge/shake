@@ -17,11 +17,12 @@ data_dir = "/Users/abeverid/PycharmProjects/shake/data/"
 #outdir
 out_dir = "/Users/abeverid/PycharmProjects/shake/out/"
 
-if not os.path.exists(out_dir):
-    os.makedirs(out_dir)
-
 # play_list
 play_list = ["macbeth"]
+
+
+if not os.path.exists(out_dir):
+    os.makedirs(out_dir)
 
 
 for play in play_list:
