@@ -1,4 +1,6 @@
-Act 1, Scene 1
+----------------------------------------
+
+# Act 1, Scene 1
 
 xxx:
 [Enter two Sentinels-(first,) Francisco, (who paces up and down at his post; then) Bernardo, (who approaches him)]
@@ -393,7 +395,7 @@ xxx:
 
 ----------------------------------------
 
-Act 1, Scene 2
+# Act 1, Scene 2
 
 xxx:
 [Flourish. (Enter Claudius, King of Denmark, Gertrude the Queen, Hamlet, Polonius, Laertes and his sister Ophelia, (Voltemand, Cornelius,) Lords Attendant]
@@ -896,7 +898,7 @@ Upon the platform, 'twixt eleven and twelve,
 I'll visit you.
 
 
-all-ham:
+all_ham:
 Our duty to your honour. 
 
 
@@ -915,7 +917,7 @@ xxx:
 
 ----------------------------------------
 
-Act 1, Scene 3
+# Act 1, Scene 3
 
 xxx:
 [Enter Laertes and Ophelia]
@@ -1144,7 +1146,7 @@ xxx:
 
 ----------------------------------------
 
-Act 1, Scene 4
+# Act 1, Scene 4
 
 xxx:
 [Enter Hamlet, Horatio, and Marcellus]
@@ -1357,7 +1359,7 @@ xxx:
 
 ----------------------------------------
 
-Act 1, Scene 5
+# Act 1, Scene 5
 
 xxx:
 [Enter Ghost and Hamlet]
@@ -1784,7 +1786,7 @@ xxx:
 ****************************************
 
 
-Act 2, Scene 1
+# Act 2, Scene 1
 
 xxx:
 [Enter Polonius and Reynaldo]
@@ -2040,7 +2042,7 @@ xxx:
 
 ----------------------------------------
 
-Act 2, Scene 2
+# Act 2, Scene 2
 
 xxx:
 [Flourish. (Enter King and Queen, Rosencrantz and Guildenstern]
@@ -2924,7 +2926,7 @@ anything we see. We'll have a speech straight. Come, give us a
 taste of your quality. Come, a passionate speech.
 
 
-1player-ham:
+1player_ham:
 What speech, my good lord_Hamlet?
 
 
@@ -2964,7 +2966,7 @@ polonius:
 Fore God, my lord, well spoken, with good accent and good discretion.
 
 
-1player-ham:
+1player_ham:
 'Anon he finds him,
   Striking too short at Greeks. His antique sword,
   Rebellious to his arm, lies where it falls,
@@ -3007,7 +3009,7 @@ He's for a jig or a tale of bawdry, or he sleeps. Say on; come to
 Hecuba.
 
 
-1player-ham:
+1player_ham:
 'But who, O who, had seen the mobled queen_Gertrude-'
 
 
@@ -3019,7 +3021,7 @@ polonius:
 That's good! 'Mobled queen_Gertrude' is good.
 
 
-1player-ham:
+1player_ham:
 'Run barefoot up and down, threat'ning the flames
  With bisson rheum; a clout upon that head
  Where late the diadem stood, and for a robe,
@@ -3071,7 +3073,7 @@ Dost thou hear me, old friend? Can you play 'The Murther of
 Gonzago'?
 
 
-1player-ham:
+1player_ham:
 Ay, my lord.
 
 
@@ -3081,7 +3083,7 @@ speech of some dozen or sixteen lines which I would set down and
 insert in't, could you not?
 
 
-1player-ham:
+1player_ham:
 Ay, my lord.
 
 
@@ -3163,7 +3165,7 @@ Wherein I'll catch the conscience of the King_Claudius. Exit.
 ****************************************
 
 
-Act 3, Scene 1
+# Act 3, Scene 1
 
 xxx:
 [Enter King, Queen, Polonius, Ophelia, Rosencrantz, Guildenstern]
@@ -3524,7 +3526,7 @@ Madness in great ones must not unwatch'd go. Exeunt.
 
 ----------------------------------------
 
-Act 3, Scene 2
+# Act 3, Scene 2
 
 xxx:
 [Enter Hamlet and three of the Players]
@@ -3545,7 +3547,7 @@ shows and noise. I would have such a fellow whipp'd for o'erdoing
 Termagant. It out-herods Herod. Pray you avoid it.
 
 
-1player-ham:
+1player_ham:
 I warrant your honour.
 
 
@@ -3553,7 +3555,7 @@ hamlet:
 Be not too tame neither; but let your own discretion be your
 tutor. Suit the action to the word, the word to the action; with
 this special observance, that you o'erstep not the modesty of
-nature: for anything so overdone is from the purpose of playing, 
+nature; for anything so overdone is from the purpose of playing,
 whose end, both at the first and now, was and is, to hold, as
 'twere, the mirror up to nature; to show Virtue her own feature,
 scorn her own image, and the very age and body of the time his
@@ -3569,7 +3571,7 @@ journeymen had made men, and not made them well, they imitated
 humanity so abominably.
 
 
-1player-ham:
+1player_ham:
 I hope we have reform'd that indifferently with us, sir.
 
 
@@ -3864,7 +3866,7 @@ As woman's love.
 
 
 xxx:
-[Enter (two Players as) King and Queen.]
+[Enter (two Players as) King_Player and Queen_Player.]
 
 
 PlayerKing:
@@ -4081,7 +4083,7 @@ claudius:
 Give me some light! Away!
 
 
-all-ham:
+all_ham:
 Lights, lights, lights!
 
 
@@ -4373,7 +4375,7 @@ To give them seals never, my soul, consent!             Exit.
 
 ----------------------------------------
 
-Act 3, Scene 3
+# Act 3, Scene 3
 
 xxx:
 [Enter King_Claudius, Rosencrantz, and Guildenstern]
@@ -4522,7 +4524,7 @@ Words without thoughts never to heaven go. Exit.
 
 ----------------------------------------
 
-Act 3, Scene 4
+# Act 3, Scene 4
 
 xxx:
 [Enter Queen_Gertrude and Polonius]
@@ -4962,7 +4964,7 @@ xxx:
 ****************************************
 
 
-Act 4, Scene 1
+# Act 4, Scene 1
 
 xxx:
 [Enter King_Claudius and Queen_Gertrude, with Rosencrantz and Guildenstern]
@@ -5044,7 +5046,7 @@ xxx:
 
 ----------------------------------------
 
-Act 4, Scene 2
+# Act 4, Scene 2
 
 xxx:
 [Enter Hamlet]
@@ -5054,7 +5056,7 @@ hamlet:
 Safely stow'd.
 
 
-gents-ham:
+gents_ham:
 [within] Hamlet! Lord Hamlet!
 
 
@@ -5142,7 +5144,7 @@ xxx:
 
 ----------------------------------------
 
-Act 4, Scene 3
+# Act 4, Scene 3
 
 xxx:
 [Enter King_Claudius]
@@ -5316,7 +5318,7 @@ Howe'er my haps, my joys were ne'er begun. Exit.
 
 ----------------------------------------
 
-Act 4, Scene 4
+# Act 4, Scene 4
 
 xxx:
 [Enter Fortinbras with his Army over the stage]
@@ -5452,7 +5454,7 @@ My thoughts be bloody, or be nothing worth!            Exit.
 
 ----------------------------------------
 
-Act 4, Scene 5
+# Act 4, Scene 5
 
 xxx:
 [Enter Horatio, Queen_Gertrude, and a Gentleman_Hamgent]
@@ -5647,7 +5649,7 @@ Where are my Switzers? Let them guard the door.
 What is the matter?
 
 
-messenger-ham:
+messenger_ham:
 Save Yourself, my lord_Claudius:
 The ocean, overpeering of his list,
 Eats not the flats with more impetuous haste
@@ -5682,7 +5684,7 @@ laertes:
 Where is this king_Claudius?- Sirs, staid you all without.
 
 
-all-ham:
+all_ham:
 No, let's come in!
 
 
@@ -5690,7 +5692,7 @@ laertes:
 I pray you give me leave.
 
 
-all-ham:
+all_ham:
 We will, we will!
 
 
@@ -5912,17 +5914,17 @@ xxx:
 
 ----------------------------------------
 
-Act 4, Scene 6
+# Act 4, Scene 6
 
 xxx:
-[Enter Horatio with an Attendant_Servant-ham]
+[Enter Horatio with an Attendant_Servant_ham]
 
 
 horatio:
 What are they that would speak with me?
 
 
-servant-ham:
+servant_ham:
 Seafaring men, sir. They say they have letters for you.
 
 
@@ -5937,7 +5939,7 @@ xxx:
 [Enter Sailors]
 
 
-sailor-ham:
+sailor_ham:
 God bless you, sir.
 
 
@@ -5945,7 +5947,7 @@ horatio:
 Let him bless thee too.
 
 
-sailor-ham:
+sailor_ham:
 'A shall, sir, an't please him. There's a letter for you,
 sir,- it comes from th' ambassador that was bound for England- if
 your name be Horatio, as I am let to know it is.
@@ -5974,7 +5976,7 @@ To him from whom you brought them. Exeunt.
 
 ----------------------------------------
 
-Act 4, Scene 7
+# Act 4, Scene 7
 
 xxx:
 [Enter King_Claudius and Laertes]
@@ -6034,7 +6036,7 @@ And that, I hope, will teach you to imagine-
 How now? What news?
 
 
-messenger-ham:
+messenger_ham:
 Letters, my lord, from Hamlet:
 This to your Majesty_Claudius; this to the Queen_Gertrude.
 
@@ -6043,7 +6045,7 @@ claudius:
 From Hamlet? Who brought them?
 
 
-messenger-ham:
+messenger_ham:
 Sailors, my lord, they say; I saw them not.
 They were given me by Claudio; he receiv'd them
 Of him that brought them.
@@ -6322,42 +6324,42 @@ xxx:
 ****************************************
 
 
-Act 5, Scene 1
+# Act 5, Scene 1
 
 xxx:
 [Enter two Clowns, (with spades and pickaxes)]
 
 
-clown1-ham:
+clown1_ham:
 Is she to be buried in Christian burial when she wilfully seeks her own salvation?
 
 
-clown2-ham:
+clown2_ham:
 I tell thee she is; therefore make her grave straight.
 The crowner hath sate on her, and finds it Christian burial.
 
 
-clown1-ham:
+clown1_ham:
 How can that be, unless she drown'd herself in her own
 defence?
 
 
-clown2-ham:
+clown2_ham:
 Why, 'tis found so.
 
 
-clown1-ham:
+clown1_ham:
 It must be se offendendo; it cannot be else. For here lies
 the point: if I drown myself wittingly, it argues an act; and an
 act hath three branches-it is to act, to do, and to perform;
 argal, she drown'd herself wittingly.
 
 
-clown2-ham:
+clown2_ham:
 Nay, but hear you, Goodman Delver!
 
 
-clown1-ham:
+clown1_ham:
 Give me leave. Here lies the water; good. Here stands the
 man; good. If the man go to this water and drown himself, it is,
 will he nill he, he goes- mark you that. But if the water come to
@@ -6365,20 +6367,20 @@ him and drown him, he drowns not himself. Argal, he that is not
 guilty of his own death shortens not his own life. 
 
 
-clown2-ham:
+clown2_ham:
 But is this law?
 
 
-clown1-ham:
+clown1_ham:
 Ay, marry, is't- crowner's quest law.
 
 
-clown2-ham:
+clown2_ham:
 Will you ha' the truth an't? If this had not been a
 gentlewoman, she should have been buried out o' Christian burial.
 
 
-clown1-ham:
+clown1_ham:
 Why, there thou say'st! And the more pity that great folk
 should have count'nance in this world to drown or hang themselves
 more than their even-Christian. Come, my spade! There is no
@@ -6386,64 +6388,64 @@ ancient gentlemen but gard'ners, ditchers, and grave-makers. They
 hold up Adam's profession.
 
 
-clown2-ham:
+clown2_ham:
 Was he a gentleman?
 
 
-clown1-ham:
+clown1_ham:
 'A was the first that ever bore arms.
 
 
-clown2-ham:
+clown2_ham:
 Why, he had none.
 
 
-clown1-ham:
+clown1_ham:
 What, art a heathen? How dost thou understand the Scripture?
 The Scripture says Adam digg'd. Could he dig without arms? I'll
 put another question to thee. If thou answerest me not to the
 purpose, confess thyself-
 
 
-clown2-ham:
+clown2_ham:
 Go to!
 
 
-clown1-ham:
+clown1_ham:
 What is he that builds stronger than either the mason, the
 shipwright, or the carpenter?
 
 
-clown2-ham:
+clown2_ham:
 The gallows-maker; for that frame outlives a thousand 
 tenants.
 
 
-clown1-ham:
+clown1_ham:
 I like thy wit well, in good faith. The gallows does well.
 But how does it well? It does well to those that do ill. Now,
 thou dost ill to say the gallows is built stronger than the
 church. Argal, the gallows may do well to thee. To't again, come!
 
 
-clown2-ham:
+clown2_ham:
 Who builds stronger than a mason, a shipwright, or a
 carpenter?
 
 
-clown1-ham:
+clown1_ham:
 Ay, tell me that, and unyoke.
 
 
-clown2-ham:
+clown2_ham:
 Marry, now I can tell!
 
 
-clown1-ham:
+clown1_ham:
 To't.
 
 
-clown2-ham:
+clown2_ham:
 Mass, I cannot tell.
 
 
@@ -6451,7 +6453,7 @@ xxx:
 [Enter Hamlet and Horatio afar off]
 
 
-clown1-ham:
+clown1_ham:
 Cudgel thy brains no more about it, for your dull ass will
 not mend his pace with beating; and when you are ask'd this
 question next, say 'a grave-maker.' The houses he makes lasts
@@ -6467,7 +6469,7 @@ xxx:
 [Clown digs and] sings.
 
 
-clown1-ham:
+clown1_ham:
 In youth when I did love, did love,
    Methought it was very sweet;
   To contract- O- the time for- a- my behove,
@@ -6488,7 +6490,7 @@ hamlet:
 sense.
 
 
-clown1-ham:
+clown1_ham:
 [sings]
     But age with his stealing steps
       Hath clawed me in his clutch,
@@ -6531,7 +6533,7 @@ breeding but to play at loggets with 'em? Mine ache to think
 on't.
 
 
-clown1-ham:
+clown1_ham:
 [Sings]
     A pickaxe and a spade, a spade,
       For and a shrouding sheet;
@@ -6573,7 +6575,7 @@ They are sheep and calves which seek out assurance in that. I
 will speak to this fellow. Whose grave's this, sirrah?
 
 
-clown1-ham:
+clown1_ham:
 Mine, sir.
 [Sings] O, a pit of clay for to be made
          For such a guest is meet.
@@ -6583,7 +6585,7 @@ hamlet:
 I think it be thine indeed, for thou liest in't.
 
 
-clown1-ham:
+clown1_ham:
 You lie out on't, sir, and therefore 'tis not yours.
 For my part, I do not lie in't, yet it is mine.
 
@@ -6593,7 +6595,7 @@ Thou dost lie in't, to be in't and say it is thine. 'Tis for
 the dead, not for the quick; therefore thou liest.
 
 
-clown1-ham:
+clown1_ham:
 'Tis a quick lie, sir; 'twill away again from me to you.
 
 
@@ -6601,7 +6603,7 @@ hamlet:
 What man dost thou dig it for?
 
 
-clown1-ham:
+clown1_ham:
 For no man, sir.
 
 
@@ -6609,7 +6611,7 @@ hamlet:
 What woman then?
 
 
-clown1-ham:
+clown1_ham:
 For none neither.
 
 
@@ -6617,7 +6619,7 @@ hamlet:
 Who is to be buried in't?
 
 
-clown1-ham:
+clown1_ham:
 One that was a woman, sir; but, rest her soul, she's dead.
 
 
@@ -6629,7 +6631,7 @@ of the peasant comes so near the heel of the courtier he galls
 his kibe.- How long hast thou been a grave-maker?
 
 
-clown1-ham:
+clown1_ham:
 Of all the days i' th' year, I came to't that day that our
 last king Hamlet_Ghost overcame Fortinbras.
 
@@ -6638,7 +6640,7 @@ hamlet:
 How long is that since?
 
 
-clown1-ham:
+clown1_ham:
 Cannot you tell that? Every fool can tell that. It was the
 very day that young Hamlet was born- he that is mad, and sent
 into England.
@@ -6648,7 +6650,7 @@ hamlet:
 Ay, marry, why was be sent into England?
 
 
-clown1-ham:
+clown1_ham:
 Why, because 'a was mad. 'A shall recover his wits there;
 or, if 'a do not, 'tis no great matter there.
 
@@ -6657,7 +6659,7 @@ hamlet:
 Why?
 
 
-clown1-ham:
+clown1_ham:
 'Twill not he seen in him there. There the men are as mad as
 he.
 
@@ -6666,7 +6668,7 @@ hamlet:
 How came he mad?
 
 
-clown1-ham:
+clown1_ham:
 Very strangely, they say.
 
 
@@ -6674,7 +6676,7 @@ hamlet:
 How strangely?
 
 
-clown1-ham:
+clown1_ham:
 Faith, e'en with losing his wits.
 
 
@@ -6682,7 +6684,7 @@ hamlet:
 Upon what ground?
 
 
-clown1-ham:
+clown1_ham:
 Why, here in Denmark. I have been sexton here, man and boy 
 thirty years.
 
@@ -6691,7 +6693,7 @@ hamlet:
 How long will a man lie i' th' earth ere he rot?
 
 
-clown1-ham:
+clown1_ham:
 Faith, if 'a be not rotten before 'a die (as we have many
 pocky corses now-a-days that will scarce hold the laying in, I
 will last you some eight year or nine year. A tanner will last
@@ -6702,7 +6704,7 @@ hamlet:
 Why he more than another?
 
 
-clown1-ham:
+clown1_ham:
 Why, sir, his hide is so tann'd with his trade that 'a will
 keep out water a great while; and your water is a sore decayer of
 your whoreson dead body. Here's a skull now. This skull hath lien
@@ -6713,7 +6715,7 @@ hamlet:
 Whose was it?
 
 
-clown1-ham:
+clown1_ham:
 A whoreson, mad fellow's it was. Whose do you think it was?
 
 
@@ -6721,7 +6723,7 @@ hamlet:
 Nay, I know not.
 
 
-clown1-ham:
+clown1_ham:
 A pestilence on him for a mad rogue! 'A pour'd a flagon of
 Rhenish on my head once. This same skull, sir, was Yorick's
 skull, the King_Claudius's jester.
@@ -6731,7 +6733,7 @@ hamlet:
 This?
 
 
-clown1-ham:
+clown1_ham:
 E'en that.
 
 
@@ -6908,7 +6910,7 @@ gertrude:
 Hamlet, Hamlet!
 
 
-all-ham:
+all_ham:
 Gentlemen!
 
 
@@ -6994,7 +6996,7 @@ xxx:
 
 ----------------------------------------
 
-Act 5, Scene 2
+# Act 5, Scene 2
 
 xxx:
 [Enter Hamlet and Horatio]
@@ -7385,7 +7387,7 @@ xxx:
 [Enter a Lord]
 
 
-lord-ham:
+lord_ham:
 My lord, his Majesty_Claudius commended him to you by young Osric, who
 brings back to him, that you attend him in the hall. He sends to
 know if your pleasure hold to play with Laertes, or that you will
@@ -7398,7 +7400,7 @@ If his fitness speaks, mine is ready; now or whensoever, provided
 I be so able as now.
 
 
-lord-ham:
+lord_ham:
 The King_Claudius and Queen_Gertrude and all are coming down.
 
 
@@ -7406,7 +7408,7 @@ hamlet:
 In happy time.
 
 
-lord-ham:
+lord_ham:
 The Queen_Gertrude desires you to use some gentle entertainment to
 Laertes before you fall to play. 
 
@@ -7750,7 +7752,7 @@ The point envenom'd too?
 Then, venom, to thy work.  Hurts the King_Claudius.
 
 
-all-ham:
+all_ham:
 Treason! treason!
 
 
@@ -7902,6 +7904,6 @@ xxx:
 
 
 xxx:
-[THE E]
+[THE END]
 
 
