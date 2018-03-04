@@ -66,6 +66,12 @@ def change(old_filename, new_filename, aliaslist):
                     temp_nick_list.append((nick_id))
                     #xxxab shake hack: add all the upper case versions too
                     temp_nick_list.append(nick_id.upper())
+
+                    # xxxab should we append all lower case too?
+                    # right now it breaks the code.
+                    #temp_nick_list.append(nick_id.lower())
+                    #temp_nick_list = no_repeats(temp_nick_list)
+
                     if (nick != nick_id):
                         print("replacing with dashed", nick, nick_id)
                         s = s.replace(nick, nick_id)
@@ -97,6 +103,13 @@ def change(old_filename, new_filename, aliaslist):
 
     f.close()
 
+# returns a list with no repeated elements, preserving the order of the original list
+def no_repeats(input):
+    output = []
+    if input not in output:
+        output.append(input)
+
+    return output
 
 #########################
 #
