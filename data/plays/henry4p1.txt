@@ -1,4 +1,6 @@
-﻿Act 1, Scene 1
+﻿----------------------------------------
+
+# Act 1, Scene 1
 
 
 xxx:
@@ -174,7 +176,7 @@ xxx:
 ----------------------------------------
 
 
-Act 1, Scene 2
+# Act 1, Scene 2
 
 
 xxx:
@@ -473,7 +475,7 @@ and a cold capon's leg?
 henry5:
 Sir John stands to his word, the devil shall have
 his bargain; for he was never yet a breaker of
-proverbs: he will give the devil his due.
+proverbs; he will give the devil his due.
 
 
 
@@ -601,7 +603,7 @@ xxx:
 
 poins:
 Now, my good sweet honey lord, ride with us
-to-morrow: I have a jest to execute that I cannot
+to-morrow; I have a jest to execute that I cannot
 manage alone. Falstaff, Bardolph, Peto and Gadshill
 shall rob those men that we have already waylaid:
 yourself and I will not be there; and when they
@@ -721,7 +723,7 @@ xxx:
 ----------------------------------------
 
 
-Act 1, Scene 3
+# Act 1, Scene 3
 
 
 xxx:
@@ -981,7 +983,7 @@ By Richard that dead is the next of blood?
 earlnorth:
 He was; I heard the proclamation:
 And then it was when the unhappy king_richard,
---Whose wrongs in us God pardon!--did set forth
+Whose wrongs in us God pardon!--did set forth
 Upon his Irish expedition;
 From whence he intercepted did return
 To be deposed and shortly murdered.
@@ -1339,7 +1341,7 @@ xxx:
 
 
 
-Act 2, Scene 1
+# Act 2, Scene 1
 
 
 xxx:
@@ -1350,7 +1352,7 @@ xxx:
 
 FirstCarrier:
 Heigh-ho! an it be not four by the day, I'll be
-hanged: Charles' wain is over the new chimney, and
+hanged; Charles' wain is over the new chimney, and
 yet our horse not packed. What, ostler!
 
 
@@ -1491,7 +1493,7 @@ Sirrah carrier, what time do you mean to come to London?
 SecondCarrier:
 Time enough to go to bed with a candle, I warrant
 thee. Come, neighbour Mugs, we'll call up the
-gentleman: they will along with company, for they
+gentleman; they will along with company, for they
 have great charge.
 
 
@@ -1633,7 +1635,7 @@ xxx:
 ----------------------------------------
 
 
-Act 2, Scene 2
+# Act 2, Scene 2
 
 
 xxx:
@@ -2020,7 +2022,7 @@ xxx:
 ----------------------------------------
 
 
-Act 2, Scene 3
+# Act 2, Scene 3
 
 
 xxx:
@@ -2037,7 +2039,7 @@ then? In respect of the love he bears our house:
 he shows in this, he loves his own barn better than
 he loves our house. Let me see some more. 'The
 purpose you undertake is dangerous;'--why, that's
-certain: 'tis dangerous to take a cold, to sleep, to
+certain; 'tis dangerous to take a cold, to sleep, to
 drink; but I tell you, my lord fool, out of this
 nettle, danger, we pluck this flower, safety. 'The
 purpose you undertake is dangerous; the friends you
@@ -2113,7 +2115,7 @@ Is Gilliams with the packet gone?
 
 
 
-Servant-h41:
+Servant_h41:
 He is, my lord, an hour ago.
 
 
@@ -2125,7 +2127,7 @@ Hath Butler brought those horses from the sheriff?
 
 
 
-Servant-h41:
+Servant_h41:
 One horse, my lord, he brought even now.
 
 
@@ -2137,7 +2139,7 @@ What horse? a roan, a crop-ear, is it not?
 
 
 
-Servant-h41:
+Servant_h41:
 It is, my lord.
 
 
@@ -2278,7 +2280,7 @@ xxx:
 ----------------------------------------
 
 
-Act 2, Scene 4
+# Act 2, Scene 4
 
 
 xxx:
@@ -2366,7 +2368,7 @@ xxx:
 
 
 
-francis-h4p2:
+francis_h4p2:
 Anon, anon, sir. Look down into the Pomgarnet, Ralph.
 
 
@@ -2378,7 +2380,7 @@ Come hither, Francis.
 
 
 
-francis-h4p2:
+francis_h4p2:
 My lord?
 
 
@@ -2390,7 +2392,7 @@ How long hast thou to serve, Francis?
 
 
 
-francis-h4p2:
+francis_h4p2:
 Forsooth, five years, and as much as to--
 
 
@@ -2402,7 +2404,7 @@ poins:
 
 
 
-francis-h4p2:
+francis_h4p2:
 Anon, anon, sir.
 
 
@@ -2417,7 +2419,7 @@ a fair pair of heels and run from it?
 
 
 
-francis-h4p2:
+francis_h4p2:
 O Lord, sir, I'll be sworn upon all the books in
 England, I could find in my heart.
 
@@ -2430,7 +2432,7 @@ poins:
 
 
 
-francis-h4p2:
+francis_h4p2:
 Anon, sir.
 
 
@@ -2442,7 +2444,7 @@ How old art thou, Francis?
 
 
 
-francis-h4p2:
+francis_h4p2:
 Let me see--about Michaelmas next I shall be--
 
 
@@ -2454,7 +2456,7 @@ poins:
 
 
 
-francis-h4p2:
+francis_h4p2:
 Anon, sir. Pray stay a little, my lord.
 
 
@@ -2467,7 +2469,7 @@ gavest me,'twas a pennyworth, wast't not?
 
 
 
-francis-h4p2:
+francis_h4p2:
 O Lord, I would it had been two!
 
 
@@ -2486,7 +2488,7 @@ poins:
 
 
 
-francis-h4p2:
+francis_h4p2:
 Anon, anon.
 
 
@@ -2500,7 +2502,7 @@ thou wilt. But, Francis!
 
 
 
-francis-h4p2:
+francis_h4p2:
 My lord?
 
 
@@ -2514,7 +2516,7 @@ smooth-tongue, Spanish-pouch,--
 
 
 
-francis-h4p2:
+francis_h4p2:
 O Lord, sir, who do you mean?
 
 
@@ -2528,7 +2530,7 @@ will sully: in Barbary, sir, it cannot come to so much.
 
 
 
-francis-h4p2:
+francis_h4p2:
 What, sir?
 
 
@@ -2609,7 +2611,7 @@ What's o'clock, Francis?
 
 
 
-francis-h4p2:
+francis_h4p2:
 Anon, anon, sir.
 
 
@@ -2731,7 +2733,7 @@ I call thee coward! I'll see thee damned ere I call
 thee coward: but I would give a thousand pound I
 could run as fast as thou canst. You are straight
 enough in the shoulders, you care not who sees your
-back: call you that backing of your friends? A
+back; call you that backing of your friends? A
 plague upon such backing! give me them that will
 face me. Give me a cup of sack: I am a rogue, if I
 drunk to-day.
@@ -3526,7 +3528,7 @@ should be lewdly given, he deceiveth me; for, Harry_hal,
 I see virtue in his looks. If then the tree may be
 known by the fruit, as the fruit by the tree, then,
 peremptorily I speak it, there is virtue in that
-Falstaff: him keep with, the rest banish. And tell
+Falstaff; him keep with, the rest banish. And tell
 me now, thou naughty varlet, tell me, where hast
 thou been this month?
 
@@ -3646,7 +3648,7 @@ Falstaff, kind Jack Falstaff, true Jack Falstaff,
 valiant Jack Falstaff, and therefore more valiant,
 being, as he is, old Jack Falstaff, banish not him
 thy Harry_hal's company, banish not him thy Harry_hal's
-company: banish plump Jack, and banish all the world.
+company; banish plump Jack, and banish all the world.
 
 
 
@@ -3762,7 +3764,7 @@ Now, master sheriff, what is your will with me?
 
 
 
-sheriff-h41:
+sheriff_h41:
 First, pardon me, my lord. A hue and cry
 Hath follow'd certain men unto this house.
 
@@ -3775,7 +3777,7 @@ What men?
 
 
 
-sheriff-h41:
+sheriff_h41:
 One of them is well known, my gracious lord,
 A gross fat man.
 
@@ -3800,7 +3802,7 @@ And so let me entreat you leave the house.
 
 
 
-sheriff-h41:
+sheriff_h41:
 I will, my lord. There are two gentlemen
 Have in this robbery lost three hundred marks.
 
@@ -3814,7 +3816,7 @@ He shall be answerable; and so farewell.
 
 
 
-sheriff-h41:
+sheriff_h41:
 Good night, my noble lord.
 
 
@@ -3826,7 +3828,7 @@ I think it is good morrow, is it not?
 
 
 
-sheriff-h41:
+sheriff_h41:
 Indeed, my lord, I think it be two o'clock.
 
 
@@ -3914,7 +3916,7 @@ Good morrow, good my lord.
 
 
 
-Act 3, Scene 1
+# Act 3, Scene 1
 
 
 xxx:
@@ -4620,7 +4622,7 @@ xxx:
 ----------------------------------------
 
 
-Act 3, Scene 2
+# Act 3, Scene 2
 
 
 xxx:
@@ -4866,7 +4868,7 @@ xxx:
 ----------------------------------------
 
 
-Act 3, Scene 3
+# Act 3, Scene 3
 
 
 xxx:
@@ -5344,8 +5346,8 @@ It appears so by the story.
 falstaff:
 Hostess, I forgive thee: go, make ready breakfast;
 love thy husband, look to thy servants, cherish thy
-guests: thou shalt find me tractable to any honest
-reason: thou seest I am pacified still. Nay,
+guests; thou shalt find me tractable to any honest
+reason; thou seest I am pacified still. Nay,
 prithee, be gone.
 [Exit Hostess]
 Now Hal, to the news at court: for the robbery,
@@ -5356,7 +5358,7 @@ lad, how is that answered?
 
 henry5:
 O, my sweet beef, I must still be good angel to
-thee: the money is paid back again.
+thee; the money is paid back again.
 
 
 
@@ -5453,7 +5455,7 @@ xxx:
 ****************************************
 
 
-Act 4, Scene 1
+# Act 4, Scene 1
 
 xxx:
 [Enter HOTSPUR, WORCESTER, and DOUGLAS]
@@ -5483,7 +5485,7 @@ Do so, and 'tis well.
 What letters hast thou there?--I can but thank you.
 
 
-Messenger-h41:
+Messenger_h41:
 These letters come from your hotspur_father.
 
 
@@ -5491,7 +5493,7 @@ hotspur:
 Letters from him! why comes he not himself?
 
 
-Messenger-h41:
+Messenger_h41:
 He cannot come, my lord; he is grievous sick.
 
 
@@ -5501,7 +5503,7 @@ In such a rustling time? Who leads his power?
 Under whose government come they along?
 
 
-Messenger-h41:
+Messenger_h41:
 His letters bear his mind, not I, my lord.
 
 
@@ -5509,7 +5511,7 @@ worcester:
 I prithee, tell me, doth he keep his bed?
 
 
-Messenger-h41:
+Messenger_h41:
 He did, my lord, four days ere I set forth;
 And at the time of my departure thence
 He was much fear'd by his physicians.
@@ -5712,7 +5714,7 @@ xxx:
 
 ----------------------------------------
 
-Act 4, Scene 2
+# Act 4, Scene 2
 
 xxx:
 [Enter FALSTAFF and BARDOLPH]
@@ -5876,7 +5878,7 @@ xxx:
 
 ----------------------------------------
 
-Act 4, Scene 3
+# Act 4, Scene 3
 
 xxx:
 [Enter HOTSPUR, WORCESTER, DOUGLAS, and VERNON]
@@ -6101,7 +6103,7 @@ xxx:
 
 ----------------------------------------
 
-Act 4, Scene 4
+# Act 4, Scene 4
 
 xxx:
 [Enter the ARCHBISHOP and SIR MICHAEL]
@@ -6183,7 +6185,7 @@ xxx:
 ****************************************
 
 
-Act 5, Scene 1
+# Act 5, Scene 1
 
 xxx:
 [Enter KING HENRY, PRINCE HENRY, Lord John of LANCASTER, EARL OF WESTMORELAND, SIR WALTER BLUNT, and FALSTAFF]
@@ -6405,7 +6407,7 @@ xxx:
 
 ----------------------------------------
 
-Act 5, Scene 2
+# Act 5, Scene 2
 
 xxx:
 [Enter WORCESTER and VERNON]
@@ -6558,7 +6560,7 @@ xxx:
 [Enter a Messenger]
 
 
-Messenger-h41:
+Messenger_h41:
 My lord, here are letters for you.
 
 
@@ -6578,7 +6580,7 @@ xxx:
 [Enter another Messenger]
 
 
-Messenger-h41:
+Messenger_h41:
 My lord, prepare; the king_henry comes on apace.
 
 
@@ -6602,7 +6604,7 @@ xxx:
 
 ----------------------------------------
 
-Act 5, Scene 3
+# Act 5, Scene 3
 
 xxx:
 [KING HENRY enters with his power. Alarum to the battle. Then enter DOUGLAS and SIR WALTER BLUNT]
@@ -6763,7 +6765,7 @@ Well, if Percy_hotspur be alive, I'll pierce him. If he do
 come in my way, so: if he do not, if I come in his
 willingly, let him make a carbonado of me. I like
 not such grinning honour as Sir Walter hath: give me
-life: which if I can save, so; if not, honour comes
+life; which if I can save, so; if not, honour comes
 unlooked for, and there's an end.
 
 
@@ -6773,7 +6775,7 @@ xxx:
 
 ----------------------------------------
 
-Act 5, Scene 4
+# Act 5, Scene 4
 
 xxx:
 [Alarum. Excursions. Enter PRINCE HENRY, LORD JOHN OF LANCASTER, and EARL OF WESTMORELAND]
@@ -7089,7 +7091,7 @@ fought a long hour by Shrewsbury clock. If I may be
 believed, so; if not, let them that should reward
 valour bear the sin upon their own heads. I'll take
 it upon my death, I gave him this wound in the
-thigh: if the man were alive and would deny it,
+thigh; if the man were alive and would deny it,
 'zounds, I would make him eat a piece of my sword.
 
 
@@ -7125,7 +7127,7 @@ xxx:
 
 ----------------------------------------
 
-Act 5, Scene 5
+# Act 5, Scene 5
 
 xxx:
 [The trumpets sound. Enter KING HENRY IV, PRINCE HENRY, LORD JOHN LANCASTER, EARL OF WESTMORELAND, with WORCESTER and VERNON prisoners]
