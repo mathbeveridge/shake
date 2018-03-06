@@ -1,4 +1,5 @@
 ------------------------
+------------------------
 # Act 1, Scene 1
 
 xxx:
@@ -147,7 +148,7 @@ Or on Diana's altar to protest
 For aye austerity and single life.
 
 
-Demetrius:
+Demetrius_mnd:
 Relent, sweet Hermia: and, Lysander, yield
 Thy crazed title to my certain right.
 
@@ -306,7 +307,7 @@ Hermia:
 God speed fair Helena! whither away?
 
 
-Helena:
+Helena_mnd:
 Call you me fair? that fair again unsay.
 Demetrius loves your fair: O happy fair!
 Your eyes are lode-stars; and your tongue's sweet air
@@ -326,7 +327,7 @@ Hermia:
 I frown upon him, yet he loves me still.
 
 
-Helena:
+Helena_mnd:
 O that your frowns would teach my smiles such skill!
 
 
@@ -334,7 +335,7 @@ Hermia:
 I give him curses, yet he gives me love.
 
 
-Helena:
+Helena_mnd:
 O that my prayers could such affection move!
 
 
@@ -342,7 +343,7 @@ Hermia:
 The more I hate, the more he follows me.
 
 
-Helena:
+Helena_mnd:
 The more I love, the more he hateth me.
 
 
@@ -492,10 +493,10 @@ A lover, that kills himself most gallant for love.
 
 Bottom:
 That will ask some tears in the true performing of
-it: if I do it, let the audience look to their
+it; if I do it, let the audience look to their
 eyes; I will move storms, I will condole in some
 measure. To the rest: yet my chief humour is for a
-tyrant: I could play Ercles rarely, or a part to
+tyrant; I could play Ercles rarely, or a part to
 tear a cat in, to make all split.
 The raging rocks
 And shivering shocks
@@ -950,7 +951,7 @@ xxx:
 [Enter DEMETRIUS, HELENA, following him]
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 I love thee not, therefore pursue me not.
 Where is Lysander and fair Hermia?
 The one I'll slay, the other slayeth me.
@@ -960,20 +961,20 @@ Because I cannot meet my Hermia.
 Hence, get thee gone, and follow me no more.
 
 
-Helena-mnd:
+Helena_mnd:
 You draw me, you hard-hearted adamant;
 But yet you draw not iron, for my heart
 Is true as steel: leave you your power to draw,
 And I shall have no power to follow you.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 Do I entice you? do I speak you fair?
 Or, rather, do I not in plainest truth
 Tell you, I do not, nor I cannot love you?
 
 
-Helena-mnd:
+Helena_mnd:
 And even for that do I love you the more.
 I am your spaniel; and, Demetrius,
 The more you beat me, I will fawn on you:
@@ -985,16 +986,16 @@ And yet a place of high respect with me,--
 Than to be used as you use your dog?
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 Tempt not too much the hatred of my spirit;
 For I am sick when I do look on thee.
 
 
-Helena-mnd:
+Helena_mnd:
 And I am sick when I look not on you.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 You do impeach your modesty too much,
 To leave the city and commit yourself
 Into the hands of one that loves you not;
@@ -1003,7 +1004,7 @@ And the ill counsel of a desert place
 With the rich worth of your virginity.
 
 
-Helena-mnd:
+Helena_mnd:
 Your virtue is my privilege: for that
 It is not night when I do see your face,
 Therefore I think I am not in the night;
@@ -1013,12 +1014,12 @@ Then how can it be said I am alone,
 When all the world is here to look on me?
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 I'll run from thee and hide me in the brakes,
 And leave thee to the mercy of wild beasts.
 
 
-Helena-mnd:
+Helena_mnd:
 The wildest hath not such a heart as you.
 Run when you will, the story shall be changed:
 Apollo flies, and Daphne holds the chase;
@@ -1027,13 +1028,13 @@ Makes speed to catch the tiger; bootless speed,
 When cowardice pursues and valour flies.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 I will not stay thy questions; let me go:
 Or, if thou follow me, do not believe
 But I shall do thee mischief in the wood.
 
 
-Helena-mnd:
+Helena_mnd:
 Ay, in the temple, in the town, the field,
 You do me mischief. Fie, Demetrius!
 Your wrongs do set a scandal on my sex:
@@ -1250,19 +1251,19 @@ xxx:
 [Enter DEMETRIUS and HELENA, running]
 
 
-Helena-mnd:
+Helena_mnd:
 Stay, though thou kill me, sweet Demetrius.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 I charge thee, hence, and do not haunt me thus.
 
 
-Helena-mnd:
+Helena_mnd:
 O, wilt thou darkling leave me? do not so.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 Stay, on thy peril: I alone will go.
 
 
@@ -1270,7 +1271,7 @@ xxx:
 [Exit]
 
 
-Helena-mnd:
+Helena_mnd:
 O, I am out of breath in this fond chase!
 The more my prayer, the lesser is my grace.
 Happy is Hermia, wheresoe'er she lies;
@@ -1296,7 +1297,7 @@ Where is Demetrius? O, how fit a word
 Is that vile name to perish on my sword!
 
 
-Helena-mnd:
+Helena_mnd:
 Do not say so, Lysander; say not so
 What though he love your Hermia? Lord, what though?
 Yet Hermia still loves you: then be content.
@@ -1317,7 +1318,7 @@ And leads me to your eyes, where I o'erlook
 Love's stories written in love's richest book.
 
 
-Helena-mnd:
+Helena_mnd:
 Wherefore was I to this keen mockery born?
 When at your hands did I deserve this scorn?
 Is't not enough, is't not enough, young man,
@@ -1736,7 +1737,7 @@ Cobweb:
 And I.
 
 
-Moth-mnd:
+Moth_mnd:
 And I.
 
 
@@ -1744,7 +1745,7 @@ Mustardseed:
 And I.
 
 
-All-mnd:
+All_mnd:
 Where shall we go?
 
 
@@ -1770,7 +1771,7 @@ Cobweb:
 Hail!
 
 
-Moth-mnd:
+Moth_mnd:
 Hail!
 
 
@@ -1905,7 +1906,7 @@ Puck:
 This is the woman_hermia, but not this the man_demetrius.
 
 
-Demetrius:
+Demetrius_mnd:
 O, why rebuke you him that loves you so?
 Lay breath so bitter on your bitter foe.
 
@@ -1926,7 +1927,7 @@ It cannot be but thou hast murder'd him;
 So should a murderer look, so dead, so grim.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 So should the murder'd look, and so should I,
 Pierced through the heart with your stern cruelty:
 Yet you, the murderer, look as bright, as clear,
@@ -1938,7 +1939,7 @@ What's this to my Lysander? where is he?
 Ah, good Demetrius, wilt thou give him me?
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 I had rather give his carcass to my hounds.
 
 
@@ -1954,7 +1955,7 @@ An adder did it; for with doubler tongue
 Than thine, thou serpent, never adder stung.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 You spend your passion on a misprised mood:
 I am not guilty of Lysander's blood;
 Nor is he dead, for aught that I can tell.
@@ -1964,7 +1965,7 @@ Hermia:
 I pray thee, tell me then that he is well.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 An if I could, what should I get therefore?
 
 
@@ -1978,7 +1979,7 @@ xxx:
 [Exit]
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 There is no following her in this fierce vein:
 Here therefore for a while I will remain.
 So sorrow's heaviness doth heavier grow
@@ -2070,7 +2071,7 @@ How can these things in me seem scorn to you,
 Bearing the badge of faith, to prove them true?
 
 
-Helena-mnd:
+Helena_mnd:
 You do advance your cunning more and more.
 When truth kills truth, O devilish-holy fray!
 These vows are Hermia's: will you give her o'er?
@@ -2083,7 +2084,7 @@ Lysander:
 I had no judgment when to her I swore.
 
 
-Helena-mnd:
+Helena_mnd:
 Nor none, in my mind, now you give her o'er.
 
 
@@ -2091,7 +2092,7 @@ Lysander:
 Demetrius loves her, and he loves not you.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 [Awaking] O Helena, goddess, nymph, perfect, divine!
 To what, my love, shall I compare thine eyne?
 Crystal is muddy. O, how ripe in show
@@ -2102,7 +2103,7 @@ When thou hold'st up thy hand: O, let me kiss
 This princess of pure white, this seal of bliss!
 
 
-Helena-mnd:
+Helena_mnd:
 O spite! O hell! I see you all are bent
 To set against me for your merriment:
 If you we re civil and knew courtesy,
@@ -2114,7 +2115,7 @@ You would not use a gentle lady so;
 To vow, and swear, and superpraise my parts,
 When I am sure you hate me with your hearts.
 You both are rivals, and love Hermia;
-And now both rivals, to mock Helena:
+And now both rivals, to mock Helena_mnd:
 A trim exploit, a manly enterprise,
 To conjure tears up in a poor maid's eyes
 With your derision! none of noble sort
@@ -2131,11 +2132,11 @@ And yours of Helena to me bequeath,
 Whom I do love and will do till my death.
 
 
-Helena-mnd:
+Helena_mnd:
 Never did mockers waste more idle breath.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 Lysander, keep thy Hermia; I will none:
 If e'er I loved her, all that love is gone.
 My heart to her but as guest-wise sojourn'd,
@@ -2147,7 +2148,7 @@ Lysander:
 Helen, it is not so.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 Disparage not the faith thou dost not know,
 Lest, to thy peril, thou aby it dear.
 Look, where thy love comes; yonder is thy dear.
@@ -2187,7 +2188,7 @@ Hermia:
 You speak not as you think: it cannot be.
 
 
-Helena-mnd:
+Helena_mnd:
 Lo, she is one of this confederacy!
 Now I perceive they have conjoin'd all three
 To fashion this false sport, in spite of me.
@@ -2223,7 +2224,7 @@ I am amazed at your passionate words.
 I scorn you not: it seems that you scorn me.
 
 
-Helena-mnd:
+Helena_mnd:
 Have you not set Lysander, as in scorn,
 To follow me and praise my eyes and face?
 And made your other love, Demetrius,
@@ -2244,7 +2245,7 @@ Hermia:
 I understand not what you mean by this.
 
 
-Helena-mnd:
+Helena_mnd:
 Ay, do, persever, counterfeit sad looks,
 Make mouths upon me when I turn my back;
 Wink each at other; hold the sweet jest up:
@@ -2260,7 +2261,7 @@ Stay, gentle Helena; hear my excuse:
 My love, my life my soul, fair Helena!
 
 
-Helena-mnd:
+Helena_mnd:
 O excellent!
 
 
@@ -2268,7 +2269,7 @@ Hermia:
 Sweet, do not scorn her so.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 If she cannot entreat, I can compel.
 
 
@@ -2280,7 +2281,7 @@ I swear by that which I will lose for thee,
 To prove him false that says I love thee not.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 I say I love thee more than he can do.
 
 
@@ -2288,7 +2289,7 @@ Lysander:
 If thou say so, withdraw, and prove it too.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 Quick, come!
 
 
@@ -2300,7 +2301,7 @@ Lysander:
 Away, you Ethiope!
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 No, no; he'll
 Seem to break loose; take on as you would follow,
 But yet come not: you are a tame man, go!
@@ -2325,7 +2326,7 @@ Hermia:
 Do you not jest?
 
 
-Helena-mnd:
+Helena_mnd:
 Yes, sooth; and so do you.
 
 
@@ -2333,7 +2334,7 @@ Lysander:
 Demetrius, I will keep my word with thee.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 I would I had your bond, for I perceive
 A weak bond holds you: I'll not trust your word.
 
@@ -2349,7 +2350,7 @@ Hate me! wherefore? O me! what news, my love!
 Am not I Hermia? are not you Lysander?
 I am as fair now as I was erewhile.
 Since night you loved me; yet since night you left
-me:
+me;
 Why, then you left me--O, the gods forbid!--
 In earnest, shall I say?
 
@@ -2368,7 +2369,7 @@ You thief of love! what, have you come by night
 And stolen my love's heart from him?
 
 
-Helena-mnd:
+Helena_mnd:
 Fine, i'faith!
 Have you no modesty, no maiden shame,
 No touch of bashfulness? What, will you tear
@@ -2389,7 +2390,7 @@ How low am I? I am not yet so low
 But that my nails can reach unto thine eyes.
 
 
-Helena-mnd:
+Helena_mnd:
 I pray you, though you mock me, gentlemen,
 Let her not hurt me: I was never curst;
 I have no gift at all in shrewishness;
@@ -2403,7 +2404,7 @@ Hermia:
 Lower! hark, again.
 
 
-Helena-mnd:
+Helena_mnd:
 Good Hermia, do not be so bitter with me.
 I evermore did love you, Hermia,
 Did ever keep your counsels, never wrong'd you;
@@ -2422,7 +2423,7 @@ Hermia:
 Why, get you gone: who is't that hinders you?
 
 
-Helena-mnd:
+Helena_mnd:
 A foolish heart, that I leave here behind.
 
 
@@ -2430,7 +2431,7 @@ Hermia:
 What, with Lysander?
 
 
-Helena-mnd:
+Helena_mnd:
 With Demetrius.
 
 
@@ -2438,11 +2439,11 @@ Lysander:
 Be not afraid; she shall not harm thee, Helena.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 No, sir, she shall not, though you take her part.
 
 
-Helena-mnd:
+Helena_mnd:
 O, when she's angry, she is keen and shrewd!
 She was a vixen when she went to school;
 And though she be but little, she is fierce.
@@ -2460,7 +2461,7 @@ You minimus, of hindering knot-grass made;
 You bead, you acorn.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 You are too officious
 In her behalf that scorns your services.
 Let her alone: speak not of Helena;
@@ -2475,7 +2476,7 @@ Now follow, if thou darest, to try whose right,
 Of thine or mine, is most in Helena.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 Follow! nay, I'll go with thee, cheek by jole.
 
 
@@ -2488,7 +2489,7 @@ You, mistress, all this coil is 'long of you:
 Nay, go not back.
 
 
-Helena-mnd:
+Helena_mnd:
 I will not trust you, I,
 Nor longer stay in your curst company.
 Your hands than mine are quicker for a fray,
@@ -2614,7 +2615,7 @@ xxx:
 [Re-enter DEMETRIUS]
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 Lysander! speak again:
 Thou runaway, thou coward, art thou fled?
 Speak! In some bush? Where dost thou hide thy head?
@@ -2628,7 +2629,7 @@ I'll whip thee with a rod: he is defiled
 That draws a sword on thee.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 Yea, art thou there?
 
 
@@ -2669,7 +2670,7 @@ Puck:
 Ho, ho, ho! Coward, why comest thou not?
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 Abide me, if thou darest; for well I wot
 Thou runn'st before me, shifting every place,
 And darest not stand, nor look me in the face.
@@ -2680,7 +2681,7 @@ Puck:
 Come hither: I am here.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 Nay, then, thou mock'st me. Thou shalt buy this dear,
 If ever I thy face by daylight see:
 Now, go thy way. Faintness constraineth me
@@ -2696,7 +2697,7 @@ xxx:
 [Re-enter HELENA]
 
 
-Helena-mnd:
+Helena_mnd:
 O weary night, O long and tedious night,
 Abate thy hour! Shine comforts from the east,
 That I may back to Athens by daylight,
@@ -3021,7 +3022,7 @@ Judge when you hear. But, soft! what nymphs are these?
 Egeus:
 My lord, this is my daughter here asleep;
 And this, Lysander; this Demetrius is;
-This Helena, old Nedar's Helena:
+This Helena, old Nedar's Helena_mnd:
 I wonder of their being here together.
 
 
@@ -3077,7 +3078,7 @@ You of your wife and me of my consent,
 Of my consent that she should be your wife.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 My lord, fair Helen told me of their stealth,
 Of this their purpose hither to this wood;
 And I in fury hither follow'd them,
@@ -3114,7 +3115,7 @@ xxx:
 [Exeunt THESEUS, HIPPOLYTA, EGEUS, and train]
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 These things seem small and undistinguishable,
 
 
@@ -3123,13 +3124,13 @@ Methinks I see these things with parted eye,
 When every thing seems double.
 
 
-Helena-mnd:
+Helena_mnd:
 So methinks:
 And I have found Demetrius like a jewel,
 Mine own, and not mine own.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 Are you sure
 That we are awake? It seems to me
 That yet we sleep, we dream. Do not you think
@@ -3140,7 +3141,7 @@ Hermia:
 Yea; and my father.
 
 
-Helena-mnd:
+Helena_mnd:
 And Hippolyta.
 
 
@@ -3148,7 +3149,7 @@ Lysander:
 And he did bid us follow to the temple.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 Why, then, we are awake: let's follow him
 And by the way let us recount our dreams.
 
@@ -3159,7 +3160,7 @@ xxx:
 
 Bottom:
 [Awaking] When my cue comes, call me, and I will
-answer: my next is, 'Most fair Pyramus.' Heigh-ho!
+answer; my next is, 'Most fair Pyramus.' Heigh-ho!
 Peter Quince! Flute, the bellows-mender! Snout,
 the tinker! Starveling! God's my life, stolen
 hence, and left me asleep! I have had a most rare
@@ -3573,7 +3574,7 @@ Theseus:
 I wonder if the lion be to speak.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 No wonder, my lord: one lion may, when many asses do.
 
 
@@ -3594,7 +3595,7 @@ Theseus:
 Would you desire lime and hair to speak better?
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 It is the wittiest partition that ever I heard
 discourse, my lord.
 
@@ -3704,7 +3705,7 @@ Theseus:
 Now is the mural down between the two neighbours.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 No remedy, my lord, when walls are so wilful to hear
 without warning.
 
@@ -3747,7 +3748,7 @@ Theseus:
 A very gentle beast, of a good conscience.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 The very best at a beast, my lord, that e'er I saw.
 
 
@@ -3759,7 +3760,7 @@ Theseus:
 True; and a goose for his discretion.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 Not so, my lord; for his valour cannot carry his
 discretion; and the fox carries the goose.
 
@@ -3774,7 +3775,7 @@ Starveling:
 [as Moonshine] This lanthorn doth the horned moon present;--
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 He should have worn the horns on his head.
 
 
@@ -3794,7 +3795,7 @@ should be put into the lanthorn. How is it else the
 man i' the moon?
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 He dares not come there for the candle; for, you
 see, it is already in snuff.
 
@@ -3819,7 +3820,7 @@ lanthorn is the moon; I, the man in the moon; this
 thorn-bush, my thorn-bush; and this dog, my dog.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 Why, all these should be in the lanthorn; for all
 these are in the moon. But, silence! here comes Thisbe.
 
@@ -3840,7 +3841,7 @@ xxx:
 [Thisbe runs off]
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 Well roared, Lion.
 
 
@@ -3865,7 +3866,7 @@ Lysander:
 And so the lion vanished.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 And then came Pyramus.
 
 
@@ -3927,7 +3928,7 @@ xxx:
 [Dies]
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 No die, but an ace, for him; for he is but one.
 
 
@@ -3959,7 +3960,7 @@ Methinks she should not use a long one for such a
 Pyramus: I hope she will be brief.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 A mote will turn the balance, which Pyramus, which
 Thisbe, is the better; he for a man, God warrant us;
 she for a woman, God bless us.
@@ -3969,7 +3970,7 @@ Lysander:
 She hath spied him already with those sweet eyes.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 And thus she means, videlicet:--
 
 
@@ -4009,7 +4010,7 @@ Theseus:
 Moonshine and Lion are left to bury the dead.
 
 
-Demetrius-mnd:
+Demetrius_mnd:
 Ay, and Wall too.
 
 
@@ -4026,7 +4027,7 @@ excuse. Never excuse; for when the players are all
 dead, there needs none to be blamed. Marry, if he
 that writ it had played Pyramus and hanged himself
 in Thisbe's garter, it would have been a fine
-tragedy: and so it is, truly; and very notably
+tragedy; and so it is, truly; and very notably
 discharged. But come, your Bergomask: let your
 epilogue alone.
 [A dance]

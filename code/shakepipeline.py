@@ -56,7 +56,7 @@ So I suggest that you just run the script, let it fail, change the offending col
 my_dir = "/Users/abeverid/PycharmProjects/shake/"
 
 # play
-play = "hamlet"
+play = "midsummer"
 
 
 
