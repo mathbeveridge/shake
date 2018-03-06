@@ -1,4 +1,5 @@
-Act 1, Scene 1
+------------------------
+# Act 1, Scene 1
 
 xxx:
 [Enter THESEUS, HIPPOLYTA, PHILOSTRATE, and Attendants]
@@ -54,7 +55,7 @@ This man hath my consent to marry her.
 Stand forth, Lysander: and my gracious duke,
 This man hath bewitch'd the bosom of my child;
 Thou, thou, Lysander, thou hast given her rhymes,
-And interchanged love-tokens with my child:
+And interchanged love-tokens with Hermia:
 Thou hast by moonlight at her window sung,
 With feigning voice verses of feigning love,
 And stolen the impression of her fantasy
@@ -63,7 +64,7 @@ Knacks, trifles, nosegays, sweetmeats, messengers
 Of strong prevailment in unharden'd youth:
 With cunning hast thou filch'd my daughter's heart,
 Turn'd her obedience, which is due to me,
-To stubborn harshness: and, my gracious duke,
+To stubborn harshness: and, my gracious duke_Theseus,
 Be it so she; will not here before your grace
 Consent to marry with Demetrius,
 I beg the ancient privilege of Athens,
@@ -75,7 +76,7 @@ Immediately provided in that case.
 
 Theseus:
 What say you, Hermia? be advised fair maid:
-To you your father should be as a god;
+To you your father_Egeus should be as a god;
 One that composed your beauties, yea, and one
 To whom you are but as a form in wax
 By him imprinted and within his power
@@ -89,12 +90,12 @@ So is Lysander.
 
 Theseus:
 In himself he is;
-But in this kind, wanting your father's voice,
+But in this kind, wanting your father_Egeus's voice,
 The other must be held the worthier.
 
 
 Hermia:
-I would my father look'd but with my eyes.
+I would my father_Egeus look'd but with my eyes.
 
 
 Theseus:
@@ -116,7 +117,7 @@ Either to die the death or to abjure
 For ever the society of men.
 Therefore, fair Hermia, question your desires;
 Know of your youth, examine well your blood,
-Whether, if you yield not to your father's choice,
+Whether, if you yield not to your father_Egeus's choice,
 You can endure the livery of a nun,
 For aye to be in shady cloister mew'd,
 To live a barren sister all your life,
@@ -137,28 +138,28 @@ My soul consents not to give sovereignty.
 
 Theseus:
 Take time to pause; and, by the nest new moon--
-The sealing-day betwixt my love and me,
+The sealing-day betwixt my love_Hippolyta and me,
 For everlasting bond of fellowship--
 Upon that day either prepare to die
-For disobedience to your father's will,
+For disobedience to your father_Egeus's will,
 Or else to wed Demetrius, as he would;
 Or on Diana's altar to protest
 For aye austerity and single life.
 
 
-Demetrius-mnd:
+Demetrius:
 Relent, sweet Hermia: and, Lysander, yield
 Thy crazed title to my certain right.
 
 
 Lysander:
-You have her father's love, Demetrius;
+You have her father_Egeus's love, Demetrius;
 Let me have Hermia's: do you marry him.
 
 
 Egeus:
 Scornful Lysander! true, he hath my love,
-And what is mine my love shall render him.
+And what is mine my love_Hermia shall render him.
 And she is mine, and all my right of her
 I do estate unto Demetrius.
 
@@ -305,7 +306,7 @@ Hermia:
 God speed fair Helena! whither away?
 
 
-Helena-mnd:
+Helena:
 Call you me fair? that fair again unsay.
 Demetrius loves your fair: O happy fair!
 Your eyes are lode-stars; and your tongue's sweet air
@@ -325,7 +326,7 @@ Hermia:
 I frown upon him, yet he loves me still.
 
 
-Helena-mnd:
+Helena:
 O that your frowns would teach my smiles such skill!
 
 
@@ -333,7 +334,7 @@ Hermia:
 I give him curses, yet he gives me love.
 
 
-Helena-mnd:
+Helena:
 O that my prayers could such affection move!
 
 
@@ -341,7 +342,7 @@ Hermia:
 The more I hate, the more he follows me.
 
 
-Helena-mnd:
+Helena:
 The more I love, the more he hateth me.
 
 
@@ -349,7 +350,7 @@ Hermia:
 His folly, Helena, is no fault of mine.
 
 
-Helena-mnd:
+Helena_mnd:
 None, but your beauty: would that fault were mine!
 
 
@@ -395,7 +396,7 @@ xxx:
 [Exit]
 
 
-Helena-mnd:
+Helena_mnd:
 How happy some o'er other some can be!
 Through Athens I am thought as fair as she.
 But what of that? Demetrius thinks not so;
@@ -425,12 +426,12 @@ To have his sight thither and back again.
 
 
 xxx:
-[Exit]
+[Exit HERMIA]
 
 
 ----------------------------------------
 
-Act 1, Scene 2
+# Act 1, Scene 2
 
 xxx:
 [Enter QUINCE, SNUG, BOTTOM, FLUTE, SNOUT, and STARVELING]
@@ -448,7 +449,7 @@ according to the scrip.
 Quince:
 Here is the scroll of every man's name, which is
 thought fit, through all Athens, to play in our
-interlude before the duke and the duchess, on his
+interlude before the duke_Theseus and the duchess_Hippolyta, on his
 wedding-day at night.
 
 
@@ -588,17 +589,17 @@ You may do it extempore, for it is nothing but roaring.
 Bottom:
 Let me play the lion too: I will roar, that I will
 do any man's heart good to hear me; I will roar,
-that I will make the duke say 'Let him roar again,
+that I will make the duke_Theseus say 'Let him roar again,
 let him roar again.'
 
 
 Quince:
 An you should do it too terribly, you would fright
-the duchess and the ladies, that they would shriek;
+the duchess_Hippolyta and the ladies, that they would shriek;
 and that were enough to hang us all.
 
 
-All-mnd:
+All_mnd:
 That would hang us, every mother's son.
 
 
@@ -653,7 +654,7 @@ obscenely and courageously. Take pains; be perfect: adieu.
 
 
 Quince:
-At the duke's oak we meet.
+At the duke_Theseus's oak we meet.
 
 
 Bottom:
@@ -674,7 +675,7 @@ xxx:
 
 
 Puck:
-How now, spirit! whither wander you?
+How now, spirit_fairy! whither wander you?
 
 
 Fairy:
@@ -701,11 +702,11 @@ The king doth keep his revels here to-night:
 Take heed the queen come not within his sight;
 For Oberon is passing fell and wrath,
 Because that she as her attendant hath
-A lovely boy, stolen from an Indian king;
+A lovely boy_changeling, stolen from an Indian king;
 She never had so sweet a changeling;
-And jealous Oberon would have the child
+And jealous Oberon would have the child_changeling
 Knight of his train, to trace the forests wild;
-But she perforce withholds the loved boy,
+But she perforce withholds the loved boy_changeling,
 Crowns him with flowers and makes him all her joy:
 And now they never meet in grove or green,
 By fountain clear, or spangled starlight sheen,
@@ -841,7 +842,7 @@ To be my henchman.
 Titania:
 Set your heart at rest:
 The fairy land buys not the child of me.
-His mother was a votaress of my order:
+His mother_changeling was a votaress of my order:
 And, in the spiced Indian air, by night,
 Full often hath she gossip'd by my side,
 And sat with me on Neptune's yellow sands,
@@ -853,8 +854,8 @@ Following,--her womb then rich with my young squire,--
 Would imitate, and sail upon the land,
 To fetch me trifles, and return again,
 As from a voyage, rich with merchandise.
-But she, being mortal, of that boy did die;
-And for her sake do I rear up her boy,
+But she, being mortal, of that boy_changeling did die;
+And for her sake do I rear up her boy_changeling,
 And for her sake I will not part with him.
 
 
@@ -870,7 +871,7 @@ If not, shun me, and I will spare your haunts.
 
 
 Oberon:
-Give me that boy, and I will go with thee.
+Give me that boy_changeling, and I will go with thee.
 
 
 Titania:
@@ -935,7 +936,7 @@ Having once this juice,
 I'll watch Titania when she is asleep,
 And drop the liquor of it in her eyes.
 The next thing then she waking looks upon,
-Be it on lion, bear, or wolf, or bull,
+Be it on lion_real, bear, or wolf, or bull,
 On meddling monkey, or on busy ape,
 She shall pursue it with the soul of love:
 And ere I take this charm from off her sight,
@@ -1071,10 +1072,10 @@ Weed wide enough to wrap a fairy in:
 And with the juice of this I'll streak her eyes,
 And make her full of hateful fantasies.
 Take thou some of it, and seek through this grove:
-A sweet Athenian lady is in love
+A sweet Athenian lady_helena is in love
 With a disdainful youth: anoint his eyes;
 But do it when the next thing he espies
-May be the lady: thou shalt know the man
+May be the lady: thou shalt know the man_demetrius
 By the Athenian garments he hath on.
 Effect it with some care, that he may prove
 More fond on her than she upon her love:
@@ -1388,11 +1389,11 @@ Quince:
 Pat, pat; and here's a marvellous convenient place
 for our rehearsal. This green plot shall be our
 stage, this hawthorn-brake our tiring-house; and we
-will do it in action as we will do it before the duke.
+will do it in action as we will do it before the duke_Theseus.
 
 
 Bottom:
-Peter Quince,--
+Peter_Quince,--
 
 
 Quince:
@@ -1419,7 +1420,7 @@ Not a whit: I have a device to make all well.
 Write me a prologue; and let the prologue seem to
 say, we will do no harm with our swords, and that
 Pyramus is not killed indeed; and, for the more
-better assurance, tell them that I, Pyramus, am not
+better assurance, tell them that I, Bottom, am not
 Pyramus, but Bottom the weaver: this will put them
 out of fear.
 
@@ -1443,7 +1444,7 @@ I fear it, I promise you.
 
 Bottom:
 Masters, you ought to consider with yourselves: to
-bring in--God shield us!--a lion among ladies, is a
+bring in--God shield us!--a lion_real among ladies, is a
 most dreadful thing; for there is not a more fearful
 wild-fowl than your lion living; and we ought to
 look to 't.
@@ -1858,7 +1859,7 @@ The shallowest thick-skin of that barren sort,
 Who Pyramus presented, in their sport
 Forsook his scene and enter'd in a brake
 When I did him at this advantage take,
-An ass's nole I fixed on his head:
+An ass_bottom's nole I fixed on his head:
 Anon his Thisbe must be answered,
 And forth my mimic comes. When they him spy,
 As wild geese that the creeping fowler eye,
@@ -1897,14 +1898,14 @@ xxx:
 
 
 Oberon:
-Stand close: this is the same Athenian.
+Stand close: this is the same Athenian_demetrius.
 
 
 Puck:
-This is the woman, but not this the man.
+This is the woman_hermia, but not this the man_demetrius.
 
 
-Demetrius-mnd:
+Demetrius:
 O, why rebuke you him that loves you so?
 Lay breath so bitter on your bitter foe.
 
@@ -2036,12 +2037,12 @@ xxx:
 
 
 Puck:
-Captain of our fairy band,
+Captain_oberon of our fairy band,
 Helena is here at hand;
 And the youth, mistook by me,
 Pleading for a lover's fee.
 Shall we their fond pageant see?
-Lord, what fools these mortals be!
+Lord_oberon, what fools these mortals be!
 
 
 Oberon:
@@ -2512,7 +2513,7 @@ Or else committ'st thy knaveries wilfully.
 
 
 Puck:
-Believe me, king of shadows, I mistook.
+Believe me, king_oberon of shadows, I mistook.
 Did not you tell me I should know the man
 By the Athenian garment be had on?
 And so far blameless proves my enterprise,
@@ -2523,7 +2524,7 @@ As this their jangling I esteem a sport.
 
 Oberon:
 Thou see'st these lovers seek a place to fight:
-Hie therefore, Robin, overcast the night;
+Hie therefore, Robin_puck, overcast the night;
 The starry welkin cover thou anon
 With drooping fog as black as Acheron,
 And lead these testy rivals so astray
@@ -2543,13 +2544,13 @@ Shall seem a dream and fruitless vision,
 And back to Athens shall the lovers wend,
 With league whose date till death shall never end.
 Whiles I in this affair do thee employ,
-I'll to my queen and beg her Indian boy;
+I'll to my queen and beg her Indian boy_changeling;
 And then I will her charmed eye release
 From monster's view, and all things shall be peace.
 
 
 Puck:
-My fairy lord, this must be done with haste,
+My fairy lord_oberon, this must be done with haste,
 For night's swift dragons cut the clouds full fast,
 And yonder shines Aurora's harbinger;
 At whose approach, ghosts, wandering here and there,
@@ -2859,7 +2860,7 @@ Titania:
 Sleep thou, and I will wind thee in my arms.
 Fairies, begone, and be all ways away.
 [Exeunt fairies]
-So doth the woodbine the sweet honeysuckle
+So doth the woodbin e the sweet honeysuckle
 Gently entwist; the female ivy so
 Enrings the barky fingers of the elm.
 O, how I love thee! how I dote on thee!
@@ -2909,7 +2910,7 @@ Now, my Titania; wake you, my sweet queen.
 
 Titania:
 My Oberon! what visions have I seen!
-Methought I was enamour'd of an ass.
+Methought I was enamour'd of an ass_bottom_maybe.
 
 
 Oberon:
@@ -2964,7 +2965,7 @@ Swifter than the wandering moon.
 
 
 Titania:
-Come, my lord, and in our flight
+Come, my lord_oberon, and in our flight
 Tell me how it came this night
 That I sleeping here was found
 With these mortals on the ground.
@@ -3288,8 +3289,9 @@ xxx:
 
 ****************************************
 
+----------------------------------------------
 
-Act 5, Scene 1
+# Act 5, Scene 1
 
 xxx:
 [Enter THESEUS, HIPPOLYTA, PHILOSTRATE, Lords and]
@@ -3367,7 +3369,7 @@ The lazy time, if not with some delight?
 
 Philostrate:
 There is a brief how many sports are ripe:
-Make choice of which your highness will see first.
+Make choice of which your highness_Theseus will see first.
 
 
 xxx:
@@ -3398,12 +3400,12 @@ How shall we find the concord of this discord?
 
 
 Philostrate:
-A play there is, my lord, some ten words long,
+A play there is, my lord_Theseus, some ten words long,
 Which is as brief as I have known a play;
 But by ten words, my lord, it is too long,
 Which makes it tedious; for in all the play
 There is not one word apt, one player fitted:
-And tragical, my noble lord, it is;
+And tragical, my noble lord_Theseus, it is;
 For Pyramus therein doth kill himself.
 Which, when I saw rehearsed, I must confess,
 Made mine eyes water; but more merry tears
@@ -3451,7 +3453,7 @@ And duty in his service perishing.
 
 
 Theseus:
-Why, gentle sweet, you shall see no such thing.
+Why, gentle sweet_Hippolyta, you shall see no such thing.
 
 
 Hippolyta:
@@ -3517,7 +3519,7 @@ This fellow doth not stand upon points.
 
 Lysander:
 He hath rid his prologue like a rough colt; he knows
-not the stop. A good moral, my lord: it is not
+not the stop. A good moral, my lord_Theseus: it is not
 enough to speak, but to speak true.
 
 
@@ -3695,7 +3697,7 @@ And, being done, thus Wall away doth go.
 
 
 xxx:
-[Exit]
+[Exit Wall]
 
 
 Theseus:
@@ -3723,7 +3725,7 @@ It must be your imagination then, and not theirs.
 Theseus:
 If we imagine no worse of them than they of
 themselves, they may pass for excellent men. Here
-come two noble beasts in, a man and a lion.
+come two noble beasts in, a man_Moonshine and a lion.
 
 
 xxx:
@@ -3901,7 +3903,7 @@ Beshrew my heart, but I pity the man.
 
 Bottom:
 O wherefore, Nature, didst thou lions frame?
-Since lion vile hath here deflower'd my dear:
+Since lion vile hath here deflower'd my dear_Thisbe:
 Which is--no, no--which was the fairest dame
 That lived, that loved, that liked, that look'd
 with cheer.
@@ -4139,4 +4141,3 @@ Else the Puck a liar call;
 So, good night unto you all.
 Give me your hands, if we be friends,
 And Robin shall restore amends.
-
