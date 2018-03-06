@@ -1,7 +1,10 @@
-Act 1, Scene 1
+﻿Act 1, Scene 1
+
 
 xxx:
 [Enter KING HENRY, LORD JOHN OF LANCASTER, the EARL of WESTMORELAND, SIR WALTER BLUNT, and others]
+
+
 
 
 henry4:
@@ -40,6 +43,8 @@ What yesternight our council did decree
 In forwarding this dear expedience.
 
 
+
+
 westmoreland:
 My liege, this haste was hot in question,
 And many limits of the charge set down
@@ -56,9 +61,13 @@ By those Welshwomen done as may not be
 Without much shame retold or spoken of.
 
 
+
+
 henry4:
 It seems then that the tidings of this broil
 Brake off our business for the Holy Land.
+
+
 
 
 westmoreland:
@@ -66,7 +75,7 @@ This match'd with other did, my gracious lord;
 For more uneven and unwelcome news
 Came from the north and thus it did import:
 On Holy-rood day, the gallant Hotspur there,
-Young Harry Percy and brave Archibald,
+Young Harry_hotspur Percy and brave Archibald,
 That ever-valiant and approved Scot,
 At Holmedon met,
 Where they did spend a sad and bloody hour,
@@ -75,6 +84,8 @@ And shape of likelihood, the news was told;
 For he that brought them, in the very heat
 And pride of their contention did take horse,
 Uncertain of the issue any way.
+
+
 
 
 henry4:
@@ -94,9 +105,13 @@ And is not this an honourable spoil?
 A gallant prize? ha, cousin, is it not?
 
 
+
+
 westmoreland:
 In faith,
 It is a conquest for a prince to boast of.
+
+
 
 
 henry4:
@@ -108,10 +123,10 @@ Amongst a grove, the very straightest plant;
 Who is sweet Fortune's minion and her pride:
 Whilst I, by looking on the praise of him,
 See riot and dishonour stain the brow
-Of my young Harry. O that it could be proved
+Of my young Harry_hal. O that it could be proved
 That some night-tripping fairy had exchanged
 In cradle-clothes our children where they lay,
-And call'd mine Percy, his Plantagenet!
+And call'd mine Percy_hotspur, his Plantagenet!
 Then would I have his Harry, and he mine.
 But let him from my thoughts. What think you, coz,
 Of this young Percy's pride? the prisoners,
@@ -120,11 +135,15 @@ To his own use he keeps; and sends me word,
 I shall have none but Mordake Earl of Fife.
 
 
+
+
 westmoreland:
 This is his uncle's teaching; this is Worcester,
 Malevolent to you in all aspects;
 Which makes him prune himself, and bristle up
-The crest of youth against your dignity.
+The crest of youth against your dignity.†
+
+
 
 
 henry4:
@@ -138,24 +157,36 @@ For more is to be said and to be done
 Than out of anger can be uttered.
 
 
+
+
 westmoreland:
 I will, my liege.
+
+
 
 
 xxx:
 [Exeunt]
 
 
+
+
 ----------------------------------------
 
+
 Act 1, Scene 2
+
 
 xxx:
 [Enter the PRINCE OF WALES and FALSTAFF]
 
 
+
+
 falstaff:
 Now, Hal, what time of day is it, lad?
+
+
 
 
 henry5:
@@ -172,17 +203,23 @@ reason why thou shouldst be so superfluous to demand
 the time of the day.
 
 
+
+
 falstaff:
 Indeed, you come near me now, Hal; for we that take
 purses go by the moon and the seven stars, and not
 by Phoebus, he,'that wandering knight so fair.' And,
-I prithee, sweet wag, when thou art king, as, God
+I prithee, sweet wag, when thou art king_hal, as, God
 save thy grace,--majesty I should say, for grace
 thou wilt have none,--
 
 
+
+
 henry5:
 What, none?
+
+
 
 
 falstaff:
@@ -190,8 +227,12 @@ No, by my troth, not so much as will serve to
 prologue to an egg and butter.
 
 
+
+
 henry5:
 Well, how then? come, roundly, roundly.
+
+
 
 
 falstaff:
@@ -202,6 +243,8 @@ foresters, gentlemen of the shade, minions of the
 moon; and let men say we be men of good government,
 being governed, as the sea is, by our noble and
 chaste mistress the moon, under whose countenance we steal.
+
+
 
 
 henry5:
@@ -216,14 +259,20 @@ now in as low an ebb as the foot of the ladder
 and by and by in as high a flow as the ridge of the gallows.
 
 
+
+
 falstaff:
 By the Lord, thou sayest true, lad. And is not my
 hostess of the tavern a most sweet wench?
 
 
+
+
 henry5:
 As the honey of Hybla, my old lad of the castle. And
 is not a buff jerkin a most sweet robe of durance?
+
+
 
 
 falstaff:
@@ -232,8 +281,12 @@ thy quiddities? what a plague have I to do with a
 buff jerkin?
 
 
+
+
 henry5:
 Why, what a pox have I to do with my hostess of the tavern?
+
+
 
 
 falstaff:
@@ -241,12 +294,18 @@ Well, thou hast called her to a reckoning many a
 time and oft.
 
 
+
+
 henry5:
 Did I ever call for thee to pay thy part?
 
 
+
+
 falstaff:
 No; I'll give thee thy due, thou hast paid all there.
+
+
 
 
 henry5:
@@ -254,26 +313,36 @@ Yea, and elsewhere, so far as my coin would stretch;
 and where it would not, I have used my credit.
 
 
+
+
 falstaff:
 Yea, and so used it that were it not here apparent
 that thou art heir apparent--But, I prithee, sweet
 wag, shall there be gallows standing in England when
-thou art king? and resolution thus fobbed as it is
+thou art king_hal? and resolution thus fobbed as it is
 with the rusty curb of old father antic the law? Do
-not thou, when thou art king, hang a thief.
+not thou, when thou art king_hal, hang a thief.
+
+
 
 
 henry5:
 No; thou shalt.
 
 
+
+
 falstaff:
 Shall I? O rare! By the Lord, I'll be a brave judge.
+
+
 
 
 henry5:
 Thou judgest false already: I mean, thou shalt have
 the hanging of the thieves and so become a rare hangman.
+
+
 
 
 falstaff:
@@ -282,8 +351,12 @@ humour as well as waiting in the court, I can tell
 you.
 
 
+
+
 henry5:
 For obtaining of suits?
+
+
 
 
 falstaff:
@@ -292,12 +365,18 @@ hath no lean wardrobe. 'Sblood, I am as melancholy
 as a gib cat or a lugged bear.
 
 
+
+
 henry5:
 Or an old lion, or a lover's lute.
 
 
+
+
 falstaff:
 Yea, or the drone of a Lincolnshire bagpipe.
+
+
 
 
 henry5:
@@ -305,10 +384,12 @@ What sayest thou to a hare, or the melancholy of
 Moor-ditch?
 
 
+
+
 falstaff:
 Thou hast the most unsavoury similes and art indeed
 the most comparative, rascalliest, sweet young
-prince. But, Hal, I prithee, trouble me no more
+prince_hal. But, Hal, I prithee, trouble me no more
 with vanity. I would to God thou and I knew where a
 commodity of good names were to be bought. An old
 lord of the council rated me the other day in the
@@ -317,9 +398,13 @@ he talked very wisely, but I regarded him not; and
 yet he talked wisely, and in the street too.
 
 
+
+
 henry5:
 Thou didst well; for wisdom cries out in the
 streets, and no man regards it.
+
+
 
 
 falstaff:
@@ -334,8 +419,12 @@ I'll be damned for never a king's son in
 Christendom.
 
 
+
+
 henry5:
 Where shall we take a purse tomorrow, Jack?
+
+
 
 
 falstaff:
@@ -343,9 +432,13 @@ falstaff:
 do not, call me villain and baffle me.
 
 
+
+
 henry5:
 I see a good amendment of life in thee; from praying
 to purse-taking.
+
+
 
 
 falstaff:
@@ -359,8 +452,12 @@ most omnipotent villain that ever cried 'Stand' to
 a true man.
 
 
+
+
 henry5:
 Good morrow, Ned.
+
+
 
 
 poins:
@@ -371,18 +468,26 @@ soldest him on Good-Friday last for a cup of Madeira
 and a cold capon's leg?
 
 
+
+
 henry5:
 Sir John stands to his word, the devil shall have
 his bargain; for he was never yet a breaker of
 proverbs: he will give the devil his due.
 
 
+
+
 poins:
 Then art thou damned for keeping thy word with the devil.
 
 
+
+
 henry5:
 Else he had been damned for cozening the devil.
+
+
 
 
 poins:
@@ -398,21 +503,31 @@ your purses full of crowns; if you will not, tarry
 at home and be hanged.
 
 
+
+
 falstaff:
 Hear ye, Yedward; if I tarry at home and go not,
 I'll hang you for going.
+
+
 
 
 poins:
 You will, chops?
 
 
+
+
 falstaff:
 Hal, wilt thou make one?
 
 
+
+
 henry5:
 Who, I rob? I a thief? not I, by my faith.
+
+
 
 
 falstaff:
@@ -421,30 +536,44 @@ fellowship in thee, nor thou camest not of the blood
 royal, if thou darest not stand for ten shillings.
 
 
+
+
 henry5:
 Well then, once in my days I'll be a madcap.
+
+
 
 
 falstaff:
 Why, that's well said.
 
 
+
+
 henry5:
 Well, come what will, I'll tarry at home.
 
 
+
+
 falstaff:
-By the Lord, I'll be a traitor then, when thou art king.
+By the Lord, I'll be a traitor then, when thou art king_hal.
+
+
 
 
 henry5:
 I care not.
 
 
+
+
 poins:
-Sir John, I prithee, leave the prince and me alone:
+Sir John, I prithee, leave the prince_hal and me alone:
 I will lay him down such reasons for this adventure
 that he shall go.
+
+
 
 
 falstaff:
@@ -456,12 +585,18 @@ thief; for the poor abuses of the time want
 countenance. Farewell: you shall find me in Eastcheap.
 
 
+
+
 henry5:
 Farewell, thou latter spring! farewell, All-hallown summer!
 
 
+
+
 xxx:
 [Exit Falstaff]
+
+
 
 
 poins:
@@ -474,8 +609,12 @@ have the booty, if you and I do not rob them, cut
 this head off from my shoulders.
 
 
+
+
 henry5:
 How shall we part with them in setting forth?
+
+
 
 
 poins:
@@ -486,10 +625,14 @@ upon the exploit themselves; which they shall have
 no sooner achieved, but we'll set upon them.
 
 
+
+
 henry5:
 Yea, but 'tis like that they will know us by our
 horses, by our habits and by every other
 appointment, to be ourselves.
+
+
 
 
 poins:
@@ -499,8 +642,12 @@ leave them: and, sirrah, I have cases of buckram
 for the nonce, to immask our noted outward garments.
 
 
+
+
 henry5:
 Yea, but I doubt they will be too hard for us.
+
+
 
 
 poins:
@@ -515,18 +662,26 @@ extremities he endured; and in the reproof of this
 lies the jest.
 
 
+
+
 henry5:
 Well, I'll go with thee: provide us all things
 necessary and meet me to-morrow night in Eastcheap;
 there I'll sup. Farewell.
 
 
+
+
 poins:
 Farewell, my lord.
 
 
+
+
 xxx:
 [Exit Poins]
+
+
 
 
 henry5:
@@ -555,16 +710,24 @@ I'll so offend, to make offence a skill;
 Redeeming time when men think least I will.
 
 
+
+
 xxx:
 [Exit]
 
 
+
+
 ----------------------------------------
+
 
 Act 1, Scene 3
 
+
 xxx:
 [Enter the KING, NORTHUMBERLAND, WORCESTER, HOTSPUR, SIR WALTER BLUNT, with others]
+
+
 
 
 henry4:
@@ -579,6 +742,8 @@ And therefore lost that title of respect
 Which the proud soul ne'er pays but to the proud.
 
 
+
+
 worcester:
 Our house, my sovereign liege, little deserves
 The scourge of greatness to be used on it;
@@ -586,8 +751,12 @@ And that same greatness too which our own hands
 Have holp to make so portly.
 
 
+
+
 earlnorth:
 My lord.--
+
+
 
 
 henry4:
@@ -603,14 +772,18 @@ You were about to speak.
 [To North]
 
 
+
+
 earlnorth:
 Yea, my good lord.
 Those prisoners in your highness' name demanded,
-Which Harry Percy here at Holmedon took,
+Which Harry_hotspur Percy here at Holmedon took,
 Were, as he says, not with such strength denied
 As is deliver'd to your majesty:
 Either envy, therefore, or misprison
 Is guilty of this fault and not my son.
+
+
 
 
 hotspur:
@@ -657,14 +830,18 @@ Come current for an accusation
 Betwixt my love and your high majesty.
 
 
+
+
 blunt:
 The circumstance consider'd, good my lord,
-Whate'er Lord Harry Percy then had said
+Whate'er Lord Harry_hotspur Percy then had said
 To such a person and in such a place,
 At such a time, with all the rest retold,
 May reasonably die and never rise
 To do him wrong or any way impeach
 What then he said, so he unsay it now.
+
+
 
 
 henry4:
@@ -684,6 +861,8 @@ No, on the barren mountains let him starve;
 For I shall never hold that man my friend
 Whose tongue shall ask me for one penny cost
 To ransom home revolted Mortimer.
+
+
 
 
 hotspur:
@@ -710,8 +889,10 @@ Receive so many, and all willingly:
 Then let not him be slander'd with revolt.
 
 
+
+
 henry4:
-Thou dost belie him, Percy, thou dost belie him;
+Thou dost belie him, Percy_hotspur, thou dost belie him;
 He never did encounter with Glendower:
 I tell thee,
 He durst as well have met the devil alone
@@ -725,8 +906,12 @@ We licence your departure with your son.
 Send us your prisoners, or you will hear of it.
 
 
+
+
 xxx:
 [Exeunt King Henry, Blunt, and train]
+
+
 
 
 hotspur:
@@ -736,13 +921,19 @@ And tell him so; for I will ease my heart,
 Albeit I make a hazard of my head.
 
 
+
+
 earlnorth:
 What, drunk with choler? stay and pause awhile:
 Here comes your uncle.
 
 
+
+
 xxx:
 [Re-enter WORCESTER]
+
+
 
 
 hotspur:
@@ -752,16 +943,22 @@ Want mercy, if I do not join with him:
 Yea, on his part I'll empty all these veins,
 And shed my dear blood drop by drop in the dust,
 But I will lift the down-trod Mortimer
-As high in the air as this unthankful king,
+As high in the air as this unthankful king_henry,
 As this ingrate and canker'd Bolingbroke.
 
 
+
+
 earlnorth:
-Brother, the king hath made your nephew mad.
+Brother_worcester, the king_henry hath made your nephew mad.
+
+
 
 
 worcester:
 Who struck this heat up after I was gone?
+
+
 
 
 hotspur:
@@ -772,23 +969,31 @@ And on my face he turn'd an eye of death,
 Trembling even at the name of Mortimer.
 
 
+
+
 worcester:
 I cannot blame him: was not he proclaim'd
 By Richard that dead is the next of blood?
 
 
+
+
 earlnorth:
 He was; I heard the proclamation:
-And then it was when the unhappy king,
+And then it was when the unhappy king_richard,
 --Whose wrongs in us God pardon!--did set forth
 Upon his Irish expedition;
 From whence he intercepted did return
 To be deposed and shortly murdered.
 
 
+
+
 worcester:
 And for whose death we in the world's wide mouth
 Live scandalized and foully spoken of.
+
+
 
 
 hotspur:
@@ -797,12 +1002,16 @@ Proclaim my brother Edmund Mortimer
 Heir to the crown?
 
 
+
+
 earlnorth:
 He did; myself did hear it.
 
 
+
+
 hotspur:
-Nay, then I cannot blame his cousin king,
+Nay, then I cannot blame his cousin king_henry,
 That wished him on the barren mountains starve.
 But shall it be that you, that set the crown
 Upon the head of this forgetful man
@@ -813,7 +1022,7 @@ Being the agents, or base second means,
 The cords, the ladder, or the hangman rather?
 O, pardon me that I descend so low,
 To show the line and the predicament
-Wherein you range under this subtle king;
+Wherein you range under this subtle king_henry;
 Shall it for shame be spoken in these days,
 Or fill up chronicles in time to come,
 That men of your nobility and power
@@ -828,10 +1037,12 @@ No; yet time serves wherein you may redeem
 Your banish'd honours and restore yourselves
 Into the good thoughts of the world again,
 Revenge the jeering and disdain'd contempt
-Of this proud king, who studies day and night
+Of this proud king_henry, who studies day and night
 To answer all the debt he owes to you
 Even with the bloody payment of your deaths:
 Therefore, I say--
+
+
 
 
 worcester:
@@ -844,6 +1055,8 @@ As to o'er-walk a current roaring loud
 On the unsteadfast footing of a spear.
 
 
+
+
 hotspur:
 If he fall in, good night! or sink or swim:
 Send danger from the east unto the west,
@@ -852,9 +1065,13 @@ And let them grapple: O, the blood more stirs
 To rouse a lion than to start a hare!
 
 
+
+
 earlnorth:
 Imagination of some great exploit
 Drives him beyond the bounds of patience.
+
+
 
 
 hotspur:
@@ -868,19 +1085,27 @@ Without corrival, all her dignities:
 But out upon this half-faced fellowship!
 
 
+
+
 worcester:
 He apprehends a world of figures here,
 But not the form of what he should attend.
 Good cousin, give me audience for a while.
 
 
+
+
 hotspur:
 I cry you mercy.
+
+
 
 
 worcester:
 Those same noble Scots
 That are your prisoners,--
+
+
 
 
 hotspur:
@@ -890,10 +1115,14 @@ No, if a Scot would save his soul, he shall not:
 I'll keep them, by this hand.
 
 
+
+
 worcester:
 You start away
 And lend no ear unto my purposes.
 Those prisoners you shall keep.
+
+
 
 
 hotspur:
@@ -908,17 +1137,23 @@ Nothing but 'Mortimer,' and give it him
 To keep his anger still in motion.
 
 
+
+
 worcester:
 Hear you, cousin; a word.
+
+
 
 
 hotspur:
 All studies here I solemnly defy,
 Save how to gall and pinch this Bolingbroke:
-And that same sword-and-buckler Prince of Wales,
-But that I think his father loves him not
+And that same sword-and-buckler Prince_hal of Wales,
+But that I think his father_henry5 loves him not
 And would be glad he met with some mischance,
 I would have him poison'd with a pot of ale.
+
+
 
 
 worcester:
@@ -926,10 +1161,14 @@ Farewell, kinsman: I'll talk to you
 When you are better temper'd to attend.
 
 
+
+
 earlnorth:
 Why, what a wasp-stung and impatient fool
 Art thou to break into this woman's mood,
 Tying thine ear to no tongue but thine own!
+
+
 
 
 hotspur:
@@ -945,8 +1184,12 @@ Unto this king of smiles, this Bolingbroke,--
 When you and he came back from Ravenspurgh.
 
 
+
+
 earlnorth:
 At Berkley castle.
+
+
 
 
 hotspur:
@@ -954,9 +1197,11 @@ You say true:
 Why, what a candy deal of courtesy
 This fawning greyhound then did proffer me!
 Look,'when his infant fortune came to age,'
-And 'gentle Harry Percy,' and 'kind cousin;'
+And 'gentle Harry_hotspur Percy,' and 'kind cousin;'
 O, the devil take such cozeners! God forgive me!
 Good uncle, tell your tale; I have done.
+
+
 
 
 worcester:
@@ -964,8 +1209,12 @@ Nay, if you have not, to it again;
 We will stay your leisure.
 
 
+
+
 hotspur:
 I have done, i' faith.
+
+
 
 
 worcester:
@@ -976,14 +1225,18 @@ For powers in Scotland; which, for divers reasons
 Which I shall send you written, be assured,
 Will easily be granted. You, my lord,
 [To Northumberland]
-Your son in Scotland being thus employ'd,
+Your son_douglas in Scotland being thus employ'd,
 Shall secretly into the bosom creep
 Of that same noble prelate, well beloved,
 The archbishop.
 
 
+
+
 hotspur:
 Of York, is it not?
+
+
 
 
 worcester:
@@ -996,12 +1249,18 @@ And only stays but to behold the face
 Of that occasion that shall bring it on.
 
 
+
+
 hotspur:
 I smell it: upon my life, it will do well.
 
 
+
+
 earlnorth:
 Before the game is afoot, thou still let'st slip.
+
+
 
 
 hotspur:
@@ -1010,27 +1269,37 @@ And then the power of Scotland and of York,
 To join with Mortimer, ha?
 
 
+
+
 worcester:
 And so they shall.
+
+
 
 
 hotspur:
 In faith, it is exceedingly well aim'd.
 
 
+
+
 worcester:
 And 'tis no little reason bids us speed,
 To save our heads by raising of a head;
 For, bear ourselves as even as we can,
-The king will always think him in our debt,
+The king_henry will always think him in our debt,
 And think we think ourselves unsatisfied,
 Till he hath found a time to pay us home:
 And see already how he doth begin
 To make us strangers to his looks of love.
 
 
+
+
 hotspur:
 He does, he does: we'll be revenged on him.
+
+
 
 
 worcester:
@@ -1044,8 +1313,12 @@ To bear our fortunes in our own strong arms,
 Which now we hold at much uncertainty.
 
 
+
+
 earlnorth:
 Farewell, good brother: we shall thrive, I trust.
+
+
 
 
 hotspur:
@@ -1053,17 +1326,26 @@ Uncle, Adieu: O, let the hours be short
 Till fields and blows and groans applaud our sport!
 
 
+
+
 xxx:
 [Exeunt]
+
+
 
 
 ****************************************
 
 
+
+
 Act 2, Scene 1
+
 
 xxx:
 [Enter a Carrier with a lantern in his hand]
+
+
 
 
 FirstCarrier:
@@ -1072,8 +1354,12 @@ hanged: Charles' wain is over the new chimney, and
 yet our horse not packed. What, ostler!
 
 
+
+
 Ostler:
 [Within]   Anon, anon.
+
+
 
 
 FirstCarrier:
@@ -1082,8 +1368,12 @@ in the point; poor jade, is wrung in the withers out
 of all cess.
 
 
+
+
 xxx:
 [Enter another Carrier]
+
+
 
 
 SecondCarrier:
@@ -1092,14 +1382,20 @@ is the next way to give poor jades the bots: this
 house is turned upside down since Robin Ostler died.
 
 
+
+
 FirstCarrier:
 Poor fellow, never joyed since the price of oats
 rose; it was the death of him.
 
 
+
+
 SecondCarrier:
 I think this be the most villanous house in all
 London road for fleas: I am stung like a tench.
+
+
 
 
 FirstCarrier:
@@ -1108,19 +1404,27 @@ christen could be better bit than I have been since
 the first cock.
 
 
+
+
 SecondCarrier:
 Why, they will allow us ne'er a jordan, and then we
 leak in your chimney; and your chamber-lie breeds
 fleas like a loach.
 
 
+
+
 FirstCarrier:
 What, ostler! come away and be hanged!
+
+
 
 
 SecondCarrier:
 I have a gammon of bacon and two razors of ginger,
 to be delivered as far as Charing-cross.
+
+
 
 
 FirstCarrier:
@@ -1132,16 +1436,24 @@ on thee, I am a very villain. Come, and be hanged!
 hast thou no faith in thee?
 
 
+
+
 xxx:
 [Enter Gadshill]
+
+
 
 
 gadshill:
 Good morrow, carriers. What's o'clock?
 
 
+
+
 FirstCarrier:
 I think it be two o'clock.
+
+
 
 
 gadshill:
@@ -1149,12 +1461,18 @@ I pray thee lend me thy lantern, to see my gelding
 in the stable.
 
 
+
+
 FirstCarrier:
 Nay, by God, soft; I know a trick worth two of that, i' faith.
 
 
+
+
 gadshill:
 I pray thee, lend me thine.
+
+
 
 
 SecondCarrier:
@@ -1162,8 +1480,12 @@ Ay, when? can'st tell? Lend me thy lantern, quoth
 he? marry, I'll see thee hanged first.
 
 
+
+
 gadshill:
 Sirrah carrier, what time do you mean to come to London?
+
+
 
 
 SecondCarrier:
@@ -1173,16 +1495,24 @@ gentleman: they will along with company, for they
 have great charge.
 
 
+
+
 xxx:
 [Exeunt carriers]
+
+
 
 
 gadshill:
 What, ho! chamberlain!
 
 
+
+
 Chamberlain:
 [Within]  At hand, quoth pick-purse.
+
+
 
 
 gadshill:
@@ -1192,8 +1522,12 @@ of purses than giving direction doth from labouring;
 thou layest the plot how.
 
 
+
+
 xxx:
 [Enter Chamberlain]
+
+
 
 
 Chamberlain:
@@ -1207,15 +1541,21 @@ They are up already, and call for eggs and butter;
 they will away presently.
 
 
+
+
 gadshill:
 Sirrah, if they meet not with Saint Nicholas'
 clerks, I'll give thee this neck.
+
+
 
 
 Chamberlain:
 No, I'll none of it: I pray thee keep that for the
 hangman; for I know thou worshippest St. Nicholas
 as truly as a man of falsehood may.
+
+
 
 
 gadshill:
@@ -1239,9 +1579,13 @@ on her, for they ride up and down on her and make
 her their boots.
 
 
+
+
 Chamberlain:
 What, the commonwealth their boots? will she hold
 out water in foul way?
+
+
 
 
 gadshill:
@@ -1250,9 +1594,13 @@ steal as in a castle, cocksure; we have the receipt
 of fern-seed, we walk invisible.
 
 
+
+
 Chamberlain:
 Nay, by my faith, I think you are more beholding to
 the night than to fern-seed for your walking invisible.
+
+
 
 
 gadshill:
@@ -1260,8 +1608,12 @@ Give me thy hand: thou shalt have a share in our
 purchase, as I am a true man.
 
 
+
+
 Chamberlain:
 Nay, rather let me have it, as you are a false thief.
+
+
 
 
 gadshill:
@@ -1270,16 +1622,24 @@ ostler bring my gelding out of the stable. Farewell,
 you muddy knave.
 
 
+
+
 xxx:
 [Exeunt]
 
 
+
+
 ----------------------------------------
+
 
 Act 2, Scene 2
 
+
 xxx:
 [Enter PRINCE HENRY and POINS]
+
+
 
 
 poins:
@@ -1287,16 +1647,24 @@ Come, shelter, shelter: I have removed Falstaff's
 horse, and he frets like a gummed velvet.
 
 
+
+
 henry5:
 Stand close.
+
+
 
 
 xxx:
 [Enter FALSTAFF]
 
 
+
+
 falstaff:
 Poins! Poins, and be hanged! Poins!
+
+
 
 
 henry5:
@@ -1304,12 +1672,18 @@ Peace, ye fat-kidneyed rascal! what a brawling dost
 thou keep!
 
 
+
+
 falstaff:
 Where's Poins, Hal?
 
 
+
+
 henry5:
 He is walked up to the top of the hill: I'll go seek him.
+
+
 
 
 falstaff:
@@ -1337,10 +1711,14 @@ Whew! A plague upon you all! Give me my horse, you
 rogues; give me my horse, and be hanged!
 
 
+
+
 henry5:
 Peace, ye fat-guts! lie down; lay thine ear close
 to the ground and list if thou canst hear the tread
 of travellers.
+
+
 
 
 falstaff:
@@ -1350,17 +1728,25 @@ again for all the coin in thy father's exchequer.
 What a plague mean ye to colt me thus?
 
 
+
+
 henry5:
 Thou liest; thou art not colted, thou art uncolted.
 
 
+
+
 falstaff:
-I prithee, good Prince Hal, help me to my horse,
-good king's son.
+I prithee, good Prince_hal Hal, help me to my horse,
+good king_henry's son.
+
+
 
 
 henry5:
 Out, ye rogue! shall I be your ostler?
+
+
 
 
 falstaff:
@@ -1371,35 +1757,51 @@ tunes, let a cup of sack be my poison: when a jest
 is so forward, and afoot too! I hate it.
 
 
+
+
 xxx:
 [Enter Gadshill, BARDOLPH and PETO]
+
+
 
 
 gadshill:
 Stand.
 
 
+
+
 falstaff:
 So I do, against my will.
+
+
 
 
 poins:
 O, 'tis our setter: I know his voice. Bardolph,
 what news?
 money of the king's coming down the hill; 'tis going
-to the king's exchequer.
+to the king_henry's exchequer.
+
+
 
 
 falstaff:
 You lie, ye rogue; 'tis going to the king's tavern.
 
 
+
+
 gadshill:
 There's enough to make us all.
 
 
+
+
 falstaff:
 To be hanged.
+
+
 
 
 henry5:
@@ -1408,20 +1810,30 @@ Ned Poins and I will walk lower: if they 'scape
 from your encounter, then they light on us.
 
 
+
+
 peto:
 How many be there of them?
+
+
 
 
 gadshill:
 Some eight or ten.
 
 
+
+
 falstaff:
 'Zounds, will they not rob us?
 
 
+
+
 henry5:
 What, a coward, Sir John Paunch?
+
+
 
 
 falstaff:
@@ -1429,8 +1841,12 @@ Indeed, I am not John of Gaunt, your grandfather;
 but yet no coward, Hal.
 
 
+
+
 henry5:
 Well, we leave that to the proof.
+
+
 
 
 poins:
@@ -1439,20 +1855,30 @@ when thou needest him, there thou shalt find him.
 Farewell, and stand fast.
 
 
+
+
 falstaff:
 Now cannot I strike him, if I should be hanged.
+
+
 
 
 henry5:
 Ned, where are our disguises?
 
 
+
+
 poins:
 Here, hard by: stand close.
 
 
+
+
 xxx:
 [Exeunt PRINCE HENRY and POINS]
+
+
 
 
 falstaff:
@@ -1460,8 +1886,12 @@ Now, my masters, happy man be his dole, say I:
 every man to his business.
 
 
+
+
 xxx:
 [Enter the Travellers]
+
+
 
 
 FirstTraveller:
@@ -1469,12 +1899,18 @@ Come, neighbour: the boy shall lead our horses down
 the hill; we'll walk afoot awhile, and ease our legs.
 
 
+
+
 thieves:
 Stand!
 
 
+
+
 Travellers:
 Jesus bless us!
+
+
 
 
 falstaff:
@@ -1483,8 +1919,12 @@ ah! whoreson caterpillars! bacon-fed knaves! they
 hate us youth: down with them: fleece them.
 
 
+
+
 Travellers:
 O, we are undone, both we and ours for ever!
+
+
 
 
 falstaff:
@@ -1494,12 +1934,18 @@ bacons, on! What, ye knaves! young men must live.
 You are Grand-jurors, are ye? we'll jure ye, 'faith.
 
 
+
+
 xxx:
 [Here they rob them and bind them. Exeunt]
 
 
+
+
 xxx:
 [Re-enter PRINCE HENRY and POINS]
+
+
 
 
 henry5:
@@ -1509,30 +1955,42 @@ would be argument for a week, laughter for a month
 and a good jest for ever.
 
 
+
+
 poins:
 Stand close; I hear them coming.
+
+
 
 
 xxx:
 [Enter the Thieves again]
 
 
+
+
 falstaff:
 Come, my masters, let us share, and then to horse
-before day. An the Prince and Poins be not two
+before day. An the Prince_hal and Poins be not two
 arrant cowards, there's no equity stirring: there's
 no more valour in that Poins than in a wild-duck.
+
+
 
 
 henry5:
 Your money!
 
 
+
+
 poins:
 Villains!
-[As they are sharing, the Prince and Poins set upon
+[As they are sharing, the Prince_hal and Poins set upon
 them; they all run away; and Falstaff, after a blow
 or two, runs away too, leaving the booty behind them]
+
+
 
 
 henry5:
@@ -1545,20 +2003,30 @@ And lards the lean earth as he walks along:
 Were 't not for laughing, I should pity him.
 
 
+
+
 poins:
 How the rogue roar'd!
+
+
 
 
 xxx:
 [Exeunt]
 
 
+
+
 ----------------------------------------
+
 
 Act 2, Scene 3
 
+
 xxx:
 [Enter HOTSPUR, solus, reading a letter]
+
+
 
 
 hotspur:
@@ -1592,7 +2060,7 @@ their letters to meet me in arms by the ninth of the
 next month? and are they not some of them set
 forward already? What a pagan rascal is this! an
 infidel! Ha! you shall see now in very sincerity
-of fear and cold heart, will he to the king and lay
+of fear and cold heart, will he to the king_henry and lay
 open all our proceedings. O, I could divide myself
 and go to buffets, for moving such a dish of
 skim milk with so honourable an action! Hang him!
@@ -1602,10 +2070,12 @@ forward to-night.
 How now, Kate! I must leave you within these two hours.
 
 
+
+
 ladypercy:
 O, my good lord, why are you thus alone?
 For what offence have I this fortnight been
-A banish'd woman from my Harry's bed?
+A banish'd woman from my Harry_hotspur's bed?
 Tell me, sweet lord, what is't that takes from thee
 Thy stomach, pleasure and thy golden sleep?
 Why dost thou bend thine eyes upon the earth,
@@ -1633,30 +2103,44 @@ Some heavy business hath my lord in hand,
 And I must know it, else he loves me not.
 
 
+
+
 hotspur:
 What, ho!
 [Enter Servant]
 Is Gilliams with the packet gone?
 
 
+
+
 Servant-h41:
 He is, my lord, an hour ago.
+
+
 
 
 hotspur:
 Hath Butler brought those horses from the sheriff?
 
 
+
+
 Servant-h41:
 One horse, my lord, he brought even now.
+
+
 
 
 hotspur:
 What horse? a roan, a crop-ear, is it not?
 
 
+
+
 Servant-h41:
 It is, my lord.
+
+
 
 
 hotspur:
@@ -1665,45 +2149,63 @@ Well, I will back him straight: O esperance!
 Bid Butler lead him forth into the park.
 
 
+
+
 xxx:
 [Exit Servant]
+
+
 
 
 ladypercy:
 But hear you, my lord.
 
 
+
+
 hotspur:
 What say'st thou, my lady?
+
+
 
 
 ladypercy:
 What is it carries you away?
 
 
+
+
 hotspur:
 Why, my horse, my love, my horse.
+
+
 
 
 ladypercy:
 Out, you mad-headed ape!
 A weasel hath not such a deal of spleen
 As you are toss'd with. In faith,
-I'll know your business, Harry, that I will.
+I'll know your business, Harry_hotspur, that I will.
 I fear my brother Mortimer doth stir
 About his title, and hath sent for you
 To line his enterprise: but if you go,--
+
+
 
 
 hotspur:
 So far afoot, I shall be weary, love.
 
 
+
+
 ladypercy:
 Come, come, you paraquito, answer me
 Directly unto this question that I ask:
-In faith, I'll break thy little finger, Harry,
+In faith, I'll break thy little finger, Harry_hotspur,
 An if thou wilt not tell me all things true.
+
+
 
 
 hotspur:
@@ -1717,11 +2219,15 @@ What say'st thou, Kate? what would'st thou
 have with me?
 
 
+
+
 ladypercy:
 Do you not love me? do you not, indeed?
 Well, do not then; for since you love me not,
 I will not love myself. Do you not love me?
 Nay, tell me if you speak in jest or no.
+
+
 
 
 hotspur:
@@ -1733,15 +2239,19 @@ Whither I go, nor reason whereabout:
 Whither I must, I must; and, to conclude,
 This evening must I leave you, gentle Kate.
 I know you wise, but yet no farther wise
-Than Harry Percy's wife: constant you are,
+Than Harry_hotspur Percy's wife: constant you are,
 But yet a woman: and for secrecy,
 No lady closer; for I well believe
 Thou wilt not utter what thou dost not know;
 And so far will I trust thee, gentle Kate.
 
 
+
+
 ladypercy:
 How! so far?
+
+
 
 
 hotspur:
@@ -1751,20 +2261,30 @@ To-day will I set forth, to-morrow you.
 Will this content you, Kate?
 
 
+
+
 ladypercy:
 It must of force.
+
+
 
 
 xxx:
 [Exeunt]
 
 
+
+
 ----------------------------------------
+
 
 Act 2, Scene 4
 
+
 xxx:
 [Enter PRINCE HENRY and POINS]
+
+
 
 
 henry5:
@@ -1772,8 +2292,12 @@ Ned, prithee, come out of that fat room, and lend me
 thy hand to laugh a little.
 
 
+
+
 poins:
 Where hast been, Hal?
+
+
 
 
 henry5:
@@ -1783,7 +2307,7 @@ base-string of humility. Sirrah, I am sworn brother
 to a leash of drawers; and can call them all by
 their christen names, as Tom, Dick, and Francis.
 They take it already upon their salvation, that
-though I be but the prince of Wales, yet I am king
+though I be but the prince_hal of Wales, yet I am king_hal
 of courtesy; and tell me flatly I am no proud Jack,
 like Falstaff, but a Corinthian, a lad of mettle, a
 good boy, by the Lord, so they call me, and when I
@@ -1810,52 +2334,78 @@ to me may be nothing but 'Anon.' Step aside, and
 I'll show thee a precedent.
 
 
+
+
 poins:
 Francis!
+
+
 
 
 henry5:
 Thou art perfect.
 
 
+
+
 poins:
 Francis!
+
+
 
 
 xxx:
 [Exit POINS]
 
 
+
+
 xxx:
 [Enter FRANCIS]
+
+
 
 
 francis-h4p2:
 Anon, anon, sir. Look down into the Pomgarnet, Ralph.
 
 
+
+
 henry5:
 Come hither, Francis.
+
+
 
 
 francis-h4p2:
 My lord?
 
 
+
+
 henry5:
 How long hast thou to serve, Francis?
+
+
 
 
 francis-h4p2:
 Forsooth, five years, and as much as to--
 
 
+
+
 poins:
 [Within]  Francis!
 
 
+
+
 francis-h4p2:
 Anon, anon, sir.
+
+
 
 
 henry5:
@@ -1865,33 +2415,49 @@ as to play the coward with thy indenture and show it
 a fair pair of heels and run from it?
 
 
+
+
 francis-h4p2:
 O Lord, sir, I'll be sworn upon all the books in
 England, I could find in my heart.
 
 
+
+
 poins:
 [Within]  Francis!
+
+
 
 
 francis-h4p2:
 Anon, sir.
 
 
+
+
 henry5:
 How old art thou, Francis?
+
+
 
 
 francis-h4p2:
 Let me see--about Michaelmas next I shall be--
 
 
+
+
 poins:
 [Within]  Francis!
 
 
+
+
 francis-h4p2:
 Anon, sir. Pray stay a little, my lord.
+
+
 
 
 henry5:
@@ -1899,8 +2465,12 @@ Nay, but hark you, Francis: for the sugar thou
 gavest me,'twas a pennyworth, wast't not?
 
 
+
+
 francis-h4p2:
 O Lord, I would it had been two!
+
+
 
 
 henry5:
@@ -1908,12 +2478,18 @@ I will give thee for it a thousand pound: ask me
 when thou wilt, and thou shalt have it.
 
 
+
+
 poins:
 [Within]  Francis!
 
 
+
+
 francis-h4p2:
 Anon, anon.
+
+
 
 
 henry5:
@@ -1922,8 +2498,12 @@ or, Francis, o' Thursday; or indeed, Francis, when
 thou wilt. But, Francis!
 
 
+
+
 francis-h4p2:
 My lord?
+
+
 
 
 henry5:
@@ -1932,8 +2512,12 @@ not-pated, agate-ring, puke-stocking, caddis-garter,
 smooth-tongue, Spanish-pouch,--
 
 
+
+
 francis-h4p2:
 O Lord, sir, who do you mean?
+
+
 
 
 henry5:
@@ -1942,12 +2526,18 @@ for look you, Francis, your white canvas doublet
 will sully: in Barbary, sir, it cannot come to so much.
 
 
+
+
 francis-h4p2:
 What, sir?
 
 
+
+
 poins:
 [Within]  Francis!
+
+
 
 
 henry5:
@@ -1956,8 +2546,12 @@ Away, you rogue! dost thou not hear them call?
 not knowing which way to go]
 
 
+
+
 xxx:
 [Enter Vintner]
+
+
 
 
 Vintner:
@@ -1968,18 +2562,26 @@ My lord, old Sir John, with half-a-dozen more, are
 at the door: shall I let them in?
 
 
+
+
 henry5:
 Let them alone awhile, and then open the door.
 [Exit Vintner]
 Poins!
 
 
+
+
 xxx:
 [Re-enter POINS]
 
 
+
+
 poins:
 Anon, anon, sir.
+
+
 
 
 henry5:
@@ -1987,10 +2589,14 @@ Sirrah, Falstaff and the rest of the thieves are at
 the door: shall we be merry?
 
 
+
+
 poins:
 As merry as crickets, my lad. But hark ye; what
 cunning match have you made with this jest of the
 drawer? come, what's the issue?
+
+
 
 
 henry5:
@@ -2001,37 +2607,49 @@ pupil age of this present twelve o'clock at midnight.
 What's o'clock, Francis?
 
 
+
+
 francis-h4p2:
 Anon, anon, sir.
+
+
 
 
 xxx:
 [Exit]
 
 
+
+
 henry5:
 That ever this fellow should have fewer words than a
 parrot, and yet the son of a woman! His industry is
 upstairs and downstairs; his eloquence the parcel of
-a reckoning. I am not yet of Percy's mind, the
+a reckoning. I am not yet of Percy_hotspur's mind, the
 Hotspur of the north; he that kills me some six or
 seven dozen of Scots at a breakfast, washes his
 hands, and says to his wife 'Fie upon this quiet
-life! I want work.' 'O my sweet Harry,' says she,
+life! I want work.' 'O my sweet Harry_hotspur,' says she,
 'how many hast thou killed to-day?' 'Give my roan
 horse a drench,' says he; and answers 'Some
 fourteen,' an hour after; 'a trifle, a trifle.' I
-prithee, call in Falstaff: I'll play Percy, and
+prithee, call in Falstaff: I'll play Percy_hotspur, and
 that damned brawn shall play Dame Mortimer his
 wife. 'Rivo!' says the drunkard. Call in ribs, call in tallow.
+
+
 
 
 xxx:
 [Enter FALSTAFF, Gadshill, BARDOLPH, and PETO; FRANCIS following with wine]
 
 
+
+
 poins:
 Welcome, Jack: where hast thou been?
+
+
 
 
 falstaff:
@@ -2042,14 +2660,20 @@ them and foot them too. A plague of all cowards!
 Give me a cup of sack, rogue. Is there no virtue extant?
 
 
+
+
 xxx:
 [He drinks]
+
+
 
 
 henry5:
 Didst thou never see Titan kiss a dish of butter?
 pitiful-hearted Titan, that melted at the sweet tale
 of the sun's! if thou didst, then behold that compound.
+
+
 
 
 falstaff:
@@ -2066,28 +2690,40 @@ I would I were a weaver; I could sing psalms or any
 thing. A plague of all cowards, I say still.
 
 
+
+
 henry5:
 How now, wool-sack! what mutter you?
+
+
 
 
 falstaff:
 A king's son! If I do not beat thee out of thy
 kingdom with a dagger of lath, and drive all thy
 subjects afore thee like a flock of wild-geese,
-I'll never wear hair on my face more. You Prince of Wales!
+I'll never wear hair on my face more. You Prince_hal of Wales!
+
+
 
 
 henry5:
 Why, you whoreson round man, what's the matter?
 
 
+
+
 falstaff:
 Are not you a coward? answer me to that: and Poins there?
+
+
 
 
 poins:
 'Zounds, ye fat paunch, an ye call me coward, by the
 Lord, I'll stab thee.
+
+
 
 
 falstaff:
@@ -2101,9 +2737,13 @@ face me. Give me a cup of sack: I am a rogue, if I
 drunk to-day.
 
 
+
+
 henry5:
 O villain! thy lips are scarce wiped since thou
 drunkest last.
+
+
 
 
 falstaff:
@@ -2112,8 +2752,12 @@ All's one for that.
 A plague of all cowards, still say I.
 
 
+
+
 henry5:
 What's the matter?
+
+
 
 
 falstaff:
@@ -2121,8 +2765,12 @@ What's the matter! there be four of us here have
 ta'en a thousand pound this day morning.
 
 
+
+
 henry5:
 Where is it, Jack? where is it?
+
+
 
 
 falstaff:
@@ -2130,8 +2778,12 @@ Where is it! taken from us it is: a hundred upon
 poor four of us.
 
 
+
+
 henry5:
 What, a hundred, man?
+
+
 
 
 falstaff:
@@ -2146,24 +2798,36 @@ cowards! Let them speak: if they speak more or
 less than truth, they are villains and the sons of darkness.
 
 
+
+
 henry5:
 Speak, sirs; how was it?
+
+
 
 
 gadshill:
 We four set upon some dozen--
 
 
+
+
 falstaff:
 Sixteen at least, my lord.
+
+
 
 
 gadshill:
 And bound them.
 
 
+
+
 peto:
 No, no, they were not bound.
+
+
 
 
 falstaff:
@@ -2171,16 +2835,24 @@ You rogue, they were bound, every man of them; or I
 am a Jew else, an Ebrew Jew.
 
 
+
+
 gadshill:
 As we were sharing, some six or seven fresh men set upon us--
+
+
 
 
 falstaff:
 And unbound the rest, and then come in the other.
 
 
+
+
 henry5:
 What, fought you with them all?
+
+
 
 
 falstaff:
@@ -2190,8 +2862,12 @@ there were not two or three and fifty upon poor old
 Jack, then am I no two-legged creature.
 
 
+
+
 henry5:
 Pray God you have not murdered some of them.
+
+
 
 
 falstaff:
@@ -2203,16 +2879,24 @@ knowest my old ward; here I lay and thus I bore my
 point. Four rogues in buckram let drive at me--
 
 
+
+
 henry5:
 What, four? thou saidst but two even now.
+
+
 
 
 falstaff:
 Four, Hal; I told thee four.
 
 
+
+
 poins:
 Ay, ay, he said four.
+
+
 
 
 falstaff:
@@ -2221,32 +2905,48 @@ me. I made me no more ado but took all their seven
 points in my target, thus.
 
 
+
+
 henry5:
 Seven? why, there were but four even now.
+
+
 
 
 falstaff:
 In buckram?
 
 
+
+
 poins:
 Ay, four, in buckram suits.
+
+
 
 
 falstaff:
 Seven, by these hilts, or I am a villain else.
 
 
+
+
 henry5:
 Prithee, let him alone; we shall have more anon.
+
+
 
 
 falstaff:
 Dost thou hear me, Hal?
 
 
+
+
 henry5:
 Ay, and mark thee too, Jack.
+
+
 
 
 falstaff:
@@ -2254,16 +2954,24 @@ Do so, for it is worth the listening to. These nine
 in buckram that I told thee of--
 
 
+
+
 henry5:
 So, two more already.
+
+
 
 
 falstaff:
 Their points being broken,--
 
 
+
+
 poins:
 Down fell their hose.
+
+
 
 
 falstaff:
@@ -2272,8 +2980,12 @@ came in foot and hand; and with a thought seven of
 the eleven I paid.
 
 
+
+
 henry5:
 O monstrous! eleven buckram men grown out of two!
+
+
 
 
 falstaff:
@@ -2283,6 +2995,8 @@ at me; for it was so dark, Hal, that thou couldst
 not see thy hand.
 
 
+
+
 henry5:
 These lies are like their father that begets them;
 gross as a mountain, open, palpable. Why, thou
@@ -2290,9 +3004,13 @@ clay-brained guts, thou knotty-pated fool, thou
 whoreson, obscene, grease tallow-catch,--
 
 
+
+
 falstaff:
 What, art thou mad? art thou mad? is not the truth
 the truth?
+
+
 
 
 henry5:
@@ -2301,8 +3019,12 @@ green, when it was so dark thou couldst not see thy
 hand? come, tell us your reason: what sayest thou to this?
 
 
+
+
 poins:
 Come, your reason, Jack, your reason.
+
+
 
 
 falstaff:
@@ -2314,10 +3036,14 @@ blackberries, I would give no man a reason upon
 compulsion, I.
 
 
+
+
 henry5:
 I'll be no longer guilty of this sin; this sanguine
 coward, this bed-presser, this horseback-breaker,
 this huge hill of flesh,--
+
+
 
 
 falstaff:
@@ -2328,14 +3054,20 @@ tailor's-yard, you sheath, you bowcase; you vile
 standing-tuck,--
 
 
+
+
 henry5:
 Well, breathe awhile, and then to it again: and
 when thou hast tired thyself in base comparisons,
 hear me speak but this.
 
 
+
+
 poins:
 Mark, Jack.
+
+
 
 
 henry5:
@@ -2354,8 +3086,12 @@ thou now find out to hide thee from this open and
 apparent shame?
 
 
+
+
 poins:
 Come, let's hear, Jack; what trick hast thou now?
+
+
 
 
 falstaff:
@@ -2364,7 +3100,7 @@ Why, hear you, my masters: was it for me to kill the
 heir-apparent? should I turn upon the true prince?
 why, thou knowest I am as valiant as Hercules: but
 beware instinct; the lion will not touch the true
-prince. Instinct is a great matter; I was now a
+prince_hal. Instinct is a great matter; I was now a
 coward on instinct. I shall think the better of
 myself and thee during my life; I for a valiant
 lion, and thou for a true prince. But, by the Lord,
@@ -2375,20 +3111,30 @@ of good fellowship come to you! What, shall we be
 merry? shall we have a play extempore?
 
 
+
+
 henry5:
 Content; and the argument shall be thy running away.
+
+
 
 
 falstaff:
 Ah, no more of that, Hal, an thou lovest me!
 
 
+
+
 xxx:
 [Enter Hostess]
 
 
+
+
 quickly:
-O Jesu, my lord the prince!
+O Jesu, my lord the prince_hal!
+
+
 
 
 henry5:
@@ -2396,10 +3142,14 @@ How now, my lady the hostess! what sayest thou to
 me?
 
 
+
+
 quickly:
 Marry, my lord, there is a nobleman of the court at
 door would speak with you: he says he comes from
-your father.
+your father_henry5.
+
+
 
 
 henry5:
@@ -2407,12 +3157,18 @@ Give him as much as will make him a royal man, and
 send him back again to my mother.
 
 
+
+
 falstaff:
 What manner of man is he?
 
 
+
+
 quickly:
 An old man.
+
+
 
 
 falstaff:
@@ -2420,27 +3176,39 @@ What doth gravity out of his bed at midnight? Shall
 I give him his answer?
 
 
+
+
 henry5:
 Prithee, do, Jack.
+
+
 
 
 falstaff:
 'Faith, and I'll send him packing.
 
 
+
+
 xxx:
 [Exit FALSTAFF]
+
+
 
 
 henry5:
 Now, sirs: by'r lady, you fought fair; so did you,
 Peto; so did you, Bardolph: you are lions too, you
 ran away upon instinct, you will not touch the true
-prince; no, fie!
+prince_hal; no, fie!
+
+
 
 
 bardolph:
 'Faith, I ran when I saw others run.
+
+
 
 
 henry5:
@@ -2448,10 +3216,14 @@ henry5:
 sword so hacked?
 
 
+
+
 peto:
 Why, he hacked it with his dagger, and said he would
 swear truth out of England but he would make you
 believe it was done in fight, and persuaded us to do the like.
+
+
 
 
 bardolph:
@@ -2462,6 +3234,8 @@ did that I did not this seven year before, I blushed
 to hear his monstrous devices.
 
 
+
+
 henry5:
 O villain, thou stolest a cup of sack eighteen years
 ago, and wert taken with the manner, and ever since
@@ -2470,25 +3244,37 @@ sword on thy side, and yet thou rannest away: what
 instinct hadst thou for it?
 
 
+
+
 bardolph:
 My lord, do you see these meteors? do you behold
 these exhalations?
+
+
 
 
 henry5:
 I do.
 
 
+
+
 bardolph:
 What think you they portend?
+
+
 
 
 henry5:
 Hot livers and cold purses.
 
 
+
+
 bardolph:
 Choler, my lord, if rightly taken.
+
+
 
 
 henry5:
@@ -2499,22 +3285,28 @@ How now, my sweet creature of bombast!
 How long is't ago, Jack, since thou sawest thine own knee?
 
 
+
+
 falstaff:
 My own knee! when I was about thy years, Hal, I was
 not an eagle's talon in the waist; I could have
 crept into any alderman's thumb-ring: a plague of
 sighing and grief! it blows a man up like a
 bladder. There's villanous news abroad: here was
-Sir John Bracy from your father; you must to the
+Sir John Bracy from your father_henry5; you must to the
 court in the morning. That same mad fellow of the
-north, Percy, and he of Wales, that gave Amamon the
+north, Percy_hotspur, and he of Wales, that gave Amamon the
 bastinado and made Lucifer cuckold and swore the
 devil his true liegeman upon the cross of a Welsh
 hook--what a plague call you him?
 
 
+
+
 poins:
 O, Glendower.
+
+
 
 
 falstaff:
@@ -2524,21 +3316,31 @@ Scots, Douglas, that runs o' horseback up a hill
 perpendicular,--
 
 
+
+
 henry5:
 He that rides at high speed and with his pistol
 kills a sparrow flying.
+
+
 
 
 falstaff:
 You have hit it.
 
 
+
+
 henry5:
 So did he never the sparrow.
 
 
+
+
 falstaff:
 Well, that rascal hath good mettle in him; he will not run.
+
+
 
 
 henry5:
@@ -2546,20 +3348,28 @@ Why, what a rascal art thou then, to praise him so
 for running!
 
 
+
+
 falstaff:
 O' horseback, ye cuckoo; but afoot he will not budge a foot.
+
+
 
 
 henry5:
 Yes, Jack, upon instinct.
 
 
+
+
 falstaff:
 I grant ye, upon instinct. Well, he is there too,
 and one Mordake, and a thousand blue-caps more:
-Worcester is stolen away to-night; thy father's
+Worcester is stolen away to-night; thy father_henry5's
 beard is turned white with the news: you may buy
 land now as cheap as stinking mackerel.
+
+
 
 
 henry5:
@@ -2568,19 +3378,25 @@ this civil buffeting hold, we shall buy maidenheads
 as they buy hob-nails, by the hundreds.
 
 
+
+
 falstaff:
 By the mass, lad, thou sayest true; it is like we
 shall have good trading that way. But tell me, Hal,
 art not thou horrible afeard? thou being
 heir-apparent, could the world pick thee out three
 such enemies again as that fiend Douglas, that
-spirit Percy, and that devil Glendower? Art thou
+spirit Percy_hotspur, and that devil Glendower? Art thou
 not horribly afraid? doth not thy blood thrill at
 it?
 
 
+
+
 henry5:
 Not a whit, i' faith; I lack some of thy instinct.
+
+
 
 
 falstaff:
@@ -2588,9 +3404,13 @@ Well, thou wert be horribly chid tomorrow when thou
 comest to thy father: if thou love me, practise an answer.
 
 
+
+
 henry5:
 Do thou stand for my father, and examine me upon the
 particulars of my life.
+
+
 
 
 falstaff:
@@ -2598,10 +3418,14 @@ Shall I? content: this chair shall be my state,
 this dagger my sceptre, and this cushion my crown.
 
 
+
+
 henry5:
 Thy state is taken for a joined-stool, thy golden
 sceptre for a leaden dagger, and thy precious rich
 crown for a pitiful bald crown!
+
+
 
 
 falstaff:
@@ -2612,24 +3436,36 @@ wept; for I must speak in passion, and I will do it
 in King Cambyses' vein.
 
 
+
+
 henry5:
 Well, here is my leg.
+
+
 
 
 falstaff:
 And here is my speech. Stand aside, nobility.
 
 
+
+
 quickly:
 O Jesu, this is excellent sport, i' faith!
+
+
 
 
 falstaff:
 Weep not, sweet queen; for trickling tears are vain.
 
 
+
+
 quickly:
 O, the father, how he holds his countenance!
+
+
 
 
 falstaff:
@@ -2637,39 +3473,47 @@ For God's sake, lords, convey my tristful queen;
 For tears do stop the flood-gates of her eyes.
 
 
+
+
 quickly:
 O Jesu, he doth it as like one of these harlotry
 players as ever I see!
 
 
+
+
 falstaff:
 Peace, good pint-pot; peace, good tickle-brain.
-Harry, I do not only marvel where thou spendest thy
+Harry_hal, I do not only marvel where thou spendest thy
 time, but also how thou art accompanied: for though
 the camomile, the more it is trodden on the faster
 it grows, yet youth, the more it is wasted the
-sooner it wears. That thou art my son, I have
+sooner it wears. That thou art my son_hal, I have
 partly thy mother's word, partly my own opinion,
 but chiefly a villanous trick of thine eye and a
 foolish-hanging of thy nether lip, that doth warrant
 me. If then thou be son to me, here lies the point;
-why, being son to me, art thou so pointed at? Shall
+why, being son_hal to me, art thou so pointed at? Shall
 the blessed sun of heaven prove a micher and eat
 blackberries? a question not to be asked. Shall
 the sun of England prove a thief and take purses? a
-question to be asked. There is a thing, Harry,
+question to be asked. There is a thing, Harry_hal,
 which thou hast often heard of and it is known to
 many in our land by the name of pitch: this pitch,
 as ancient writers do report, doth defile; so doth
-the company thou keepest: for, Harry, now I do not
+the company thou keepest: for, Harry_hal, now I do not
 speak to thee in drink but in tears, not in
 pleasure but in passion, not in words only, but in
 woes also: and yet there is a virtuous man whom I
 have often noted in thy company, but I know not his name.
 
 
+
+
 henry5:
 What manner of man, an it like your majesty?
+
+
 
 
 falstaff:
@@ -2678,7 +3522,7 @@ cheerful look, a pleasing eye and a most noble
 carriage; and, as I think, his age some fifty, or,
 by'r lady, inclining to three score; and now I
 remember me, his name is Falstaff: if that man
-should be lewdly given, he deceiveth me; for, Harry,
+should be lewdly given, he deceiveth me; for, Harry_hal,
 I see virtue in his looks. If then the tree may be
 known by the fruit, as the fruit by the tree, then,
 peremptorily I speak it, there is virtue in that
@@ -2687,9 +3531,13 @@ me now, thou naughty varlet, tell me, where hast
 thou been this month?
 
 
+
+
 henry5:
 Dost thou speak like a king? Do thou stand for me,
-and I'll play my father.
+and I'll play my father_henry4.
+
+
 
 
 falstaff:
@@ -2698,29 +3546,43 @@ majestically, both in word and matter, hang me up by
 the heels for a rabbit-sucker or a poulter's hare.
 
 
+
+
 henry5:
 Well, here I am set.
+
+
 
 
 falstaff:
 And here I stand: judge, my masters.
 
 
+
+
 henry5:
-Now, Harry, whence come you?
+Now, Harry_hal, whence come you?
+
+
 
 
 falstaff:
 My noble lord, from Eastcheap.
 
 
+
+
 henry5:
 The complaints I hear of thee are grievous.
+
+
 
 
 falstaff:
 'Sblood, my lord, they are false: nay, I'll tickle
 ye for a young prince, i' faith.
+
+
 
 
 henry5:
@@ -2741,9 +3603,13 @@ wherein crafty, but in villany? wherein villanous,
 but in all things? wherein worthy, but in nothing?
 
 
+
+
 falstaff:
 I would your grace would take me with you: whom
 means your grace?
+
+
 
 
 henry5:
@@ -2751,12 +3617,18 @@ That villanous abominable misleader of youth,
 Falstaff, that old white-bearded Satan.
 
 
+
+
 falstaff:
 My lord, the man I know.
 
 
+
+
 henry5:
 I know thou dost.
+
+
 
 
 falstaff:
@@ -2773,24 +3645,34 @@ banish Bardolph, banish Poins: but for sweet Jack
 Falstaff, kind Jack Falstaff, true Jack Falstaff,
 valiant Jack Falstaff, and therefore more valiant,
 being, as he is, old Jack Falstaff, banish not him
-thy Harry's company, banish not him thy Harry's
+thy Harry_hal's company, banish not him thy Harry_hal's
 company: banish plump Jack, and banish all the world.
+
+
 
 
 henry5:
 I do, I will.
 
 
+
+
 xxx:
 [A knocking heard]
+
+
 
 
 xxx:
 [Exeunt Hostess, FRANCIS, and BARDOLPH]
 
 
+
+
 xxx:
 [Re-enter BARDOLPH, running]
+
+
 
 
 bardolph:
@@ -2798,17 +3680,25 @@ O, my lord, my lord! the sheriff with a most
 monstrous watch is at the door.
 
 
+
+
 falstaff:
 Out, ye rogue! Play out the play: I have much to
 say in the behalf of that Falstaff.
+
+
 
 
 xxx:
 [Re-enter the Hostess]
 
 
+
+
 quickly:
 O Jesu, my lord, my lord!
+
+
 
 
 henry5:
@@ -2816,9 +3706,13 @@ Heigh, heigh! the devil rides upon a fiddlestick:
 what's the matter?
 
 
+
+
 quickly:
 The sheriff and all the watch are at the door: they
 are come to search the house. Shall I let them in?
+
+
 
 
 falstaff:
@@ -2827,8 +3721,12 @@ gold a counterfeit: thou art essentially mad,
 without seeming so.
 
 
+
+
 henry5:
 And thou a natural coward, without instinct.
+
+
 
 
 falstaff:
@@ -2838,15 +3736,21 @@ as well as another man, a plague on my bringing up!
 I hope I shall as soon be strangled with a halter as another.
 
 
+
+
 henry5:
 Go, hide thee behind the arras: the rest walk up
 above. Now, my masters, for a true face and good
 conscience.
 
 
+
+
 falstaff:
 Both which I have had: but their date is out, and
 therefore I'll hide me.
+
+
 
 
 henry5:
@@ -2856,13 +3760,19 @@ Call in the sheriff.
 Now, master sheriff, what is your will with me?
 
 
+
+
 sheriff-h41:
 First, pardon me, my lord. A hue and cry
 Hath follow'd certain men unto this house.
 
 
+
+
 henry5:
 What men?
+
+
 
 
 sheriff-h41:
@@ -2870,8 +3780,12 @@ One of them is well known, my gracious lord,
 A gross fat man.
 
 
+
+
 Carrier:
 As fat as butter.
+
+
 
 
 henry5:
@@ -2884,9 +3798,13 @@ For any thing he shall be charged withal:
 And so let me entreat you leave the house.
 
 
+
+
 sheriff-h41:
 I will, my lord. There are two gentlemen
 Have in this robbery lost three hundred marks.
+
+
 
 
 henry5:
@@ -2894,20 +3812,30 @@ It may be so: if he have robb'd these men,
 He shall be answerable; and so farewell.
 
 
+
+
 sheriff-h41:
 Good night, my noble lord.
+
+
 
 
 henry5:
 I think it is good morrow, is it not?
 
 
+
+
 sheriff-h41:
 Indeed, my lord, I think it be two o'clock.
 
 
+
+
 xxx:
 [Exeunt Sheriff and Carrier]
+
+
 
 
 henry5:
@@ -2915,9 +3843,13 @@ This oily rascal is known as well as Paul's. Go,
 call him forth.
 
 
+
+
 peto:
 Falstaff!--Fast asleep behind the arras, and
 snorting like a horse.
+
+
 
 
 henry5:
@@ -2926,12 +3858,18 @@ Hark, how hard he fetches breath. Search his pockets.
 What hast thou found?
 
 
+
+
 peto:
 Nothing but papers, my lord.
 
 
+
+
 henry5:
 Let's see what they be: read them.
+
+
 
 
 peto:
@@ -2940,6 +3878,8 @@ Item, Sauce,. . . 4d.
 Item, Sack, two gallons, 5s. 8d.
 Item, Anchovies and sack after supper, 2s. 6d.
 Item, Bread,        ob.
+
+
 
 
 henry5:
@@ -2955,26 +3895,39 @@ back again with advantage. Be with me betimes in
 the morning; and so, good morrow, Peto.
 
 
+
+
 xxx:
 [Exeunt]
+
+
 
 
 peto:
 Good morrow, good my lord.
 
 
+
+
 ****************************************
 
 
+
+
 Act 3, Scene 1
+
 
 xxx:
 [Enter HOTSPUR, WORCESTER, MORTIMER, and GLENDOWER]
 
 
+
+
 mortimer:
 These promises are fair, the parties sure,
 And our induction full of prosperous hope.
+
+
 
 
 hotspur:
@@ -2984,16 +3937,22 @@ And uncle Worcester: a plague upon it!
 I have forgot the map.
 
 
+
+
 glendower:
 No, here it is.
-Sit, cousin Percy; sit, good cousin Hotspur,
+Sit, cousin Percy_hal; sit, good cousin Hotspur,
 For by that name as oft as Lancaster
 Doth speak of you, his cheek looks pale and with
 A rising sigh he wisheth you in heaven.
 
 
+
+
 hotspur:
 And you in hell, as oft as he hears Owen Glendower spoke of.
+
+
 
 
 glendower:
@@ -3004,14 +3963,20 @@ The frame and huge foundation of the earth
 Shaked like a coward.
 
 
+
+
 hotspur:
 Why, so it would have done at the same season, if
 your mother's cat had but kittened, though yourself
 had never been born.
 
 
+
+
 glendower:
 I say the earth did shake when I was born.
+
+
 
 
 hotspur:
@@ -3019,8 +3984,12 @@ And I say the earth was not of my mind,
 If you suppose as fearing you it shook.
 
 
+
+
 glendower:
 The heavens were all on fire, the earth did tremble.
+
+
 
 
 hotspur:
@@ -3035,6 +4004,8 @@ Shakes the old beldam earth and topples down
 Steeples and moss-grown towers. At your birth
 Our grandam earth, having this distemperature,
 In passion shook.
+
+
 
 
 glendower:
@@ -3055,17 +4026,25 @@ Can trace me in the tedious ways of art
 And hold me pace in deep experiments.
 
 
+
+
 hotspur:
 I think there's no man speaks better Welsh.
 I'll to dinner.
 
 
+
+
 mortimer:
-Peace, cousin Percy; you will make him mad.
+Peace, cousin Percy_hotspur; you will make him mad.
+
+
 
 
 glendower:
 I can call spirits from the vasty deep.
+
+
 
 
 hotspur:
@@ -3073,9 +4052,13 @@ Why, so can I, or so can any man;
 But will they come when you do call for them?
 
 
+
+
 glendower:
 Why, I can teach you, cousin, to command
 The devil.
+
+
 
 
 hotspur:
@@ -3086,8 +4069,12 @@ And I'll be sworn I have power to shame him hence.
 O, while you live, tell truth and shame the devil!
 
 
+
+
 mortimer:
 Come, come, no more of this unprofitable chat.
+
+
 
 
 glendower:
@@ -3097,14 +4084,20 @@ And sandy-bottom'd Severn have I sent him
 Bootless home and weather-beaten back.
 
 
+
+
 hotspur:
 Home without boots, and in foul weather too!
 How 'scapes he agues, in the devil's name?
 
 
+
+
 glendower:
 Come, here's the map: shall we divide our right
 According to our threefold order ta'en?
+
+
 
 
 mortimer:
@@ -3119,7 +4112,7 @@ The remnant northward, lying off from Trent.
 And our indentures tripartite are drawn;
 Which being sealed interchangeably,
 A business that this night may execute,
-To-morrow, cousin Percy, you and I
+To-morrow, cousin Percy_hotspur, you and I
 And my good Lord of Worcester will set forth
 To meet your father and the Scottish power,
 As is appointed us, at Shrewsbury.
@@ -3129,12 +4122,16 @@ Within that space you may have drawn together
 Your tenants, friends and neighbouring gentlemen.
 
 
+
+
 glendower:
 A shorter time shall send me to you, lords:
 And in my conduct shall your ladies come;
 From whom you now must steal and take no leave,
 For there will be a world of water shed
 Upon the parting of your wives and you.
+
+
 
 
 hotspur:
@@ -3150,8 +4147,12 @@ It shall not wind with such a deep indent,
 To rob me of so rich a bottom here.
 
 
+
+
 glendower:
 Not wind? it shall, it must; you see it doth.
+
+
 
 
 mortimer:
@@ -3162,38 +4163,56 @@ Gelding the opposed continent as much
 As on the other side it takes from you.
 
 
+
+
 worcester:
 Yea, but a little charge will trench him here
 And on this north side win this cape of land;
 And then he runs straight and even.
 
 
+
+
 hotspur:
 I'll have it so: a little charge will do it.
+
+
 
 
 glendower:
 I'll not have it alter'd.
 
 
+
+
 hotspur:
 Will not you?
+
+
 
 
 glendower:
 No, nor you shall not.
 
 
+
+
 hotspur:
 Who shall say me nay?
+
+
 
 
 glendower:
 Why, that will I.
 
 
+
+
 hotspur:
 Let me not understand you, then; speak it in Welsh.
+
+
 
 
 glendower:
@@ -3203,6 +4222,8 @@ Where, being but young, I framed to the harp
 Many an English ditty lovely well
 And gave the tongue a helpful ornament,
 A virtue that was never seen in you.
+
+
 
 
 hotspur:
@@ -3217,8 +4238,12 @@ Nothing so much as mincing poetry:
 'Tis like the forced gait of a shuffling nag.
 
 
+
+
 glendower:
 Come, you shall have Trent turn'd.
+
+
 
 
 hotspur:
@@ -3229,6 +4254,8 @@ I'll cavil on the ninth part of a hair.
 Are the indentures drawn? shall we be gone?
 
 
+
+
 glendower:
 The moon shines fair; you may away by night:
 I'll haste the writer and withal
@@ -3237,12 +4264,18 @@ I am afraid my daughter will run mad,
 So much she doteth on her Mortimer.
 
 
+
+
 xxx:
 [Exit GLENDOWER]
 
 
+
+
 mortimer:
-Fie, cousin Percy! how you cross my father!
+Fie, cousin Percy_hotspur! how you cross my father!
+
+
 
 
 hotspur:
@@ -3265,6 +4298,8 @@ Than feed on cates and have him talk to me
 In any summer-house in Christendom.
 
 
+
+
 mortimer:
 In faith, he is a worthy gentleman,
 Exceedingly well read, and profited
@@ -3278,6 +4313,8 @@ I warrant you, that man is not alive
 Might so have tempted him as you have done,
 Without the taste of danger and reproof:
 But do not use it oft, let me entreat you.
+
+
 
 
 worcester:
@@ -3296,13 +4333,19 @@ Upon the beauty of all parts besides,
 Beguiling them of commendation.
 
 
+
+
 hotspur:
 Well, I am school'd: good manners be your speed!
 Here come our wives, and let us take our leave.
 
 
+
+
 xxx:
 [Re-enter GLENDOWER with the ladies]
+
+
 
 
 mortimer:
@@ -3310,9 +4353,13 @@ This is the deadly spite that angers me;
 My wife can speak no English, I no Welsh.
 
 
+
+
 glendower:
 My daughter weeps: she will not part with you;
 She'll be a soldier too, she'll to the wars.
+
+
 
 
 mortimer:
@@ -3320,8 +4367,12 @@ Good father, tell her that she and my aunt Percy
 Shall follow in your conduct speedily.
 
 
+
+
 xxx:
 [Glendower speaks to her in Welsh, and she answers him in the same]
+
+
 
 
 glendower:
@@ -3329,8 +4380,12 @@ She is desperate here; a peevish self-wind harlotry,
 one that no persuasion can do good upon.
 
 
+
+
 xxx:
 [The lady speaks in Welsh]
+
+
 
 
 mortimer:
@@ -3348,16 +4403,24 @@ Sung by a fair queen in a summer's bower,
 With ravishing division, to her lute.
 
 
+
+
 glendower:
 Nay, if you melt, then will she run mad.
+
+
 
 
 xxx:
 [The lady speaks again in Welsh]
 
 
+
+
 mortimer:
 O, I am ignorance itself in this!
+
+
 
 
 glendower:
@@ -3372,9 +4435,13 @@ The hour before the heavenly-harness'd team
 Begins his golden progress in the east.
 
 
+
+
 mortimer:
 With all my heart I'll sit and hear her sing:
 By that time will our book, I think, be drawn
+
+
 
 
 glendower:
@@ -3384,17 +4451,25 @@ Hang in the air a thousand leagues from hence,
 And straight they shall be here: sit, and attend.
 
 
+
+
 hotspur:
 Come, Kate, thou art perfect in lying down: come,
 quick, quick, that I may lay my head in thy lap.
+
+
 
 
 ladypercy:
 Go, ye giddy goose.
 
 
+
+
 xxx:
 [The music plays]
+
+
 
 
 hotspur:
@@ -3403,58 +4478,86 @@ And 'tis no marvel he is so humorous.
 By'r lady, he is a good musician.
 
 
+
+
 ladypercy:
 Then should you be nothing but musical for you are
 altogether governed by humours. Lie still, ye thief,
 and hear the lady sing in Welsh.
 
 
+
+
 hotspur:
 I had rather hear Lady, my brach, howl in Irish.
+
+
 
 
 ladypercy:
 Wouldst thou have thy head broken?
 
 
+
+
 hotspur:
 No.
+
+
 
 
 ladypercy:
 Then be still.
 
 
+
+
 hotspur:
 Neither;'tis a woman's fault.
+
+
 
 
 ladypercy:
 Now God help thee!
 
 
+
+
 hotspur:
 To the Welsh lady's bed.
+
+
 
 
 ladypercy:
 What's that?
 
 
+
+
 hotspur:
 Peace! she sings.
+
+
 
 
 xxx:
 [Here the lady sings a Welsh song]
 
 
+
+
 hotspur:
 Come, Kate, I'll have your song too.
 
 
+
+
 ladypercy:
 Not mine, in good sooth.
+
+
 
 
 hotspur:
@@ -3471,8 +4574,12 @@ To velvet-guards and Sunday-citizens.
 Come, sing.
 
 
+
+
 ladypercy:
 I will not sing.
+
+
 
 
 hotspur:
@@ -3481,8 +4588,12 @@ teacher. An the indentures be drawn, I'll away
 within these two hours; and so, come in when ye will.
 
 
+
+
 xxx:
 [Exit]
+
+
 
 
 glendower:
@@ -3492,24 +4603,34 @@ By this our book is drawn; we'll but seal,
 And then to horse immediately.
 
 
+
+
 mortimer:
 With all my heart.
+
+
 
 
 xxx:
 [Exeunt]
 
 
+
+
 ----------------------------------------
 
+
 Act 3, Scene 2
+
 
 xxx:
 [Enter KING HENRY IV, PRINCE HENRY, and others]
 
 
+
+
 henry4:
-Lords, give us leave; the Prince of Wales and I
+Lords, give us leave; the Prince_hal of Wales and I
 Must have some private conference; but be near at hand,
 For we shall presently have need of you.
 [Exeunt Lords]
@@ -3529,6 +4650,8 @@ Accompany the greatness of thy blood
 And hold their level with thy princely heart?
 
 
+
+
 henry5:
 So please your majesty, I would I could
 Quit all offences with as clear excuse
@@ -3543,8 +4666,10 @@ Hath faulty wander'd and irregular,
 Find pardon on my true submission.
 
 
+
+
 henry4:
-God pardon thee! yet let me wonder, Harry,
+God pardon thee! yet let me wonder, Harry_hal,
 At thy affections, which do hold a wing
 Quite from the flight of all thy ancestors.
 Thy place in council thou hast rudely lost.
@@ -3569,7 +4694,7 @@ And then I stole all courtesy from heaven,
 And dress'd myself in such humility
 That I did pluck allegiance from men's hearts,
 Loud shouts and salutations from their mouths,
-Even in the presence of the crowned king.
+Even in the presence of the crowned king_henry4.
 Thus did I keep my person fresh and new;
 My presence, like a robe pontifical,
 Ne'er seen but wonder'd at: and so my state,
@@ -3600,7 +4725,7 @@ But rather drowzed and hung their eyelids down,
 Slept in his face and render'd such aspect
 As cloudy men use to their adversaries,
 Being with his presence glutted, gorged and full.
-And in that very line, Harry, standest thou;
+And in that very line, Harry_hal, standest thou;
 For thou has lost thy princely privilege
 With vile participation: not an eye
 But is a-weary of thy common sight,
@@ -3609,9 +4734,13 @@ Which now doth that I would not have it do,
 Make blind itself with foolish tenderness.
 
 
+
+
 henry5:
 I shall hereafter, my thrice gracious lord,
 Be more myself.
+
+
 
 
 henry4:
@@ -3644,13 +4773,15 @@ And what say you to this? Percy, Northumberland,
 The Archbishop's grace of York, Douglas, Mortimer,
 Capitulate against us and are up.
 But wherefore do I tell these news to thee?
-Why, Harry, do I tell thee of my foes,
+Why, Harry_hal, do I tell thee of my foes,
 Which art my near'st and dearest enemy?
 Thou that art like enough, through vassal fear,
 Base inclination and the start of spleen
-To fight against me under Percy's pay,
+To fight against me under Percy_hotspur's pay,
 To dog his heels and curtsy at his frowns,
 To show how much thou art degenerate.
+
+
 
 
 henry5:
@@ -3666,13 +4797,13 @@ Which, wash'd away, shall scour my shame with it:
 And that shall be the day, whene'er it lights,
 That this same child of honour and renown,
 This gallant Hotspur, this all-praised knight,
-And your unthought-of Harry chance to meet.
+And your unthought-of Harry_hal chance to meet.
 For every honour sitting on his helm,
 Would they were multitudes, and on my head
 My shames redoubled! for the time will come,
 That I shall make this northern youth exchange
 His glorious deeds for my indignities.
-Percy is but my factor, good my lord,
+Percy_hotspur is but my factor, good my lord,
 To engross up glorious deeds on my behalf;
 And I will call him to so strict account,
 That he shall render every glory up,
@@ -3687,11 +4818,15 @@ And I will die a hundred thousand deaths
 Ere break the smallest parcel of this vow.
 
 
+
+
 henry4:
 A hundred thousand rebels die in this:
 Thou shalt have charge and sovereign trust herein.
 [Enter BLUNT]
 How now, good Blunt? thy looks are full of speed.
+
+
 
 
 blunt:
@@ -3704,13 +4839,15 @@ If promises be kept on every hand,
 As ever offer'd foul play in the state.
 
 
+
+
 henry4:
 The Earl of Westmoreland set forth to-day;
 With him my son, Lord John of Lancaster;
 For this advertisement is five days old:
-On Wednesday next, Harry, you shall set forward;
+On Wednesday next, Harry_hal, you shall set forward;
 On Thursday we ourselves will march: our meeting
-Is Bridgenorth: and, Harry, you shall march
+Is Bridgenorth: and, Harry_hal, you shall march
 Through Gloucestershire; by which account,
 Our business valued, some twelve days hence
 Our general forces at Bridgenorth shall meet.
@@ -3718,16 +4855,24 @@ Our hands are full of business: let's away;
 Advantage feeds him fat, while men delay.
 
 
+
+
 xxx:
 [Exeunt]
 
 
+
+
 ----------------------------------------
+
 
 Act 3, Scene 3
 
+
 xxx:
 [Enter FALSTAFF and BARDOLPH]
+
+
 
 
 falstaff:
@@ -3744,8 +4889,12 @@ church! Company, villanous company, hath been the
 spoil of me.
 
 
+
+
 bardolph:
 Sir John, you are so fretful, you cannot live long.
+
+
 
 
 falstaff:
@@ -3759,10 +4908,14 @@ good compass: and now I live out of all order, out
 of all compass.
 
 
+
+
 bardolph:
 Why, you are so fat, Sir John, that you must needs
 be out of all compass, out of all reasonable
 compass, Sir John.
+
+
 
 
 falstaff:
@@ -3772,8 +4925,12 @@ the poop, but 'tis in the nose of thee; thou art the
 Knight of the Burning Lamp.
 
 
+
+
 bardolph:
 Why, Sir John, my face does you no harm.
+
+
 
 
 falstaff:
@@ -3801,8 +4958,12 @@ time this two and thirty years; God reward me for
 it!
 
 
+
+
 bardolph:
 'Sblood, I would my face were in your belly!
+
+
 
 
 falstaff:
@@ -3810,6 +4971,8 @@ God-a-mercy! so should I be sure to be heart-burned.
 [Enter Hostess]
 How now, Dame Partlet the hen! have you inquired
 yet who picked my pocket?
+
+
 
 
 quickly:
@@ -3820,10 +4983,14 @@ by boy, servant by servant: the tithe of a hair
 was never lost in my house before.
 
 
+
+
 falstaff:
 Ye lie, hostess: Bardolph was shaved and lost many
 a hair; and I'll be sworn my pocket was picked. Go
 to, you are a woman, go.
+
+
 
 
 quickly:
@@ -3831,8 +4998,12 @@ Who, I? no; I defy thee: God's light, I was never
 called so in mine own house before.
 
 
+
+
 falstaff:
 Go to, I know you well enough.
+
+
 
 
 quickly:
@@ -3842,9 +5013,13 @@ you pick a quarrel to beguile me of it: I bought
 you a dozen of shirts to your back.
 
 
+
+
 falstaff:
 Dowlas, filthy dowlas: I have given them away to
 bakers' wives, and they have made bolters of them.
+
+
 
 
 quickly:
@@ -3854,12 +5029,18 @@ John, for your diet and by-drinkings, and money lent
 you, four and twenty pound.
 
 
+
+
 falstaff:
 He had his part of it; let him pay.
 
 
+
+
 quickly:
 He? alas, he is poor; he hath nothing.
+
+
 
 
 falstaff:
@@ -3871,9 +5052,13 @@ shall have my pocket picked? I have lost a
 seal-ring of my grandfather's worth forty mark.
 
 
+
+
 quickly:
 O Jesu, I have heard the prince tell him, I know not
 how oft, that ring was copper!
+
+
 
 
 falstaff:
@@ -3886,12 +5071,18 @@ How now, lad! is the wind in that door, i' faith?
 must we all march?
 
 
+
+
 bardolph:
 Yea, two and two, Newgate fashion.
 
 
+
+
 quickly:
 My lord, I pray you, hear me.
+
+
 
 
 henry5:
@@ -3899,16 +5090,24 @@ What sayest thou, Mistress Quickly? How doth thy
 husband? I love him well; he is an honest man.
 
 
+
+
 quickly:
 Good my lord, hear me.
+
+
 
 
 falstaff:
 Prithee, let her alone, and list to me.
 
 
+
+
 henry5:
 What sayest thou, Jack?
+
+
 
 
 falstaff:
@@ -3917,8 +5116,12 @@ and had my pocket picked: this house is turned
 bawdy-house; they pick pockets.
 
 
+
+
 henry5:
 What didst thou lose, Jack?
+
+
 
 
 falstaff:
@@ -3927,8 +5130,12 @@ forty pound apiece, and a seal-ring of my
 grandfather's.
 
 
+
+
 henry5:
 A trifle, some eight-penny matter.
+
+
 
 
 quickly:
@@ -3938,12 +5145,18 @@ of you, like a foul-mouthed man as he is; and said
 he would cudgel you.
 
 
+
+
 henry5:
 What! he did not?
 
 
+
+
 quickly:
 There's neither faith, truth, nor womanhood in me else.
+
+
 
 
 falstaff:
@@ -3954,12 +5167,18 @@ deputy's wife of the ward to thee. Go, you thing,
 go
 
 
+
+
 quickly:
 Say, what thing? what thing?
 
 
+
+
 falstaff:
 What thing! why, a thing to thank God on.
+
+
 
 
 quickly:
@@ -3969,21 +5188,31 @@ setting thy knighthood aside, thou art a knave to
 call me so.
 
 
+
+
 falstaff:
 Setting thy womanhood aside, thou art a beast to say
 otherwise.
+
+
 
 
 quickly:
 Say, what beast, thou knave, thou?
 
 
+
+
 falstaff:
 What beast! why, an otter.
 
 
+
+
 henry5:
 An otter, Sir John! Why an otter?
+
+
 
 
 falstaff:
@@ -3991,13 +5220,19 @@ Why, she's neither fish nor flesh; a man knows not
 where to have her.
 
 
+
+
 quickly:
 Thou art an unjust man in saying so: thou or any
 man knows where to have me, thou knave, thou!
 
 
+
+
 henry5:
 Thou sayest true, hostess; and he slanders thee most grossly.
+
+
 
 
 quickly:
@@ -4005,8 +5240,12 @@ So he doth you, my lord; and said this other day you
 ought him a thousand pound.
 
 
+
+
 henry5:
 Sirrah, do I owe you a thousand pound?
+
+
 
 
 falstaff:
@@ -4014,25 +5253,37 @@ A thousand pound, Ha! a million: thy love is worth
 a million: thou owest me thy love.
 
 
+
+
 quickly:
 Nay, my lord, he called you Jack, and said he would
 cudgel you.
+
+
 
 
 falstaff:
 Did I, Bardolph?
 
 
+
+
 bardolph:
 Indeed, Sir John, you said so.
+
+
 
 
 falstaff:
 Yea, if he said my ring was copper.
 
 
+
+
 henry5:
 I say 'tis copper: darest thou be as good as thy word now?
+
+
 
 
 falstaff:
@@ -4041,14 +5292,20 @@ but as thou art prince, I fear thee as I fear the
 roaring of a lion's whelp.
 
 
+
+
 henry5:
 And why not as the lion?
+
+
 
 
 falstaff:
 The king is to be feared as the lion: dost thou
 think I'll fear thee as I fear thy father? nay, an
 I do, I pray God my girdle break.
+
+
 
 
 henry5:
@@ -4066,6 +5323,8 @@ am a villain: and yet you will stand to if; you will
 not pocket up wrong: art thou not ashamed?
 
 
+
+
 falstaff:
 Dost thou hear, Hal? thou knowest in the state of
 innocency Adam fell; and what should poor Jack
@@ -4074,8 +5333,12 @@ have more flesh than another man, and therefore more
 frailty. You confess then, you picked my pocket?
 
 
+
+
 henry5:
 It appears so by the story.
+
+
 
 
 falstaff:
@@ -4089,17 +5352,25 @@ Now Hal, to the news at court: for the robbery,
 lad, how is that answered?
 
 
+
+
 henry5:
 O, my sweet beef, I must still be good angel to
 thee: the money is paid back again.
+
+
 
 
 falstaff:
 O, I do not like that paying back; 'tis a double labour.
 
 
+
+
 henry5:
 I am good friends with my father and may do any thing.
+
+
 
 
 falstaff:
@@ -4107,12 +5378,18 @@ Rob me the exchequer the first thing thou doest, and
 do it with unwashed hands too.
 
 
+
+
 bardolph:
 Do, my lord.
 
 
+
+
 henry5:
 I have procured thee, Jack, a charge of foot.
+
+
 
 
 falstaff:
@@ -4124,12 +5401,18 @@ these rebels, they offend none but the virtuous: I
 laud them, I praise them.
 
 
+
+
 henry5:
 Bardolph!
 
 
+
+
 bardolph:
 My lord?
+
+
 
 
 henry5:
@@ -4147,8 +5430,12 @@ The land is burning; Percy stands on high;
 And either we or they must lower lie.
 
 
+
+
 xxx:
 [Exit PRINCE HENRY]
+
+
 
 
 falstaff:
@@ -4156,8 +5443,11 @@ Rare words! brave world! Hostess, my breakfast, come!
 O, I could wish this tavern were my drum!
 
 
+
+
 xxx:
 [Exit]
+
 
 
 ****************************************
@@ -4170,7 +5460,7 @@ xxx:
 
 
 hotspur:
-Well said, my noble Scot: if speaking truth
+Well said, my noble_Scot: if speaking truth
 In this fine age were not thought flattery,
 Such attribution should the Douglas have,
 As not a soldier of this season's stamp
@@ -4194,7 +5484,7 @@ What letters hast thou there?--I can but thank you.
 
 
 Messenger-h41:
-These letters come from your father.
+These letters come from your hotspur_father.
 
 
 hotspur:
@@ -4244,12 +5534,12 @@ Yet doth he give us bold advertisement,
 That with our small conjunction we should on,
 To see how fortune is disposed to us;
 For, as he writes, there is no quailing now.
-Because the king is certainly possess'd
+Because the king_henry is certainly possess'd
 Of all our purposes. What say you to it?
 
 
 worcester:
-Your father's sickness is a maim to us.
+Your hotspur_father 's sickness is a maim to us.
 
 
 hotspur:
@@ -4280,12 +5570,12 @@ Upon the maidenhead of our affairs.
 
 
 worcester:
-But yet I would your father had been here.
+But yet I would your hotspur_father had been here.
 The quality and hair of our attempt
 Brooks no division: it will be thought
 By some, that know not why he is away,
 That wisdom, loyalty and mere dislike
-Of our proceedings kept the earl from hence:
+Of our proceedings kept the earlnorth from hence:
 And think how such an apprehension
 May turn the tide of fearful faction
 And breed a kind of question in our cause;
@@ -4293,7 +5583,7 @@ For well you know we of the offering side
 Must keep aloof from strict arbitrement,
 And stop all sight-holes, every loop from whence
 The eye of reason may pry in upon us:
-This absence of your father's draws a curtain,
+This absence of your hotspur_father 's draws a curtain,
 That shows the ignorant a kind of fear
 Before not dreamt of.
 
@@ -4303,7 +5593,7 @@ You strain too far.
 I rather of his absence make this use:
 It lends a lustre and more great opinion,
 A larger dare to our great enterprise,
-Than if the earl were here; for men must think,
+Than if the earlnorth were here; for men must think,
 If we without his help can make a head
 To push against a kingdom, with his help
 We shall o'erturn it topsy-turvy down.
@@ -4325,8 +5615,8 @@ My cousin Vernon, welcome, by my soul.
 
 Vernon:
 Pray God my news be worth a welcome, lord.
-The Earl of Westmoreland, seven thousand strong,
-Is marching hitherwards; with him Prince John.
+The Earl of westmorland, seven thousand strong,
+Is marching hitherwards; with him Prince John prince_john.
 
 
 hotspur:
@@ -4335,14 +5625,14 @@ No harm: what more?
 
 Vernon:
 And further, I have learn'd,
-The king himself in person is set forth,
+The king_henry himself in person is set forth,
 Or hitherwards intended speedily,
 With strong and mighty preparation.
 
 
 hotspur:
-He shall be welcome too. Where is his son,
-The nimble-footed madcap Prince of Wales,
+He shall be welcome too. Where is his son_hal,
+The nimble-footed madcap Prince of Wales prince_hal,
 And his comrades, that daff'd the world aside,
 And bid it pass?
 
@@ -4355,7 +5645,7 @@ Glittering in golden coats, like images;
 As full of spirit as the month of May,
 And gorgeous as the sun at midsummer;
 Wanton as youthful goats, wild as young bulls.
-I saw young Harry, with his beaver on,
+I saw young Harry_hal, with his beaver on,
 His cuisses on his thighs, gallantly arm'd
 Rise from the ground like feather'd Mercury,
 And vaulted with such ease into his seat,
@@ -4375,8 +5665,8 @@ Up to the ears in blood. I am on fire
 To hear this rich reprisal is so nigh
 And yet not ours. Come, let me taste my horse,
 Who is to bear me like a thunderbolt
-Against the bosom of the Prince of Wales:
-Harry to Harry shall, hot horse to horse,
+Against the bosom of the Prince of Wales prince_hal:
+Harry_hotspur to Harry_hal shall, hot horse to horse,
 Meet and ne'er part till one drop down a corse.
 O that Glendower were come!
 
@@ -4396,7 +5686,7 @@ Ay, by my faith, that bears a frosty sound.
 
 
 hotspur:
-What may the king's whole battle reach unto?
+What may the king_henry 's whole battle reach unto?
 
 
 Vernon:
@@ -4405,7 +5695,7 @@ To thirty thousand.
 
 hotspur:
 Forty let it be:
-My father and Glendower being both away,
+My hotspur_father and Glendower being both away,
 The powers of us may serve so great a day
 Come, let us take a muster speedily:
 Doomsday is near; die all, die merrily.
@@ -4462,7 +5752,7 @@ xxx:
 
 falstaff:
 If I be not ashamed of my soldiers, I am a soused
-gurnet. I have misused the king's press damnably.
+gurnet. I have misused the king_henry 's press damnably.
 I have got, in exchange of a hundred and fifty
 soldiers, three hundred and odd pounds. I press me
 none but good house-holders, yeoman's sons; inquire
@@ -4511,8 +5801,8 @@ How now, blown Jack! how now, quilt!
 
 
 falstaff:
-What, Hal! how now, mad wag! what a devil dost thou
-in Warwickshire? My good Lord of Westmoreland, I
+What, Hal! how now, mad_wag! what a devil dost thou
+in Warwickshire? My good Lord ofwestmoreland, I
 cry you mercy: I thought your honour had already been
 at Shrewsbury.
 
@@ -4520,7 +5810,7 @@ at Shrewsbury.
 westmoreland:
 Faith, Sir John,'tis more than time that I were
 there, and you too; but my powers are there already.
-The king, I can tell you, looks for us all: we must
+The king_henry, I can tell you, looks for us all: we must
 away all night.
 
 
@@ -4562,12 +5852,12 @@ learned that of me.
 
 henry5:
 No I'll be sworn; unless you call three fingers on
-the ribs bare. But, sirrah, make haste: Percy is
+the ribs bare. But, sirrah, make haste: Percy_hotspurr is
 already in the field.
 
 
 falstaff:
-What, is the king encamped?
+What, is the king_henry encamped?
 
 
 westmoreland:
@@ -4661,7 +5951,7 @@ Being men of such great leading as you are,
 That you foresee not what impediments
 Drag back our expedition: certain horse
 Of my cousin Vernon's are not yet come up:
-Your uncle Worcester's horse came but today;
+Your uncle_Worcester 's horse came but today;
 And now their pride and mettle is asleep,
 Their courage with hard labour tame and dull,
 That not a horse is half the half of himself.
@@ -4674,8 +5964,8 @@ The better part of ours are full of rest.
 
 
 worcester:
-The number of the king exceedeth ours:
-For God's sake. cousin, stay till all come in.
+The number of the king_henry exceedeth ours:
+For God's sake. cousin_hotspurr, stay till all come in.
 
 
 xxx:
@@ -4687,7 +5977,7 @@ xxx:
 
 
 blunt:
-I come with gracious offers from the king,
+I come with gracious offers from the king_henry,
 if you vouchsafe me hearing and respect.
 
 
@@ -4704,11 +5994,11 @@ blunt:
 And God defend but still I should stand so,
 So long as out of limit and true rule
 You stand against anointed majesty.
-But to my charge. The king hath sent to know
+But to my charge. The king_henry hath sent to know
 The nature of your griefs, and whereupon
 You conjure from the breast of civil peace
 Such bold hostility, teaching his duteous land
-Audacious cruelty. If that the king
+Audacious cruelty. If that the king_henry
 Have any way your good deserts forgot,
 Which he confesseth to be manifold,
 He bids you name your griefs; and with all speed
@@ -4718,14 +6008,14 @@ Herein misled by your suggestion.
 
 
 hotspur:
-The king is kind; and well we know the king
+The king_henry is kind; and well we know the king_henry 
 Knows at what time to promise, when to pay.
-My father and my uncle and myself
+My hotspur_father and my uncle_worcester and myself
 Did give him that same royalty he wears;
 And when he was not six and twenty strong,
 Sick in the world's regard, wretched and low,
 A poor unminded outlaw sneaking home,
-My father gave him welcome to the shore;
+My hotspur_father gave him welcome to the shore;
 And when he heard him swear and vow to God
 He came but to be Duke of Lancaster,
 To sue his livery and beg his peace,
@@ -4742,7 +6032,7 @@ Gave him their heirs, as pages follow'd him
 Even at the heels in golden multitudes.
 He presently, as greatness knows itself,
 Steps me a little higher than his vow
-Made to my father, while his blood was poor,
+Made to my hotspur_father , while his blood was poor,
 Upon the naked shore at Ravenspurgh;
 And now, forsooth, takes on him to reform
 Some certain edicts and some strait decrees
@@ -4752,7 +6042,7 @@ Over his country's wrongs; and by this face,
 This seeming brow of justice, did he win
 The hearts of all that he did angle for;
 Proceeded further; cut me off the heads
-Of all the favourites that the absent king
+Of all the favourites that the absent king_henry
 In deputation left behind him here,
 When he was personal in the Irish war.
 
@@ -4763,17 +6053,17 @@ Tut, I came not to hear this.
 
 hotspur:
 Then to the point.
-In short time after, he deposed the king;
+In short time after, he deposed the king_henry;
 Soon after that, deprived him of his life;
 And in the neck of that, task'd the whole state:
 To make that worse, suffer'd his kinsman March,
 Who is, if every owner were well placed,
-Indeed his king, to be engaged in Wales,
+Indeed his king_henry, to be engaged in Wales,
 There without ransom to lie forfeited;
 Disgraced me in my happy victories,
 Sought to entrap me by intelligence;
-Rated mine uncle from the council-board;
-In rage dismiss'd my father from the court;
+Rated mine uncle_worcester from the council-board;
+In rage dismiss'd my hotspur_father from the court;
 Broke oath on oath, committed wrong on wrong,
 And in conclusion drove us to seek out
 This head of safety; and withal to pry
@@ -4782,14 +6072,14 @@ Too indirect for long continuance.
 
 
 blunt:
-Shall I return this answer to the king?
+Shall I return this answer to the king_henry?
 
 
 hotspur:
 Not so, Sir Walter: we'll withdraw awhile.
-Go to the king; and let there be impawn'd
+Go to the king_henry; and let there be impawn'd
 Some surety for a safe return again,
-And in the morning early shall my uncle
+And in the morning early shall my uncle_worcester
 Bring him our purposes: and so farewell.
 
 
@@ -4836,36 +6126,36 @@ To-morrow, good Sir Michael, is a day
 Wherein the fortune of ten thousand men
 Must bide the touch; for, sir, at Shrewsbury,
 As I am truly given to understand,
-The king with mighty and quick-raised power
-Meets with Lord Harry: and, I fear, Sir Michael,
+The king_henry with mighty and quick-raised power
+Meets with Lord Harry_hotspur: and, I fear, Sir Michael,
 What with the sickness of Northumberland,
 Whose power was in the first proportion,
-And what with Owen Glendower's absence thence,
+And what with Owen Glendower 's absence thence,
 Who with them was a rated sinew too
 And comes not in, o'er-ruled by prophecies,
-I fear the power of Percy is too weak
-To wage an instant trial with the king.
+I fear the power of Percy_hotspur is too weak
+To wage an instant trial with the king_henry.
 
 
 sirmichael:
 Why, my good lord, you need not fear;
-There is Douglas and Lord Mortimer.
+There is Douglas and Lord Mortimer_lord.
 
 
 scroop:
-No, Mortimer is not there.
+No, Mortimer_lord is not there.
 
 
 sirmichael:
-But there is Mordake, Vernon, Lord Harry Percy,
+But there is Mordake, Vernon, Lord Harry Percy_hotspur,
 And there is my Lord of Worcester and a head
 Of gallant warriors, noble gentlemen.
 
 
 scroop:
-And so there is: but yet the king hath drawn
+And so there is: but yet the king_henry hath drawn
 The special head of all the land together:
-The Prince of Wales, Lord John of Lancaster,
+The Prince of Wales prince_hal, Lord prince_John of Lancaster,
 The noble Westmoreland and warlike Blunt;
 And moe corrivals and dear men
 Of estimation and command in arms.
@@ -4878,7 +6168,7 @@ Doubt not, my lord, they shall be well opposed.
 scroop:
 I hope no less, yet needful 'tis to fear;
 And, to prevent the worst, Sir Michael, speed:
-For if Lord Percy thrive not, ere the king
+For if Lord Percy_hotspur thrive not, ere the king_henry
 Dismiss his power, he means to visit us,
 For he hath heard of our confederacy,
 And 'tis but wisdom to make strong against him:
@@ -4962,7 +6252,7 @@ In Richard's time; and posted day and night
 to meet you on the way, and kiss your hand,
 When yet you were in place and in account
 Nothing so strong and fortunate as I.
-It was myself, my brother and his son,
+It was myself, my brother_worcester and his son_worcester,
 That brought you home and boldly did outdare
 The dangers of the time. You swore to us,
 And you did swear that oath at Doncaster,
@@ -4972,10 +6262,10 @@ The seat of Gaunt, dukedom of Lancaster:
 To this we swore our aid. But in short space
 It rain'd down fortune showering on your head;
 And such a flood of greatness fell on you,
-What with our help, what with the absent king,
+What with our help, what with the absent king_henry,
 What with the injuries of a wanton time,
 The seeming sufferances that you had borne,
-And the contrarious winds that held the king
+And the contrarious winds that held the king_henry
 So long in his unlucky Irish wars
 That all in England did repute him dead:
 And from this swarm of fair advantages
@@ -5014,9 +6304,9 @@ Of pellmell havoc and confusion.
 henry5:
 In both your armies there is many a soul
 Shall pay full dearly for this encounter,
-If once they join in trial. Tell your nephew,
-The Prince of Wales doth join with all the world
-In praise of Henry Percy: by my hopes,
+If once they join in trial. Tell your nephew_worcester,
+The Prince of Wales prince_hal doth join with all the world
+In praise of Henry Percy_hotspur: by my hopes,
 This present enterprise set off his head,
 I do not think a braver gentleman,
 More active-valiant or more valiant-young,
@@ -5033,7 +6323,7 @@ Try fortune with him in a single fight.
 
 
 henry4:
-And, Prince of Wales, so dare we venture thee,
+And, Prince of Wales prince_hal, so dare we venture thee,
 Albeit considerations infinite
 Do make against it. No, good Worcester, no,
 We love our people well; even those we love
@@ -5041,7 +6331,7 @@ That are misled upon your cousin's part;
 And, will they take the offer of our grace,
 Both he and they and you, every man
 Shall be my friend again and I'll be his:
-So tell your cousin, and bring me word
+So tell your cousin_worcester, and bring me word
 What he will do: but if he will not yield,
 Rebuke and dread correction wait on us
 And they shall do their office. So, be gone;
@@ -5122,8 +6412,8 @@ xxx:
 
 
 worcester:
-O, no, my nephew must not know, Sir Richard,
-The liberal and kind offer of the king.
+O, no, my nephew_worcester must not know, Sir Richard,
+The liberal and kind_henry offer of the king_henry.
 
 
 Vernon:
@@ -5133,7 +6423,7 @@ Vernon:
 worcester:
 Then are we all undone.
 It is not possible, it cannot be,
-The king should keep his word in loving us;
+The king_henry should keep his word in loving us;
 He will suspect us still and find a time
 To punish this offence in other faults:
 Suspicion all our lives shall be stuck full of eyes;
@@ -5144,21 +6434,21 @@ Look how we can, or sad or merrily,
 Interpretation will misquote our looks,
 And we shall feed like oxen at a stall,
 The better cherish'd, still the nearer death.
-My nephew's trespass may be well forgot;
+My nephew_worcester 's trespass may be well forgot;
 it hath the excuse of youth and heat of blood,
 And an adopted name of privilege,
 A hair-brain'd Hotspur, govern'd by a spleen:
 All his offences live upon my head
-And on his father's; we did train him on,
+And on his hotspur_father 's; we did train him on,
 And, his corruption being ta'en from us,
 We, as the spring of all, shall pay for all.
-Therefore, good cousin, let not Harry know,
-In any case, the offer of the king.
+Therefore, good cousin, let not Harry_hotspur know,
+In any case, the offer of the king_henry.
 
 
 Vernon:
 Deliver what you will; I'll say 'tis so.
-Here comes your cousin.
+Here comes your cousin_worcester.
 
 
 xxx:
@@ -5166,13 +6456,13 @@ xxx:
 
 
 hotspur:
-My uncle is return'd:
+My uncle_worcester is return'd:
 Deliver up my Lord of Westmoreland.
-Uncle, what news?
+Uncle_worcester, what news?
 
 
 worcester:
-The king will bid you battle presently.
+The king_henry will bid you battle presently.
 
 
 EarlDouglas:
@@ -5192,7 +6482,7 @@ xxx:
 
 
 worcester:
-There is no seeming mercy in the king.
+There is no seeming mercy in the king_henry.
 
 
 hotspur:
@@ -5213,20 +6503,20 @@ xxx:
 
 EarlDouglas:
 Arm, gentlemen; to arms! for I have thrown
-A brave defiance in King Henry's teeth,
+A brave defiance in King Henry's king_henry teeth,
 And Westmoreland, that was engaged, did bear it;
 Which cannot choose but bring him quickly on.
 
 
 worcester:
-The Prince of Wales stepp'd forth before the king,
-And, nephew, challenged you to single fight.
+The Prince of Wales prince_hal stepp'd forth before the king_henry,
+And, hotspur, challenged you to single fight.
 
 
 hotspur:
 O, would the quarrel lay upon our heads,
 And that no man might draw short breath today
-But I and Harry Monmouth! Tell me, tell me,
+But I and Harry Monmouth prince_hal! Tell me, tell me,
 How show'd his tasking? seem'd it in contempt?
 
 
@@ -5240,7 +6530,7 @@ Trimm'd up your praises with a princely tongue,
 Spoke to your deservings like a chronicle,
 Making you ever better than his praise
 By still dispraising praise valued in you;
-And, which became him like a prince indeed,
+And, which became him like a prince_hal indeed,
 He made a blushing cital of himself;
 And chid his truant youth with such a grace
 As if he master'd there a double spirit.
@@ -5252,7 +6542,7 @@ So much misconstrued in his wantonness.
 
 
 hotspur:
-Cousin, I think thou art enamoured
+cousin_vernon, I think thou art enamoured
 On his follies: never did I hear
 Of any prince so wild a libertine.
 But be he as he will, yet once ere night
@@ -5289,7 +6579,7 @@ xxx:
 
 
 Messenger-h41:
-My lord, prepare; the king comes on apace.
+My lord, prepare; the king_henry comes on apace.
 
 
 hotspur:
@@ -5327,7 +6617,7 @@ Upon my head?
 EarlDouglas:
 Know then, my name is Douglas;
 And I do haunt thee in the battle thus
-Because some tell me that thou art a king.
+Because some tell me that thou art a king_henry.
 
 
 blunt:
@@ -5336,14 +6626,14 @@ They tell thee true.
 
 EarlDouglas:
 The Lord of Stafford dear to-day hath bought
-Thy likeness, for instead of thee, King Harry,
+Thy likeness, for instead of thee, King Harry king_henry,
 This sword hath ended him: so shall it thee,
 Unless thou yield thee as my prisoner.
 
 
 blunt:
 I was not born a yielder, thou proud Scot;
-And thou shalt find a king that will revenge
+And thou shalt find a king_henry that will revenge
 Lord Stafford's death.
 
 
@@ -5361,7 +6651,7 @@ never had triumph'd upon a Scot.
 
 
 EarlDouglas:
-All's done, all's won; here breathless lies the king.
+All's done, all's won; here breathless lies the king_henry.
 
 
 hotspur:
@@ -5375,23 +6665,23 @@ Here.
 hotspur:
 This, Douglas? no: I know this face full well:
 A gallant knight he was, his name was Blunt;
-Semblably furnish'd like the king himself.
+Semblably furnish'd like the king_henry himself.
 
 
 EarlDouglas:
 A fool go with thy soul, whither it goes!
 A borrow'd title hast thou bought too dear:
-Why didst thou tell me that thou wert a king?
+Why didst thou tell me that thou wert a king_henry?
 
 
 hotspur:
-The king hath many marching in his coats.
+The king_henry hath many marching in his coats.
 
 
 EarlDouglas:
 Now, by my sword, I will kill all his coats;
 I'll murder all his wardrobe, piece by piece,
-Until I meet the king.
+Until I meet the king_henry.
 
 
 hotspur:
@@ -5435,7 +6725,7 @@ lend me thy sword.
 falstaff:
 O Hal, I prithee, give me leave to breathe awhile.
 Turk Gregory never did such deeds in arms as I have
-done this day. I have paid Percy, I have made him sure.
+done this day. I have paid Percy_hotspur, I have made him sure.
 
 
 henry5:
@@ -5444,7 +6734,7 @@ lend me thy sword.
 
 
 falstaff:
-Nay, before God, Hal, if Percy be alive, thou get'st
+Nay, before God, Hal, if Percy_hotspur be alive, thou get'st
 not my sword; but take my pistol, if thou wilt.
 
 
@@ -5469,7 +6759,7 @@ xxx:
 
 
 falstaff:
-Well, if Percy be alive, I'll pierce him. If he do
+Well, if Percy_hotspur be alive, I'll pierce him. If he do
 come in my way, so: if he do not, if I come in his
 willingly, let him make a carbonado of me. I like
 not such grinning honour as Sir Walter hath: give me
@@ -5491,7 +6781,7 @@ xxx:
 
 henry4:
 I prithee,
-Harry, withdraw thyself; thou bleed'st too much.
+Harry_hal, withdraw thyself; thou bleed'st too much.
 Lord John of Lancaster, go you with him.
 
 
@@ -5516,7 +6806,7 @@ Come, my lord, I'll lead you to your tent.
 henry5:
 Lead me, my lord? I do not need your help:
 And God forbid a shallow scratch should drive
-The Prince of Wales from such a field as this,
+The Prince of Wales prince_hal from such a field as this,
 Where stain'd nobility lies trodden on,
 and rebels' arms triumph in massacres!
 
@@ -5538,7 +6828,7 @@ But now, I do respect thee as my soul.
 
 
 henry4:
-I saw him hold Lord Percy at the point
+I saw him hold Lord Percy_hotspur at the point
 With lustier maintenance than I did look for
 Of such an ungrown warrior.
 
@@ -5557,7 +6847,7 @@ xxx:
 
 
 EarlDouglas:
-Another king! they grow like Hydra's heads:
+Another king_henry! they grow like Hydra's heads:
 I am the Douglas, fatal to all those
 That wear those colours on them: what art thou,
 That counterfeit'st the person of a king?
@@ -5574,7 +6864,7 @@ I will assay thee: so, defend thyself.
 
 EarlDouglas:
 I fear thou art another counterfeit;
-And yet, in faith, thou bear'st thee like a king:
+And yet, in faith, thou bear'st thee like a king_henry:
 But mine I am sure thou art, whoe'er thou be,
 And thus I win thee.
 
@@ -5584,10 +6874,10 @@ xxx:
 
 
 henry5:
-Hold up thy head, vile Scot, or thou art like
+Hold up thy head, vile noble_Scot, or thou art like
 Never to hold it up again! the spirits
 Of valiant Shirley, Stafford, Blunt, are in my arms:
-It is the Prince of Wales that threatens thee;
+It is the Prince of Wales prince_hal that threatens thee;
 Who never promiseth but he means to pay.
 [They fight: DOUGLAS flies]
 Cheerly, my lord. how fares your grace?
@@ -5625,7 +6915,7 @@ xxx:
 
 
 hotspur:
-If I mistake not, thou art Harry Monmouth.
+If I mistake not, thou art Harry_hal Monmouth.
 
 
 henry5:
@@ -5633,21 +6923,21 @@ Thou speak'st as if I would deny my name.
 
 
 hotspur:
-My name is Harry Percy.
+My name is Harry Percy_hotspur.
 
 
 henry5:
 Why, then I see
 A very valiant rebel of the name.
-I am the Prince of Wales; and think not, Percy,
+I am the Prince of Wales prince_hal; and think not, Percy_hotspur,
 To share with me in glory any more:
 Two stars keep not their motion in one sphere;
 Nor can one England brook a double reign,
-Of Harry Percy and the Prince of Wales.
+Of Harry Percy_hotspur and the Prince of Wales prince_hal.
 
 
 hotspur:
-Nor shall it, Harry; for the hour is come
+Nor shall it, Harry_hal; for the hour is come
 To end the one of us; and would to God
 Thy name in arms were now as great as mine!
 
@@ -5679,7 +6969,7 @@ DOUGLAS. HOTSPUR is wounded, and falls]
 
 
 hotspur:
-O, Harry, thou hast robb'd me of my youth!
+O, Harry_hal, thou hast robb'd me of my youth!
 I better brook the loss of brittle life
 Than those proud titles thou hast won of me;
 They wound my thoughts worse than sword my flesh:
@@ -5687,7 +6977,7 @@ But thought's the slave of life, and life time's fool;
 And time, that takes survey of all the world,
 Must have a stop. O, I could prophesy,
 But that the earthy and cold hand of death
-Lies on my tongue: no, Percy, thou art dust
+Lies on my tongue: no, Percy_hotspur, thou art dust
 And food for--
 
 
@@ -5696,7 +6986,7 @@ xxx:
 
 
 henry5:
-For worms, brave Percy: fare thee well, great heart!
+For worms, brave Percy_hotspur: fare thee well, great heart!
 Ill-weaved ambition, how much art thou shrunk!
 When that this body did contain a spirit,
 A kingdom for it was too small a bound;
@@ -5720,7 +7010,7 @@ If I were much in love with vanity!
 Death hath not struck so fat a deer to-day,
 Though many dearer, in this bloody fray.
 Embowell'd will I see thee by and by:
-Till then in blood by noble Percy lie.
+Till then in blood by noble Percy_hotspur lie.
 
 
 xxx:
@@ -5740,7 +7030,7 @@ liveth, is to be no counterfeit, but the true and
 perfect image of life indeed. The better part of
 valour is discretion; in the which better part I
 have saved my life.'Zounds, I am afraid of this
-gunpowder Percy, though he be dead: how, if he
+gunpowder Percy_hotspur, though he be dead: how, if he
 should counterfeit too and rise? by my faith, I am
 afraid he would prove the better counterfeit.
 Therefore I'll make him sure; yea, and I'll swear I
@@ -5780,15 +7070,15 @@ Without our ears: thou art not what thou seem'st.
 
 falstaff:
 No, that's certain; I am not a double man: but if I
-be not Jack Falstaff, then am I a Jack. There is Percy:
+be not Jack Falstaff, then am I a Jack. There is Percy_hotspur:
 [Throwing the body down]
 if your father will do me any honour, so; if not, let
-him kill the next Percy himself. I look to be either
+him kill the next Percy_hotspur himself. I look to be either
 earl or duke, I can assure you.
 
 
 henry5:
-Why, Percy I killed myself and saw thee dead.
+Why, Percy_hotspur I killed myself and saw thee dead.
 
 
 falstaff:
@@ -5814,7 +7104,7 @@ For my part, if a lie may do thee grace,
 I'll gild it with the happiest terms I have.
 [A retreat is sounded]
 The trumpet sounds retreat; the day is ours.
-Come, brother, let us to the highest of the field,
+Come, brother_john, let us to the highest of the field,
 To see what friends are living, who are dead.
 
 
@@ -5868,9 +7158,9 @@ How goes the field?
 
 
 henry5:
-The noble Scot, Lord Douglas, when he saw
+The noble_Scot, Lord Douglas, when he saw
 The fortune of the day quite turn'd from him,
-The noble Percy slain, and all his men
+The noble Percy_hotspur slain, and all his men
 Upon the foot of fear, fled with the rest;
 And falling from a hill, he was so bruised
 That the pursuers took him. At my tent
@@ -5903,7 +7193,7 @@ You, son John, and my cousin Westmoreland
 Towards York shall bend you with your dearest speed,
 To meet Northumberland and the prelate Scroop,
 Who, as we hear, are busily in arms:
-Myself and you, son Harry, will towards Wales,
+Myself and you, son Harry_hal, will towards Wales,
 To fight with Glendower and the Earl of March.
 Rebellion in this land shall lose his sway,
 Meeting the cheque of such another day:
@@ -5913,4 +7203,3 @@ Let us not leave till all our own be won.
 
 xxx:
 [Exeunt]
-
