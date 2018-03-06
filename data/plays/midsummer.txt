@@ -668,7 +668,7 @@ xxx:
 ****************************************
 
 
-Act 2, Scene 1
+# Act 2, Scene 1
 
 xxx:
 [Enter, from opposite sides, a Fairy, and PUCK]
@@ -1092,7 +1092,7 @@ xxx:
 
 ----------------------------------------
 
-Act 2, Scene 2
+# Act 2, Scene 2
 
 xxx:
 [Enter TITANIA, with her train]
@@ -1375,7 +1375,7 @@ xxx:
 ****************************************
 
 
-Act 3, Scene 1
+# Act 3, Scene 1
 
 xxx:
 [Enter QUINCE, SNUG, BOTTOM, FLUTE, SNOUT, and STARVELING]
@@ -1831,7 +1831,7 @@ xxx:
 
 ----------------------------------------
 
-Act 3, Scene 2
+# Act 3, Scene 2
 
 xxx:
 [Enter OBERON]
@@ -2761,7 +2761,7 @@ xxx:
 ****************************************
 
 
-Act 4, Scene 1
+# Act 4, Scene 1
 
 xxx:
 [lying asleep.
@@ -3186,7 +3186,7 @@ xxx:
 
 ----------------------------------------
 
-Act 4, Scene 2
+# Act 4, Scene 2
 
 xxx:
 [Enter QUINCE, FLUTE, SNOUT, and STARVELING]
