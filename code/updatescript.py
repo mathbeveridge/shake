@@ -29,17 +29,9 @@ def strip_non_ascii(string):
 Gets the lines of the script from file named filename
 '''
 def get_script(filename):
-    scriptfile = open(filename, 'r')
+    scriptfile = open(filename, 'rU')	#opens with universal option (hanldes windows weird \r\n correctly)
 
-    scriptlines = []
-
-    for line in scriptfile.readlines():
-        # turn every "\r" into "\n"
-        for subline in line.split("\r"):
-            if len(subline.strip()) > 0:
-                scriptlines.append(subline.replace('\n',''))
-
-    return scriptlines
+    return [line for line in scriptfile]
 
 '''
 Finds the standard name (eg Ned) for the given name (eg Eddard, Ned Stark, etc).

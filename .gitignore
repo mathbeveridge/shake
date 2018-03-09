@@ -1,0 +1,7 @@
+.idea
+/.vs/config/applicationhost.config
+/.vs
+/shake.pyproj
+/code/__pycache__
+/shake.sln
+/out
