@@ -1010,7 +1010,7 @@ And you are stay'd for. There- my blessing with thee!
 And these few precepts in thy memory
 Look thou character. Give thy thoughts no tongue,
 Nor any unproportion'd thought his act.
-Be thou familiar, but by no means vulgar:
+Be thou familiar, but by no means vulgar;
 Those friends thou hast, and their adoption tried,
 Grapple them unto thy soul with hoops of steel;
 But do not dull thy palm with entertainment
@@ -1541,7 +1541,7 @@ O villain, villain, smiling, damned villain!
 My tables! Meet it is I set it down
 That one may smile, and smile, and be a villain;
 At least I am sure it may be so in Denmark.  [Writes.]
-So, uncle_Claudius, there you are. Now to my word:
+So, uncle_Claudius, there you are. Now to my word;
 It is 'Adieu, adieu! Remember me.' 
 I have sworn't.
 
@@ -1722,7 +1722,7 @@ hamlet:
 Hic et ubique? Then we'll shift our ground.
 Come hither, gentlemen,
 And lay your hands again upon my sword.
-Never to speak of this that you have heard:
+Never to speak of this that you have heard;
 Swear by my sword.
 
 
@@ -1884,7 +1884,7 @@ Mark you,
 Your party in converse, him you would sound,
 Having ever seen in the prenominate crimes
 The youth you breathe of guilty, be assur'd
-He closes with you in this consequence:
+He closes with you in this consequence;
 'Good sir,' or so, or 'friend,' or 'gentleman'-
 According to the phrase or the addition
 Of man and country-
@@ -2227,7 +2227,7 @@ More matter, with less art.
 
 polonius:
 Madam_Gertrude, I swear I use no art at all.
-That he is mad, 'tis true: 'tis true 'tis pity;
+That he is mad, 'tis true; 'tis true 'tis pity;
 And pity 'tis 'tis true. A foolish figure!
 But farewell it, for I will use no art. 
 Mad let us grant him then. And now remains
@@ -2291,7 +2291,7 @@ If I had play'd the desk or table book,
 Or given my heart a winking, mute and dumb,
 Or look'd upon this love with idle sight?
 What might you think? No, I went round to work
-And my young mistress thus I did bespeak:
+And my young mistress thus I did bespeak;
 'Lord Hamlet is a prince, out of thy star.
 This must not be.' And then I prescripts gave her,
 That she should lock herself from his resort,
@@ -2943,9 +2943,9 @@ affectation; but call'd it an honest method, as wholesome as
 sweet, and by very much more handsome than fine. One speech in't
 I chiefly lov'd. 'Twas AEneas' tale to Dido, and thereabout of it
 especially where he speaks of Priam's slaughter. If it live in
-your memory, begin at this line- let me see, let me see:
+your memory, begin at this line- let me see, let me see;
      'The rugged Pyrrhus, like th' Hyrcanian beast-'
-'Tis not so; it begins with Pyrrhus:
+'Tis not so; it begins with Pyrrhus;
     'The rugged Pyrrhus, he whose sable arms,
     Black as his purpose, did the night resemble
     When he lay couched in the ominous horse,
@@ -3308,7 +3308,7 @@ xxx:
 
 
 hamlet:
-To be, or not to be- that is the question:
+To be, or not to be- that is the question;
 Whether 'tis nobler in the mind to suffer
 The slings and arrows of outrageous fortune
 Or to take arms against a sea of troubles,
@@ -3317,7 +3317,7 @@ No more; and by a sleep to say we end
 The heartache, and the thousand natural shocks
 That flesh is heir to. 'Tis a consummation 
 Devoutly to be wish'd. To die- to sleep.
-To sleep- perchance to dream: ay, there's the rub!
+To sleep- perchance to dream; ay, there's the rub!
 For in that sleep of death what dreams may come
 When we have shuffled off this mortal coil,
 Must give us pause. There's the respect
@@ -3446,7 +3446,7 @@ O, help him, you sweet heavens!
 
 
 hamlet:
-If thou dost marry, I'll give thee this plague for thy dowry:
+If thou dost marry, I'll give thee this plague for thy dowry;
 be thou as chaste as ice, as pure as snow, thou shalt not escape
 calumny. Get thee to a nunnery. Go, farewell. Or if thou wilt
 needs marry, marry a fool; for wise men know well enough what
@@ -3495,7 +3495,7 @@ O'er which his melancholy sits on brood;
 And I do doubt the hatch and the disclose
 Will be some danger; which for to prevent,
 I have in quick determination
-Thus set it down: he shall with speed to England
+Thus set it down; he shall with speed to England
 For the demand of our neglected tribute.
 Haply the seas, and countries different,
 With variable objects, shall expel
@@ -4094,7 +4094,7 @@ xxx:
 hamlet:
 Why, let the strucken deer go weep,
      The hart ungalled play;
-    For some must watch, while some must sleep:
+    For some must watch, while some must sleep;
      Thus runs the world away.
 Would not this, sir, and a forest of feathers- if the rest of my
 fortunes turn Turk with me-with two Provincial roses on my raz'd
@@ -4217,7 +4217,7 @@ say-
 
 
 rosencrantz:
-Then thus she says: your behaviour hath struck her into
+Then thus she says; your behaviour hath struck her into
 amazement and admiration.
 
 
@@ -4689,7 +4689,7 @@ See what a grace was seated on this brow;
 Hyperion's curls; the front of Jove himself;
 An eye like Mars, to threaten and command;
 A station like the herald Mercury
-New lighted on a heaven-kissing hill:
+New lighted on a heaven-kissing hill;
 A combination and a form indeed
 Where every god did seem to set his seal
 To give the world assurance of a man.
@@ -4901,7 +4901,7 @@ What shall I do?
 
 
 hamlet:
-Not this, by no means, that I bid you do:
+Not this, by no means, that I bid you do;
 Let the bloat King_Claudius tempt you again to bed;
 Pinch wanton on your cheek; call you his mouse;
 And let him, for a pair of reechy kisses,
@@ -5573,7 +5573,7 @@ Conceit upon her father_Polonius.
 
 ophelia:
 Pray let's have no words of this; but when they ask, you what
-it means, say you this:
+it means, say you this;
 (Sings) To-morrow is Saint Valentine's day,
          All in the morning bedtime,
        And I a maid at your window,
@@ -5650,7 +5650,7 @@ What is the matter?
 
 
 messenger_ham:
-Save Yourself, my lord_Claudius:
+Save Yourself, my lord_Claudius;
 The ocean, overpeering of his list,
 Eats not the flats with more impetuous haste
 Than Young Laertes, in a riotous head,
@@ -5741,7 +5741,7 @@ Let him demand his fill.
 
 
 laertes:
-How came he dead? I'll not be juggled with:
+How came he dead? I'll not be juggled with;
 To hell, allegiance! vows, to the blackest devil
 Conscience and grace, to the profoundest pit!
 I dare damnation. To this point I stand,
@@ -5792,7 +5792,7 @@ As day does to your eye.
 
 
 xxx:
-[A noise within: 'Let her come in.]
+[A noise within; 'Let her come in.]
 
 
 laertes:
@@ -5961,7 +5961,7 @@ very warlike appointment gave us chase. Finding ourselves too
 slow of sail, we put on a compelled valour, and in the grapple I
 boarded them. On the instant they got clear of our ship; so I
 alone became their prisoner. They have dealt with me like thieves
-of mercy; but they knew what they did: I am to do a good turn for
+of mercy; but they knew what they did; I am to do a good turn for
 them. Let the King have the letters I have sent, and repair thou
 to me with as much speed as thou wouldst fly death. I have words
 to speak in thine ear will make thee dumb; yet are they much too
@@ -6037,7 +6037,7 @@ How now? What news?
 
 
 messenger_ham:
-Letters, my lord, from Hamlet:
+Letters, my lord, from Hamlet;
 This to your Majesty_Claudius; this to the Queen_Gertrude.
 
 
@@ -6350,7 +6350,7 @@ Why, 'tis found so.
 
 clown1_ham:
 It must be se offendendo; it cannot be else. For here lies
-the point: if I drown myself wittingly, it argues an act; and an
+the point; if I drown myself wittingly, it argues an act; and an
 act hath three branches-it is to act, to do, and to perform;
 argal, she drown'd herself wittingly.
 
@@ -6787,7 +6787,7 @@ horatio:
 
 hamlet:
 No, faith, not a jot; but to follow him thither with modesty
-enough, and likelihood to lead it; as thus: Alexander died,
+enough, and likelihood to lead it; as thus; Alexander died,
 Alexander was buried, Alexander returneth into dust; the dust is
 earth; of earth we make loam; and why of that loam (whereto he
 was converted) might they not stop a beer barrel?
@@ -7326,7 +7326,7 @@ hamlet:
 The phrase would be more germane to the matter if we could
 carry cannon by our sides. I would it might be hangers till then. 
 But on! Six Barbary horses against six French swords, their
-assigns, and three liberal-conceited carriages: that's the French
+assigns, and three liberal-conceited carriages; that's the French
 bet against the Danish. Why is this all impon'd, as you call it?
 
 
@@ -7448,7 +7448,7 @@ repair hither and say you are not fit.
 hamlet:
 Not a whit, we defy augury; there's a special providence in
 the fall of a sparrow. If it be now, 'tis not to come; if it be
-not to come, it will be now; if it be not now, yet it will come:
+not to come, it will be now; if it be not now, yet it will come;
 the readiness is all. Since no man knows aught of what he leaves,
 what is't to leave betimes? Let be.
 
