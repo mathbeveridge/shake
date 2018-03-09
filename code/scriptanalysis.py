@@ -238,6 +238,7 @@ Creates an cvs file whose lines are character1, character2, Line Number(of chara
 '''
 def get_dialog_timeline(script, char_list, dialog_timeline_file):
     output_file = open(dialog_timeline_file, "w")
+    output_file.write("Source,Target,Weight,Type,Timestamp\n")
     char_set = set(char_list)
 
     lineNum = 1
@@ -262,7 +263,7 @@ def get_dialog_timeline(script, char_list, dialog_timeline_file):
                 if len(character1) > 0 and len(character2) > 0:
                     if character1 in char_set and character2 in char_set:
                         print("adding Dialog and line number", character1, character2)
-                        output_file.write(character1 + "," + character2 + "," + str(lineNum) + "\n")
+                        output_file.write(character1 + "," + character2 + ",1,Undirected," + str(lineNum)+ "\n")
 
             lineNum += 1
 
@@ -306,6 +307,7 @@ Creates a timeline of all the interactions using line number
 def get_reference_timeline(script, reference_timeline_file, char_list):
 
     output_file = open(reference_timeline_file, "w")
+    output_file.write("Source,Target,Weight,Type,Timestamp\n")
 
     lineNum = 1
 
@@ -320,9 +322,9 @@ def get_reference_timeline(script, reference_timeline_file, char_list):
                     arr = np.array(char_list)
                     ref_list = arr[indices]
                     for ref_char in ref_list:
-                        output_file.write(speaker + "," + ref_char + "," + str(lineNum)  + "\n")
+                        output_file.write(speaker + "," + ref_char + ",1,Undirected," + str(lineNum)  + "\n")
                     for chars in pairs(ref_list):
-                        output_file.write(chars[0] + "," + chars[1] + "," + str(lineNum) + "\n")
+                        output_file.write(chars[0] + "," + chars[1] + ",1,Undirected," + str(lineNum) + "\n")
             lineNum += 1
 
     output_file.close()
@@ -360,6 +362,7 @@ Creates a timeline of all the interactions using line number
 def get_stage_timeline(script, stage_timeline_file, char_list):
 
     output_file = open(stage_timeline_file, "w")
+    output_file.write("Source,Target,Weight,Type,Timestamp\n")
 
     lineNum = 1
 
@@ -373,7 +376,7 @@ def get_stage_timeline(script, stage_timeline_file, char_list):
                     stage_list = arr[indices]
 
                     for chars in pairs(stage_list):
-                        output_file.write(chars[0] + "," + chars[1] + "," + str(lineNum) + "\n")
+                        output_file.write(chars[0] + "," + chars[1] + ",1,Undirected," + str(lineNum) + "\n")
             lineNum += 1
 
     output_file.close()
