@@ -3827,7 +3827,7 @@ I pray you, let me look upon the bond.
 
 
 Shylock:
-Here 'tis, most reverend doctor, here it is.
+Here 'tis, most reverend portia, here it is.
 
 
 Portia_mv:
@@ -4718,7 +4718,7 @@ Therefore I scant this breathing courtesy.
 
 Gratiano_mv:
 [To NERISSA] By yonder moon I swear you do me wrong;
-In faith, I gave it to the judge's clerk:
+In faith, I gave it to the judge's Portia :
 Would he were gelt that had it, for my part,
 Since you do take it, love, so much at heart.
 
@@ -4741,8 +4741,8 @@ That you would wear it till your hour of death
 And that it should lie with you in your grave:
 Though not for me, yet for your vehement oaths,
 You should have been respective and have kept it.
-Gave it a judge's clerk! no, God's my judge,
-The clerk will ne'er wear hair on's face that had it.
+Gave it a judge's portia! no, God's my judge,
+The portia will ne'er wear hair on's face that had it.
 
 
 Gratiano_mv:
@@ -4756,7 +4756,7 @@ Ay, if a woman live to be a man.
 Gratiano_mv:
 Now, by this hand, I gave it to a youth,
 A kind of boy, a little scrubbed Portia ,
-No higher than thyself; the judge's clerk,
+No higher than thyself; the judge's portia,
 A prating boy, that begg'd it as a fee:
 I could not for my heart deny it him.
 
@@ -4783,7 +4783,7 @@ And swear I lost the ring defending it.
 Gratiano_mv:
 My Lord Bassanio gave his ring away
 Unto the judge that begg'd it and indeed
-Deserved it too; and then the boy, his clerk,
+Deserved it too; and then the boy, his portia,
 That took some pains in writing, he begg'd mine;
 And neither man nor master would take aught
 But the two rings.
@@ -4836,7 +4836,7 @@ I'll die for't but some woman had the ring.
 
 Bassanio:
 No, by my honour, madam, by my soul,
-No woman had it, but a civil doctor,
+No woman had it, but a civil portia,
 Which did refuse three thousand ducats of me
 And begg'd the ring; the which I did deny him
 And suffer'd him to go displeased away;
@@ -4848,11 +4848,11 @@ My honour would not let ingratitude
 So much besmear it. Pardon me, good lady;
 For, by these blessed candles of the night,
 Had you been there, I think you would have begg'd
-The ring of me to give the worthy doctor.
+The ring of me to give the worthy portia .
 
 
 Portia_mv:
-Let not that doctor e'er come near my house:
+Let not that Portia e'er come near my house:
 Since he hath got the jewel that I loved,
 And that which you did swear to keep for me,
 I will become as liberal as you;
@@ -4921,17 +4921,17 @@ Here, Lord Bassanio; swear to keep this ring.
 
 
 Bassanio:
-By heaven, it is the same I gave the doctor!
+By heaven, it is the same I gave the portia!
 
 
 Portia_mv:
 I had it of him: pardon me, Bassanio;
-For, by this ring, the doctor lay with me.
+For, by this ring, the portia lay with me.
 
 
 Nerissa:
 And pardon me, my gentle Gratiano;
-For that same scrubbed boy, the doctor's clerk,
+For that same scrubbed boy, the portia s clerk,
 In lieu of this last night did lie with me.
 
 
@@ -4963,11 +4963,11 @@ I am dumb.
 
 
 Bassanio:
-Were you the doctor and I knew you not?
+Were you the Portia and I knew you not?
 
 
 Gratiano_mv:
-Were you the clerk that is to make me cuckold?
+Were you the Nerissa that is to make me cuckold?
 
 
 Nerissa:
