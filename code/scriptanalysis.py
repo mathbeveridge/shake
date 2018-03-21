@@ -1,6 +1,8 @@
 import itertools
 import numpy as np
 import re
+import fileinput
+
 
 #### Constants
 
@@ -459,6 +461,7 @@ def analyze(source_file, char_file_list, out_file_prefix):
     dialog_timeline = out_file_prefix + "-dialog-timeline.csv"
     reference_timeline = out_file_prefix + "-reference-timeline.csv"
     stage_timeline = out_file_prefix + "-stage-timeline.csv"
+    all_timeline = out_file_prefix + "-all-timeline.csv"
 
     all_char_list = get_all_characters(char_file_list)
 
@@ -510,6 +513,25 @@ def analyze(source_file, char_file_list, out_file_prefix):
     print("writing stage timeline")
     get_stage_timeline(script, stage_timeline, all_char_list)
 
+    #############################
+    # 5: combine all timelines
+    all = open(all_timeline, "w")
+    in1 = open(dialog_timeline, "r")
+    for line in in1.readlines():
+        all.write(line)
+    in1.close()
+    in2 = open(reference_timeline, "r")
+    for line in in2.readlines()[1:]:
+        all.write(line)
+    in2.close()
+    in3 = open(stage_timeline, "r")
+    for line in in3.readlines()[1:]:
+        all.write(line)
+    in3.close()
+    all.close()
+
     # return the names of the files that we just created
     return [ scene_file, dialog_file, ref_file, stage_file]
+
+
 
