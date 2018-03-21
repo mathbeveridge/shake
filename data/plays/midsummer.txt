@@ -686,11 +686,11 @@ Over park, over pale,
 Thorough flood, thorough fire,
 I do wander everywhere,
 Swifter than the moon's sphere;
-And I serve the fairy queen,
+And I serve the _fairy queen,
 To dew her orbs upon the green.
 The cowslips tall her pensioners be:
 In their gold coats spots you see;
-Those be rubies, fairy favours,
+Those be rubies, _fairy favours,
 In those freckles live their savours:
 I must go seek some dewdrops here
 And hang a pearl in every cowslip's ear.
@@ -772,7 +772,7 @@ Tarry, rash wanton: am not I thy lord?
 
 Titania:
 Then I must be thy lady: but I know
-When thou hast stolen away from fairy land,
+When thou hast stolen away from _fairy land,
 And in the shape of Corin sat all day,
 Playing on pipes of corn and versing love
 To amorous Phillida. Why art thou here,
@@ -842,7 +842,7 @@ To be my henchman.
 
 Titania:
 Set your heart at rest:
-The fairy land buys not the child of me.
+The _fairy land buys not the child of me.
 His mother_changeling was a votaress of my order:
 And, in the spiced Indian air, by night,
 Full often hath she gossip'd by my side,
@@ -876,7 +876,7 @@ Give me that boy_changeling, and I will go with thee.
 
 
 Titania:
-Not for thy fairy kingdom. Fairies, away!
+Not for thy _fairy kingdom. Fairies, away!
 We shall chide downright, if I longer stay.
 
 
@@ -1069,7 +1069,7 @@ With sweet musk-roses and with eglantine:
 There sleeps Titania sometime of the night,
 Lull'd in these flowers with dances and delight;
 And there the snake throws her enamell'd skin,
-Weed wide enough to wrap a fairy in:
+Weed wide enough to wrap a _fairy in:
 And with the juice of this I'll streak her eyes,
 And make her full of hateful fantasies.
 Take thou some of it, and seek through this grove:
@@ -1100,7 +1100,7 @@ xxx:
 
 
 Titania:
-Come, now a roundel and a fairy song;
+Come, now a roundel and a _fairy song;
 Then, for the third part of a minute, hence;
 Some to kill cankers in the musk-rose buds,
 Some war with rere-mice for their leathern wings,
@@ -1112,7 +1112,7 @@ Then to your offices and let me rest.
 You spotted snakes with double tongue,
 Thorny hedgehogs, be not seen;
 Newts and blind-worms, do no wrong,
-Come not near our fairy queen.
+Come not near our _fairy queen.
 Philomel, with melody
 Sing in our sweet lullaby;
 Lulla, lulla, lullaby, lulla, lulla, lullaby:
@@ -1528,7 +1528,7 @@ xxx:
 
 Puck:
 What hempen home-spuns have we swaggering here,
-So near the cradle of the fairy queen?
+So near the cradle of the _fairy queen?
 What, a play toward! I'll be an auditor;
 An actor too, perhaps, if I see cause.
 
@@ -2038,7 +2038,7 @@ xxx:
 
 
 Puck:
-Captain_oberon of our fairy band,
+Captain_oberon of our _fairy band,
 Helena is here at hand;
 And the youth, mistook by me,
 Pleading for a lover's fee.
@@ -2551,7 +2551,7 @@ From monster's view, and all things shall be peace.
 
 
 Puck:
-My fairy lord_oberon, this must be done with haste,
+My _fairy lord_oberon, this must be done with haste,
 For night's swift dragons cut the clouds full fast,
 And yonder shines Aurora's harbinger;
 At whose approach, ghosts, wandering here and there,
@@ -2847,7 +2847,7 @@ of hay: good hay, sweet hay, hath no fellow.
 
 
 Titania:
-I have a venturous fairy that shall seek
+I have a venturous _fairy that shall seek
 The squirrel's hoard, and fetch thee new nuts.
 
 
@@ -2891,8 +2891,8 @@ Like tears that did their own disgrace bewail.
 When I had at my pleasure taunted her
 And she in mild terms begg'd my patience,
 I then did ask of her her changeling child;
-Which straight she gave me, and her fairy sent
-To bear him to my bower in fairy land.
+Which straight she gave me, and her _fairy sent
+To bear him to my bower in _fairy land.
 And now I have the boy, I will undo
 This hateful imperfection of her eyes:
 And, gentle Puck, take this transformed scalp
@@ -2901,7 +2901,7 @@ That, he awaking when the other do,
 May all to Athens back again repair
 And think no more of this night's accidents
 But as the fierce vexation of a dream.
-But first I will release the fairy queen.
+But first I will release the _fairy queen.
 Be as thou wast wont to be;
 See as thou wast wont to see:
 Dian's bud o'er Cupid's flower
@@ -2954,7 +2954,7 @@ Wedded, with Theseus, all in jollity.
 
 
 Puck:
-Fairy king, attend, and mark:
+_Fairy king, attend, and mark:
 I do hear the morning lark.
 
 
@@ -3306,7 +3306,7 @@ lovers speak of.
 
 Theseus:
 More strange than true: I never may believe
-These antique fables, nor these fairy toys.
+These antique fables, nor these _fairy toys.
 Lovers and madmen have such seething brains,
 Such shaping fantasies, that apprehend
 More than cool reason ever comprehends.
@@ -4032,7 +4032,7 @@ discharged. But come, your Bergomask: let your
 epilogue alone.
 [A dance]
 The iron tongue of midnight hath told twelve:
-Lovers, to bed; 'tis almost fairy time.
+Lovers, to bed; 'tis almost _fairy time.
 I fear we shall out-sleep the coming morn
 As much as we this night have overwatch'd.
 This palpable-gross play hath well beguiled
@@ -4079,7 +4079,7 @@ xxx:
 Oberon:
 Through the house give gathering light,
 By the dead and drowsy fire:
-Every elf and fairy sprite
+Every elf and _fairy sprite
 Hop as light as bird from brier;
 And this ditty, after me,
 Sing, and dance it trippingly.
@@ -4088,7 +4088,7 @@ Sing, and dance it trippingly.
 Titania:
 First, rehearse your song by rote
 To each word a warbling note:
-Hand in hand, with fairy grace,
+Hand in hand, with _fairy grace,
 Will we sing, and bless this place.
 
 
@@ -4098,7 +4098,7 @@ xxx:
 
 Oberon:
 Now, until the break of day,
-Through this house each fairy stray.
+Through this house each _fairy stray.
 To the best bride-bed will we,
 Which by us shall blessed be;
 And the issue there create
@@ -4112,7 +4112,7 @@ Nor mark prodigious, such as are
 Despised in nativity,
 Shall upon their children be.
 With this field-dew consecrate,
-Every fairy take his gait;
+Every _fairy take his gait;
 And each several chamber bless,
 Through this palace, with sweet peace;
 And the owner of it blest

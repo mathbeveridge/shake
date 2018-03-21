@@ -3,6 +3,7 @@ import updatealias
 import scriptanalysis
 import edgemerge
 import os
+import sys
 
 '''
 The driver file that turns a set of scripts into a network.
@@ -49,19 +50,20 @@ So I suggest that you just run the script, let it fail, change the offending col
 
 
 ########################################
-# Configure the following to match your filesystem
-# and the play that you want to process
+# Choose the play
 
-#mydir
-my_dir = "/Users/whipper/Projects/shake/"
-
-# play
+# play, must be the name of the .txt
+# file without the .txt included
 play = "hamlet"
 
 
 
 
 ########################################
+
+#mydir
+my_dir = sys.path[0] + '/../'
+
 
 #datadir
 data_dir = my_dir + "data/"
