@@ -1,9 +1,12 @@
 from pathlib import Path
 from os import makedirs
 import argparse
-from code.preprocess import tokenize, get_alias_mapping
-from code.interactions import get_scene_interactions
 import sys
+
+from code import updatescript
+from code import updatealias
+from code import scriptanalysis
+from code import edgemerge
 
 
 parser = argparse.ArgumentParser(description="Create graphs for analyzing Shakespeare plays")
@@ -34,10 +37,21 @@ out_dir = root_dir.joinpath(args.out_dir, args.play_name)
 if not out_dir.exists():
     makedirs(str(out_dir))
 
-# get data table with tokens
-play_df = tokenize(args.play_file, args.alias_files)
-alias_map, reverse_map = get_alias_mapping(args.alias_files)
-print(get_scene_interactions(play_df, alias_map))
+args.play_file = str(args.play_file)
+args.alias_files = [str(x) for x in args.alias_files]
+update_script_file = str(out_dir.joinpath(args.play_name + "-updated.txt"))
+alias_script_file = str(out_dir.joinpath(args.play_name + "-alias.txt"))
+edge_file_prefix = str(out_dir.joinpath(args.play_name + "-edge"))
+final_edge_file = str(out_dir.joinpath(args.play_name + "-all.csv"))
 
-# parse out and interpret stage directions
-# make stage directions table
+print("UPDATING")
+updatescript.update(args.play_file, update_script_file)
+
+print("ALIASING")
+updatealias.update(update_script_file, alias_script_file, args.alias_files)
+
+print("ANALYZING")
+edge_file_list = scriptanalysis.analyze(alias_script_file, args.alias_files, edge_file_prefix)
+
+print("MERGING")
+edgemerge.merge(edge_file_list, final_edge_file)
