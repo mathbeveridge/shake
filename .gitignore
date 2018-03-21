@@ -1,0 +1,11 @@
+.idea
+out/*
+!out/.gitkeep
+*.html
+
+__pycache__
+
+.vs/config/applicationhost.config
+.vs
+shake.pyproj
+shake.sln

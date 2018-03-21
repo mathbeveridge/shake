@@ -45,8 +45,12 @@ Gonzago,hamlet,6,Undirected
 Gonzago,players,2,Undirected
 Gonzago,voltemand,2,Undirected
 Gonzago,cornelius,1,Undirected
+<<<<<<< HEAD
 Norman_Lamound,claudius,1,Undirected
 Norman_Lamound,laertes,2,Undirected
+=======
+Norman_Lamound,laertes,1,Undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 PlayerKing,gertrude,2,Undirected
 PlayerKing,claudius,3,Undirected
 PlayerKing,rosencrantz,2,Undirected
@@ -130,7 +134,11 @@ bernardo,ophelia,1,Undirected
 bernardo,laertes,1,Undirected
 bernardo,neptune,1,Undirected
 bernardo,polonius,1,Undirected
+<<<<<<< HEAD
 bernardo,hamlet,4,Undirected
+=======
+bernardo,hamlet,2,Undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 bernardo,fortinbras,1,Undirected
 bernardo,francisco,15,Undirected
 bernardo,voltemand,1,Undirected
@@ -139,10 +147,17 @@ bernardo,horatio,24,Undirected
 claudio,messenger_ham,1,Undirected
 claudius,sailor_ham,1,Undirected
 claudius,guildenstern,36,Undirected
+<<<<<<< HEAD
 claudius,laertes,78,Undirected
 claudius,rosencrantz,42,Undirected
 claudius,clown2_ham,1,Undirected
 claudius,hamlet,139,Undirected
+=======
+claudius,laertes,77,Undirected
+claudius,rosencrantz,41,Undirected
+claudius,clown2_ham,1,Undirected
+claudius,hamlet,137,Undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 claudius,hamgent,1,Undirected
 claudius,lucianus,4,Undirected
 claudius,servant_ham,1,Undirected
@@ -155,7 +170,11 @@ claudius,clown1_ham,2,Undirected
 claudius,marcellus,2,Undirected
 claudius,ophelia,34,Undirected
 claudius,voltemand,10,Undirected
+<<<<<<< HEAD
 claudius,messenger_ham,14,Undirected
+=======
+claudius,messenger_ham,13,Undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 claudius,lord_ham,4,Undirected
 claudius,hamghost,23,Undirected
 claudius,father_FatherofGhost,3,Undirected
@@ -211,7 +230,11 @@ fortinbras,gertrude,6,Undirected
 fortinbras,marcellus,1,Undirected
 fortinbras,guildenstern,2,Undirected
 fortinbras,horatio,12,Undirected
+<<<<<<< HEAD
 fortinbras,norcapt,7,Undirected
+=======
+fortinbras,norcapt,6,Undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 fortinbras,rosencrantz,2,Undirected
 fortinbras,ophelia,7,Undirected
 fortinbras,laertes,3,Undirected
@@ -254,7 +277,11 @@ guildenstern,norcapt,1,Undirected
 guildenstern,rosencrantz,51,Undirected
 guildenstern,ophelia,16,Undirected
 guildenstern,horatio,9,Undirected
+<<<<<<< HEAD
 guildenstern,hamlet,78,Undirected
+=======
+guildenstern,hamlet,73,Undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 guildenstern,players,8,Undirected
 guildenstern,lucianus,4,Undirected
 guildenstern,servant_ham,1,Undirected
@@ -275,27 +302,47 @@ hamghost,ophelia,10,Undirected
 hamghost,laertes,3,Undirected
 hamghost,neptune,2,Undirected
 hamghost,polonius,8,Undirected
+<<<<<<< HEAD
 hamghost,hamlet,81,Undirected
+=======
+hamghost,hamlet,78,Undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamghost,players,2,Undirected
 hamghost,reynaldo,1,Undirected
 hamghost,voltemand,5,Undirected
 hamlet,sailor_ham,2,Undirected
+<<<<<<< HEAD
 hamlet,horatio,204,Undirected
 hamlet,norcapt,19,Undirected
 hamlet,rosencrantz,108,Undirected
 hamlet,marcellus,40,Undirected
 hamlet,ophelia,96,Undirected
+=======
+hamlet,horatio,181,Undirected
+hamlet,norcapt,19,Undirected
+hamlet,rosencrantz,94,Undirected
+hamlet,marcellus,29,Undirected
+hamlet,ophelia,94,Undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet,hampriest,2,Undirected
 hamlet,laertes,49,Undirected
 hamlet,reynaldo,1,Undirected
 hamlet,voltemand,9,Undirected
+<<<<<<< HEAD
 hamlet,players,23,Undirected
+=======
+hamlet,players,21,Undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet,messenger_ham,8,Undirected
 hamlet,lucianus,2,Undirected
 hamlet,osric,40,Undirected
 hamlet,lord_ham,6,Undirected
 hamlet,servant_ham,2,Undirected
+<<<<<<< HEAD
 hamlet,polonius,121,Undirected
+=======
+hamlet,polonius,106,Undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hampriest,ophelia,2,Undirected
 hampriest,messenger_ham,2,Undirected
 hampriest,laertes,6,Undirected
@@ -327,7 +374,11 @@ laertes,voltemand,3,Undirected
 laertes,messenger_ham,8,Undirected
 laertes,osric,12,Undirected
 laertes,lord_ham,3,Undirected
+<<<<<<< HEAD
 laertes,polonius,31,Undirected
+=======
+laertes,polonius,30,Undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 lord_ham,osric,2,Undirected
 lucianus,ophelia,2,Undirected
 lucianus,polonius,2,Undirected
@@ -342,14 +393,22 @@ messenger_ham,ophelia,4,Undirected
 messenger_ham,polonius,9,Undirected
 norcapt,rosencrantz,2,Undirected
 ophelia,players,8,Undirected
+<<<<<<< HEAD
 ophelia,polonius,69,Undirected
+=======
+ophelia,polonius,62,Undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 ophelia,reynaldo,3,Undirected
 ophelia,rosencrantz,12,Undirected
 ophelia,voltemand,14,Undirected
 players,polonius,6,Undirected
 players,rosencrantz,7,Undirected
 players,voltemand,2,Undirected
+<<<<<<< HEAD
 polonius,reynaldo,45,Undirected
+=======
+polonius,reynaldo,34,Undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 polonius,rosencrantz,14,Undirected
 polonius,voltemand,6,Undirected
 rosencrantz,sailor_ham,1,Undirected

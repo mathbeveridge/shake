@@ -1,8 +1,15 @@
 Source,Target,Weight,Type
+<<<<<<< HEAD
 claudius,laertes,18,undirected
 claudius,rosencrantz,16,undirected
 claudius,guildenstern,12,undirected
 claudius,hamlet,73,undirected
+=======
+claudius,laertes,17,undirected
+claudius,rosencrantz,15,undirected
+claudius,guildenstern,12,undirected
+claudius,hamlet,71,undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 claudius,cornelius,3,undirected
 claudius,gertrude,30,undirected
 claudius,hamghost,16,undirected
@@ -10,7 +17,11 @@ claudius,horatio,8,undirected
 claudius,clown1_ham,1,undirected
 claudius,ophelia,6,undirected
 claudius,voltemand,4,undirected
+<<<<<<< HEAD
 claudius,messenger_ham,5,undirected
+=======
+claudius,messenger_ham,4,undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 claudius,lord_ham,2,undirected
 claudius,polonius,27,undirected
 claudius,father_FatherofGhost,2,undirected
@@ -31,7 +42,11 @@ ambassador,rosencrantz,1,undirected
 ambassador,guildenstern,1,undirected
 ambassador,horatio,1,undirected
 guildenstern,rosencrantz,19,undirected
+<<<<<<< HEAD
 guildenstern,hamlet,17,undirected
+=======
+guildenstern,hamlet,12,undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 guildenstern,hamghost,2,undirected
 guildenstern,horatio,4,undirected
 guildenstern,ophelia,1,undirected
@@ -39,6 +54,7 @@ guildenstern,polonius,3,undirected
 guildenstern,players,3,undirected
 claudio,messenger_ham,1,undirected
 hamlet,laertes,17,undirected
+<<<<<<< HEAD
 hamlet,rosencrantz,26,undirected
 hamlet,horatio,54,undirected
 hamlet,marcellus,13,undirected
@@ -48,6 +64,17 @@ hamlet,messenger_ham,2,undirected
 hamlet,polonius,38,undirected
 hamlet,norcapt,7,undirected
 hamlet,players,18,undirected
+=======
+hamlet,rosencrantz,12,undirected
+hamlet,horatio,31,undirected
+hamlet,marcellus,2,undirected
+hamlet,ophelia,16,undirected
+hamlet,voltemand,1,undirected
+hamlet,messenger_ham,2,undirected
+hamlet,polonius,23,undirected
+hamlet,norcapt,7,undirected
+hamlet,players,16,undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet,osric,2,undirected
 gents_ham,hamlet,1,undirected
 cornelius,laertes,1,undirected
@@ -74,21 +101,33 @@ gertrude,hamgent,1,undirected
 gertrude,osric,1,undirected
 polonius,rosencrantz,4,undirected
 polonius,voltemand,2,undirected
+<<<<<<< HEAD
 polonius,reynaldo,17,undirected
+=======
+polonius,reynaldo,6,undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hampriest,laertes,1,undirected
 hampriest,ophelia,1,undirected
 laertes,ophelia,10,undirected
 laertes,voltemand,1,undirected
 laertes,messenger_ham,2,undirected
 laertes,lord_ham,2,undirected
+<<<<<<< HEAD
 laertes,polonius,15,undirected
+=======
+laertes,polonius,14,undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 laertes,reynaldo,1,undirected
 laertes,osric,6,undirected
 clown1_ham,hamlet,1,undirected
 clown1_ham,hamghost,1,undirected
 clown1_ham,fortinbras,1,undirected
+<<<<<<< HEAD
 Norman_Lamound,claudius,1,undirected
 Norman_Lamound,laertes,2,undirected
+=======
+Norman_Lamound,laertes,1,undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 Alexander,claudius,1,undirected
 Alexander,laertes,1,undirected
 Alexander,hamlet,3,undirected
@@ -101,20 +140,32 @@ Yorick,claudius,1,undirected
 Yorick,hamlet,1,undirected
 Yorick,horatio,1,undirected
 Yorick,clown1_ham,1,undirected
+<<<<<<< HEAD
 bernardo,hamlet,3,undirected
+=======
+bernardo,hamlet,1,undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 bernardo,hamghost,5,undirected
 bernardo,horatio,7,undirected
 bernardo,marcellus,9,undirected
 bernardo,francisco,3,undirected
 ophelia,rosencrantz,1,undirected
+<<<<<<< HEAD
 ophelia,polonius,27,undirected
+=======
+ophelia,polonius,20,undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 ophelia,reynaldo,1,undirected
 messenger_ham,polonius,1,undirected
 lord_ham,osric,1,undirected
 hamghost,laertes,1,undirected
 hamghost,rosencrantz,2,undirected
 hamghost,neptune,1,undirected
+<<<<<<< HEAD
 hamghost,hamlet,40,undirected
+=======
+hamghost,hamlet,37,undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamghost,horatio,11,undirected
 hamghost,marcellus,4,undirected
 hamghost,voltemand,1,undirected
@@ -145,5 +196,9 @@ fortinbras,gertrude,1,undirected
 fortinbras,hamghost,3,undirected
 fortinbras,horatio,3,undirected
 fortinbras,voltemand,2,undirected
+<<<<<<< HEAD
 fortinbras,norcapt,4,undirected
+=======
+fortinbras,norcapt,3,undirected
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 fortinbras,osric,1,undirected

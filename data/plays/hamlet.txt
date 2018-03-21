@@ -670,7 +670,7 @@ We'll teach you to drink deep ere you depart.
 
 
 horatio:
-My lord_Hamlet, I came to see your father_Ghost's funeral.
+My lord, I came to see your father_Ghost's funeral.
 
 
 hamlet:
@@ -679,7 +679,7 @@ I think it was to see my mother_Gertrude's wedding.
 
 
 horatio:
-Indeed, my lord_Hamlet, it followed hard upon.
+Indeed, my lord, it followed hard upon.
 
 
 hamlet:
@@ -691,7 +691,7 @@ My father_Ghost- methinks I see my father_Ghost.
 
 
 horatio:
-O, where, my lord_Hamlet?
+O, where, my lord?
 
 
 hamlet:
@@ -708,7 +708,7 @@ I shall not look upon his like again.
 
 
 horatio:
-My lord_Hamlet, I think I saw him yesternight.
+My lord, I think I saw him yesternight.
 
 
 hamlet:
@@ -716,7 +716,7 @@ Saw? who?
 
 
 horatio:
-My lord_Hamlet, the King your father_Ghost.
+My lord, the King your father_Ghost.
 
 
 hamlet:
@@ -759,7 +759,7 @@ But where was this?
 
 
 marcellus:
-My lord_Hamlet, upon the platform where we watch'd.
+My lord, upon the platform where we watch'd.
 
 
 hamlet:
@@ -767,7 +767,7 @@ Did you not speak to it?
 
 
 horatio:
-My lord_Hamlet, I did;
+My lord, I did;
 But answer made it none. Yet once methought
 It lifted up it head and did address
 Itself to motion, like as it would speak;
@@ -792,7 +792,7 @@ Hold you the watch to-night?
 
 
 marcellus:
-[with Bernardo] We do, my lord_hamlet.
+[with Bernardo] We do, my lord.
 
 
 hamlet:
@@ -800,7 +800,7 @@ Arm'd, say you?
 
 
 marcellus:
-[with Bernardo] Arm'd, my lord_Hamlet.
+[with Bernardo] Arm'd, my lord.
 
 
 hamlet:
@@ -808,7 +808,7 @@ From top to toe?
 
 
 marcellus:
-[with Bernardo] My lord_Hamlet, from head to foot.
+[with Bernardo] My lord, from head to foot.
 
 
 hamlet:
@@ -816,7 +816,7 @@ Then saw you not his face?
 
 
 horatio:
-O, yes, my lord_Hamlet! He wore his beaver up.
+O, yes, my lord! He wore his beaver up.
 
 
 hamlet:
@@ -1010,7 +1010,7 @@ And you are stay'd for. There- my blessing with thee!
 And these few precepts in thy memory
 Look thou character. Give thy thoughts no tongue,
 Nor any unproportion'd thought his act.
-Be thou familiar, but by no means vulgar:
+Be thou familiar, but by no means vulgar;
 Those friends thou hast, and their adoption tried,
 Grapple them unto thy soul with hoops of steel;
 But do not dull thy palm with entertainment
@@ -1034,7 +1034,7 @@ Farewell. My blessing season this in thee!
 
 
 laertes:
-Most humbly do I take my leave, my lord_Polonius.
+Most humbly do I take my leave, my lord.
 
 
 polonius:
@@ -1076,7 +1076,7 @@ What is between you? Give me up the truth.
 
 
 ophelia:
-He hath, my lord_Polonius, of late made many tenders
+He hath, my lord, of late made many tenders
 Of his affection to me.
 
 
@@ -1087,7 +1087,7 @@ Do you believe his tenders, as you call them?
 
 
 ophelia:
-I do not know, my lord_Polonius, what I should think,
+I do not know, my lord, what I should think,
 
 
 polonius:
@@ -1099,7 +1099,7 @@ Running it thus) you'll tender me a fool.
 
 
 ophelia:
-My lord_Polonius, he hath importun'd me with love
+My lord, he hath importun'd me with love
 In honourable fashion.
 
 
@@ -1108,7 +1108,7 @@ Ay, fashion you may call it. Go to, go to!
 
 
 ophelia:
-And hath given countenance to his speech, my lord_Polonius,
+And hath given countenance to his speech, my lord,
 With almost all the holy vows of heaven.
 
 
@@ -1137,7 +1137,7 @@ Look to't, I charge you. Come your ways.
 
 
 ophelia:
-I shall obey, my lord_Polonius.
+I shall obey, my lord.
 
 
 xxx:
@@ -1176,7 +1176,7 @@ horatio:
 Indeed? I heard it not. It then draws near the season
 Wherein the spirit held his wont to walk.
 [A flourish of trumpets, and two pieces go off.]
-What does this mean, my lord_Hamlet?
+What does this mean, my lord?
 
 
 hamlet:
@@ -1224,7 +1224,7 @@ xxx:
 
 
 horatio:
-Look, my lord_Hamlet, it comes!
+Look, my lord, it comes!
 
 
 hamlet:
@@ -1274,7 +1274,7 @@ It will not speak. Then will I follow it.
 
 
 horatio:
-Do not, my lord_Hamlet!
+Do not, my lord!
 
 
 hamlet:
@@ -1286,7 +1286,7 @@ It waves me forth again. I'll follow it.
 
 
 horatio:
-What if it tempt you toward the flood, my lord_Hamlet,
+What if it tempt you toward the flood, my lord,
 Or to the dreadful summit of the cliff
 That beetles o'er his base into the sea,
 And there assume some other, horrible form
@@ -1304,7 +1304,7 @@ Go on. I'll follow thee.
 
 
 marcellus:
-You shall not go, my lord_Hamlet.
+You shall not go, my lord.
 
 
 hamlet:
@@ -1541,13 +1541,13 @@ O villain, villain, smiling, damned villain!
 My tables! Meet it is I set it down
 That one may smile, and smile, and be a villain;
 At least I am sure it may be so in Denmark.  [Writes.]
-So, uncle_Claudius, there you are. Now to my word:
+So, uncle_Claudius, there you are. Now to my word;
 It is 'Adieu, adieu! Remember me.' 
 I have sworn't.
 
 
 horatio:
-[within] My lord_Hamlet, my lord_Hamlet!
+[within] My lord, my lord!
 
 
 xxx:
@@ -1567,7 +1567,7 @@ So be it!
 
 
 marcellus:
-Illo, ho, ho, my lord_Hamlet!
+Illo, ho, ho, my lord!
 
 
 hamlet:
@@ -1575,11 +1575,11 @@ Hillo, ho, ho, boy! Come, bird, come.
 
 
 marcellus:
-How is't, my noble lord_Hamlet?
+How is't, my noble lord?
 
 
 horatio:
-What news, my lord_Hamlet?
+What news, my lord?
 
 
 marcellus:
@@ -1587,7 +1587,7 @@ O, wonderful!
 
 
 horatio:
-Good my lord_Hamlet, tell it.
+Good my lord, tell it.
 
 
 hamlet:
@@ -1595,11 +1595,11 @@ No, you will reveal it.
 
 
 horatio:
-Not I, my lord_Hamlet, by heaven!
+Not I, my lord, by heaven!
 
 
 marcellus:
-Nor I, my lord_Hamlet.
+Nor I, my lord.
 
 
 hamlet:
@@ -1608,7 +1608,7 @@ But you'll be secret?
 
 
 marcellus:
-[with Horatio] Ay, by heaven, my lord_Hamlet. 
+[with Horatio] Ay, by heaven, my lord. 
 
 
 hamlet:
@@ -1617,7 +1617,7 @@ But he's an arrant knave.
 
 
 horatio:
-There needs no ghost, my lord_Hamlet, come from the grave
+There needs no ghost, my lord, come from the grave
 To tell us this.
 
 
@@ -1632,7 +1632,7 @@ Look you, I'll go pray.
 
 
 horatio:
-These are but wild and whirling words, my lord_Hamlet.
+These are but wild and whirling words, my lord.
 
 
 hamlet:
@@ -1641,7 +1641,7 @@ Yes, faith, heartily.
 
 
 horatio:
-There's no offence, my lord_Hamlet.
+There's no offence, my lord.
 
 
 hamlet:
@@ -1655,7 +1655,7 @@ Give me one poor request.
 
 
 horatio:
-What is't, my lord_Hamlet? We will.
+What is't, my lord? We will.
 
 
 hamlet:
@@ -1663,7 +1663,7 @@ Never make known what you have seen to-night.
 
 
 marcellus:
-[with Horatio] My lord_Hamlet, we will not.
+[with Horatio] My lord, we will not.
 
 
 hamlet:
@@ -1672,11 +1672,11 @@ Nay, but swear't.
 
 horatio:
 In faith,
-My lord_Hamlet, not I.
+My lord, not I.
 
 
 marcellus:
-Nor I, my lord_Hamlet- in faith.
+Nor I, my lord- in faith.
 
 
 hamlet:
@@ -1684,7 +1684,7 @@ Upon my sword.
 
 
 marcellus:
-We have sworn, my lord_Hamlet, already.
+We have sworn, my lord, already.
 
 
 hamlet:
@@ -1706,7 +1706,7 @@ Consent to swear.
 
 
 horatio:
-Propose the oath, my lord_Hamlet. 
+Propose the oath, my lord. 
 
 
 hamlet:
@@ -1722,7 +1722,7 @@ hamlet:
 Hic et ubique? Then we'll shift our ground.
 Come hither, gentlemen,
 And lay your hands again upon my sword.
-Never to speak of this that you have heard:
+Never to speak of this that you have heard;
 Swear by my sword.
 
 
@@ -1797,7 +1797,7 @@ Give him this money and these notes, Reynaldo.
 
 
 reynaldo:
-I will, my lord_Polonius.
+I will, my lord.
 
 
 polonius:
@@ -1807,7 +1807,7 @@ Of his behaviour.
 
 
 reynaldo:
-My lord_Polonius, I did intend it.
+My lord, I did intend it.
 
 
 polonius:
@@ -1824,7 +1824,7 @@ And in part him.' Do you mark this, Reynaldo?
 
 
 reynaldo:
-Ay, very well, my lord_Polonius. 
+Ay, very well, my lord. 
 
 
 polonius:
@@ -1839,7 +1839,7 @@ To youth and liberty.
 
 
 reynaldo:
-As gaming, my lord_Polonius.
+As gaming, my lord.
 
 
 polonius:
@@ -1848,7 +1848,7 @@ Drabbing. You may go so far.
 
 
 reynaldo:
-My lord_Polonius, that would dishonour him.
+My lord, that would dishonour him.
 
 
 polonius:
@@ -1871,7 +1871,7 @@ Wherefore should you do this?
 
 
 reynaldo:
-Ay, my lord_Polonius,
+Ay, my lord,
 I would know that.
 
 
@@ -1884,14 +1884,14 @@ Mark you,
 Your party in converse, him you would sound,
 Having ever seen in the prenominate crimes
 The youth you breathe of guilty, be assur'd
-He closes with you in this consequence:
+He closes with you in this consequence;
 'Good sir,' or so, or 'friend,' or 'gentleman'-
 According to the phrase or the addition
 Of man and country-
 
 
 reynaldo:
-Very good, my lord_Polonius.
+Very good, my lord.
 
 
 polonius:
@@ -1923,7 +1923,7 @@ Shall you my son_Laertes. You have me, have you not?
 
 
 reynaldo:
-My lord_Polonius, I have.
+My lord, I have.
 
 
 polonius:
@@ -1931,7 +1931,7 @@ God b' wi' ye, fare ye well!
 
 
 reynaldo:
-Good my lord_Polonius!                                    [Going.]
+Good my lord!                                    [Going.]
 
 
 polonius:
@@ -1939,7 +1939,7 @@ Observe his inclination in yourself.
 
 
 reynaldo:
-I shall, my lord_Polonius.
+I shall, my lord.
 
 
 polonius:
@@ -1947,7 +1947,7 @@ And let him ply his music.
 
 
 reynaldo:
-Well, my lord_Polonius.
+Well, my lord.
 
 
 polonius:
@@ -1958,7 +1958,7 @@ How now, Ophelia? What's the matter?
 
 
 ophelia:
-O my lord_Polonius, my lord_Polonius, I have been so affrighted!
+O my lord, my lord, I have been so affrighted!
 
 
 polonius:
@@ -1981,7 +1981,7 @@ Mad for thy love?
 
 
 ophelia:
-My lord_Polonius, I do not know,
+My lord, I do not know,
 But truly I do fear it.
 
 
@@ -2136,7 +2136,7 @@ Thou still hast been the father of good news.
 
 
 polonius:
-Have I, my lord_Claudius? Assure you, my good liege,
+Have I, my lord? Assure you, my good liege,
 I hold my duty as I hold my soul,
 Both to my God and to my gracious king_Claudius;
 And I do think- or else this brain of mine
@@ -2227,7 +2227,7 @@ More matter, with less art.
 
 polonius:
 Madam_Gertrude, I swear I use no art at all.
-That he is mad, 'tis true: 'tis true 'tis pity;
+That he is mad, 'tis true; 'tis true 'tis pity;
 And pity 'tis 'tis true. A foolish figure!
 But farewell it, for I will use no art. 
 Mad let us grant him then. And now remains
@@ -2291,7 +2291,7 @@ If I had play'd the desk or table book,
 Or given my heart a winking, mute and dumb,
 Or look'd upon this love with idle sight?
 What might you think? No, I went round to work
-And my young mistress thus I did bespeak:
+And my young mistress thus I did bespeak;
 'Lord Hamlet is a prince, out of thy star.
 This must not be.' And then I prescripts gave her,
 That she should lock herself from his resort,
@@ -2376,7 +2376,7 @@ Well, God-a-mercy.
 
 
 polonius:
-Do you know me, my lord_Hamlet?
+Do you know me, my lord?
 
 
 hamlet:
@@ -2392,7 +2392,7 @@ Then I would you were so honest a man.
 
 
 polonius:
-Honest, my lord_Hamlet?
+Honest, my lord?
 
 
 hamlet:
@@ -2401,7 +2401,7 @@ pick'd out of ten thousand.
 
 
 polonius:
-That's very true, my lord_Hamlet.
+That's very true, my lord.
 
 
 hamlet:
@@ -2410,7 +2410,7 @@ kissing carrion- Have you a daughter_Ophelia?
 
 
 polonius:
-I have, my lord_Hamlet.
+I have, my lord.
 
 
 hamlet:
@@ -2423,7 +2423,7 @@ polonius:
 he knew me not at first. He said I was a fishmonger. He is far
 gone, far gone! And truly in my youth I suff'red much extremity
 for love- very near this. I'll speak to him again.- What do you
-read, my lord_Hamlet?
+read, my lord?
 
 
 hamlet:
@@ -2431,7 +2431,7 @@ Words, words, words.
 
 
 polonius:
-What is the matter, my lord_Hamlet?
+What is the matter, my lord?
 
 
 hamlet:
@@ -2439,7 +2439,7 @@ Between who?
 
 
 polonius:
-I mean, the matter that you read, my lord_Hamlet.
+I mean, the matter that you read, my lord.
 
 
 hamlet:
@@ -2454,7 +2454,7 @@ should be old as I am if, like a crab, you could go backward.
 
 polonius:
 [aside] Though this be madness, yet there is a method in't.-
- Will You walk out of the air, my lord_Hamlet?
+ Will You walk out of the air, my lord?
 
 
 hamlet:
@@ -2481,7 +2481,7 @@ xxx:
 
 
 polonius:
-Fare you well, my lord_Hamlet.
+Fare you well, my lord.
 
 
 hamlet:
@@ -2527,7 +2527,7 @@ Nor the soles of her shoe?
 
 
 rosencrantz:
-Neither, my lord_Hamlet.
+Neither, my lord.
 
 
 hamlet:
@@ -2545,7 +2545,7 @@ strumpet. What news ?
 
 
 rosencrantz:
-None, my lord_Hamlet, but that the world's grown honest.
+None, my lord, but that the world's grown honest.
 
 
 hamlet:
@@ -2556,7 +2556,7 @@ hither?
 
 
 guildenstern:
-Prison, my lord_Hamlet? 
+Prison, my lord? 
 
 
 hamlet:
@@ -2573,7 +2573,7 @@ dungeons, Denmark being one o' th' worst.
 
 
 rosencrantz:
-We think not so, my lord_Hamlet.
+We think not so, my lord.
 
 
 hamlet:
@@ -2623,7 +2623,7 @@ make you at Elsinore?
 
 
 rosencrantz:
-To visit you, my lord_Hamlet; no other occasion.
+To visit you, my lord; no other occasion.
 
 
 hamlet:
@@ -2634,7 +2634,7 @@ visitation? Come, deal justly with me. Come, come! Nay, speak.
 
 
 guildenstern:
-What should we say, my lord_Hamlet?
+What should we say, my lord?
 
 
 hamlet:
@@ -2645,7 +2645,7 @@ have sent for you.
 
 
 rosencrantz:
-To what end, my lord_Hamlet?
+To what end, my lord?
 
 
 hamlet:
@@ -2666,7 +2666,7 @@ not off.
 
 
 guildenstern:
-My lord_Hamlet, we were sent for.
+My lord, we were sent for.
 
 
 hamlet:
@@ -2688,7 +2688,7 @@ neither, though by your smiling you seem to say so.
 
 
 rosencrantz:
-My lord_Hamlet, there was no such stuff in my thoughts. 
+My lord, there was no such stuff in my thoughts. 
 
 
 hamlet:
@@ -2696,7 +2696,7 @@ Why did you laugh then, when I said 'Man delights not me'?
 
 
 rosencrantz:
-To think, my lord_Hamlet, if you delight not in man, what lenten
+To think, my lord, if you delight not in man, what lenten
 entertainment the players shall receive from you. We coted them
 on the way, and hither are they coming to offer you service.
 
@@ -2777,7 +2777,7 @@ Do the boys carry it away?
 
 
 rosencrantz:
-Ay, that they do, my lord_Hamlet- Hercules and his load too.
+Ay, that they do, my lord- Hercules and his load too.
 
 
 hamlet:
@@ -2839,11 +2839,11 @@ You say right, sir; a Monday morning; twas so indeed.
 
 
 polonius:
-My lord_Hamlet, I have news to tell you.
+My lord, I have news to tell you.
 
 
 hamlet:
-My lord_Polonius, I have news to tell you. When Roscius was an actor in Rome-
+My lord, I have news to tell you. When Roscius was an actor in Rome-
 
 
 polonius:
@@ -2876,7 +2876,7 @@ O Jephthah_Polonius, judge of Israel, what a treasure hadst thou!
 
 
 polonius:
-What treasure had he, my lord_Hamlet?
+What treasure had he, my lord?
 
 
 hamlet:
@@ -2894,7 +2894,7 @@ Am I not i' th' right, old Jephthah_Polonius?
 
 
 polonius:
-If you call me Jephthah_Polonius, my lord_Hamlet, I have a daughter_Ophelia that I
+If you call me Jephthah_Polonius, my lord, I have a daughter_Ophelia that I
 love passing well.
 
 
@@ -2943,9 +2943,9 @@ affectation; but call'd it an honest method, as wholesome as
 sweet, and by very much more handsome than fine. One speech in't
 I chiefly lov'd. 'Twas AEneas' tale to Dido, and thereabout of it
 especially where he speaks of Priam's slaughter. If it live in
-your memory, begin at this line- let me see, let me see:
+your memory, begin at this line- let me see, let me see;
      'The rugged Pyrrhus, like th' Hyrcanian beast-'
-'Tis not so; it begins with Pyrrhus:
+'Tis not so; it begins with Pyrrhus;
     'The rugged Pyrrhus, he whose sable arms,
     Black as his purpose, did the night resemble
     When he lay couched in the ominous horse,
@@ -3045,14 +3045,14 @@ eyes. Prithee no more!
 
 hamlet:
 'Tis well. I'll have thee speak out the rest of this soon.-
-Good my lord_Hamlet, will you see the players well bestow'd? Do you
+Good my lord, will you see the players well bestow'd? Do you
 hear? Let them be well us'd; for they are the abstract and brief
 chronicles of the time. After your death you were better have a
 bad epitaph than their ill report while you live.
 
 
 polonius:
-My lord_Hamlet, I will use them according to their desert.
+My lord, I will use them according to their desert.
 
 
 hamlet:
@@ -3308,7 +3308,7 @@ xxx:
 
 
 hamlet:
-To be, or not to be- that is the question:
+To be, or not to be- that is the question;
 Whether 'tis nobler in the mind to suffer
 The slings and arrows of outrageous fortune
 Or to take arms against a sea of troubles,
@@ -3317,7 +3317,7 @@ No more; and by a sleep to say we end
 The heartache, and the thousand natural shocks
 That flesh is heir to. 'Tis a consummation 
 Devoutly to be wish'd. To die- to sleep.
-To sleep- perchance to dream: ay, there's the rub!
+To sleep- perchance to dream; ay, there's the rub!
 For in that sleep of death what dreams may come
 When we have shuffled off this mortal coil,
 Must give us pause. There's the respect
@@ -3446,7 +3446,7 @@ O, help him, you sweet heavens!
 
 
 hamlet:
-If thou dost marry, I'll give thee this plague for thy dowry:
+If thou dost marry, I'll give thee this plague for thy dowry;
 be thou as chaste as ice, as pure as snow, thou shalt not escape
 calumny. Get thee to a nunnery. Go, farewell. Or if thou wilt
 needs marry, marry a fool; for wise men know well enough what
@@ -3495,7 +3495,7 @@ O'er which his melancholy sits on brood;
 And I do doubt the hatch and the disclose
 Will be some danger; which for to prevent,
 I have in quick determination
-Thus set it down: he shall with speed to England
+Thus set it down; he shall with speed to England
 For the demand of our neglected tribute.
 Haply the seas, and countries different,
 With variable objects, shall expel
@@ -4094,7 +4094,7 @@ xxx:
 hamlet:
 Why, let the strucken deer go weep,
      The hart ungalled play;
-    For some must watch, while some must sleep:
+    For some must watch, while some must sleep;
      Thus runs the world away.
 Would not this, sir, and a forest of feathers- if the rest of my
 fortunes turn Turk with me-with two Provincial roses on my raz'd
@@ -4217,7 +4217,7 @@ say-
 
 
 rosencrantz:
-Then thus she says: your behaviour hath struck her into
+Then thus she says; your behaviour hath struck her into
 amazement and admiration.
 
 
@@ -4689,7 +4689,7 @@ See what a grace was seated on this brow;
 Hyperion's curls; the front of Jove himself;
 An eye like Mars, to threaten and command;
 A station like the herald Mercury
-New lighted on a heaven-kissing hill:
+New lighted on a heaven-kissing hill;
 A combination and a form indeed
 Where every god did seem to set his seal
 To give the world assurance of a man.
@@ -4901,7 +4901,7 @@ What shall I do?
 
 
 hamlet:
-Not this, by no means, that I bid you do:
+Not this, by no means, that I bid you do;
 Let the bloat King_Claudius tempt you again to bed;
 Pinch wanton on your cheek; call you his mouse;
 And let him, for a pair of reechy kisses,
@@ -5073,7 +5073,7 @@ xxx:
 
 
 rosencrantz:
-What have you done, my lord_Hamlet, with the dead body?
+What have you done, my lord, with the dead body?
 
 
 hamlet:
@@ -5100,7 +5100,7 @@ of a king_Ghost?
 
 
 rosencrantz:
-Take you me for a sponge, my lord_Hamlet?
+Take you me for a sponge, my lord?
 
 
 hamlet:
@@ -5113,7 +5113,7 @@ again.
 
 
 rosencrantz:
-I understand you not, my lord_Hamlet.
+I understand you not, my lord.
 
 
 hamlet:
@@ -5121,7 +5121,7 @@ I am glad of it. A knavish speech sleeps in a foolish ear.
 
 
 rosencrantz:
-My lord_Hamlet, you must tell us where the body is and go with us to
+My lord, you must tell us where the body is and go with us to
 the King_Claudius.
 
 
@@ -5131,7 +5131,7 @@ The King_Claudius is a thing-
 
 
 guildenstern:
-A thing, my lord_Hamlet?
+A thing, my lord?
 
 
 hamlet:
@@ -5176,7 +5176,7 @@ But where is he?
 
 
 rosencrantz:
-Without, my lord_Claudius; guarded, to know your pleasure.
+Without, my lord; guarded, to know your pleasure.
 
 
 claudius:
@@ -5184,7 +5184,7 @@ Bring him before us.
 
 
 rosencrantz:
-Ho, Guildenstern! Bring in my lord_Hamlet.
+Ho, Guildenstern! Bring in my lord.
 
 
 xxx:
@@ -5335,7 +5335,7 @@ And let him know so.
 
 
 norcapt:
-I will do't, my lord_Fortinbras.
+I will do't, my lord.
 
 
 fortinbras:
@@ -5409,7 +5409,7 @@ God b' wi' you, sir_Hamlet.         [Exit.]
 
 
 rosencrantz:
-Will't please you go, my lord_Hamlet?
+Will't please you go, my lord?
 
 
 hamlet:
@@ -5547,7 +5547,7 @@ xxx:
 
 
 gertrude:
-Alas, look here, my lord_Claudia!
+Alas, look here, my lord!
 
 
 ophelia:
@@ -5573,7 +5573,7 @@ Conceit upon her father_Polonius.
 
 ophelia:
 Pray let's have no words of this; but when they ask, you what
-it means, say you this:
+it means, say you this;
 (Sings) To-morrow is Saint Valentine's day,
          All in the morning bedtime,
        And I a maid at your window,
@@ -5650,7 +5650,7 @@ What is the matter?
 
 
 messenger_ham:
-Save Yourself, my lord_Claudius:
+Save Yourself, my lord;
 The ocean, overpeering of his list,
 Eats not the flats with more impetuous haste
 Than Young Laertes, in a riotous head,
@@ -5741,7 +5741,7 @@ Let him demand his fill.
 
 
 laertes:
-How came he dead? I'll not be juggled with:
+How came he dead? I'll not be juggled with;
 To hell, allegiance! vows, to the blackest devil
 Conscience and grace, to the profoundest pit!
 I dare damnation. To this point I stand,
@@ -5792,7 +5792,7 @@ As day does to your eye.
 
 
 xxx:
-[A noise within: 'Let her come in.]
+[A noise within; 'Let her come in.]
 
 
 laertes:
@@ -5961,7 +5961,7 @@ very warlike appointment gave us chase. Finding ourselves too
 slow of sail, we put on a compelled valour, and in the grapple I
 boarded them. On the instant they got clear of our ship; so I
 alone became their prisoner. They have dealt with me like thieves
-of mercy; but they knew what they did: I am to do a good turn for
+of mercy; but they knew what they did; I am to do a good turn for
 them. Let the King have the letters I have sent, and repair thou
 to me with as much speed as thou wouldst fly death. I have words
 to speak in thine ear will make thee dumb; yet are they much too
@@ -6037,7 +6037,7 @@ How now? What news?
 
 
 messenger_ham:
-Letters, my lord, from Hamlet:
+Letters, my lord, from Hamlet;
 This to your Majesty_Claudius; this to the Queen_Gertrude.
 
 
@@ -6140,11 +6140,11 @@ Come short of what he did.
 
 
 laertes:
-A Norman_Lamound was't?
+A Norman was't?
 
 
 claudius:
-A Norman_Lamound.
+A Norman.
 
 
 laertes:
@@ -6350,7 +6350,7 @@ Why, 'tis found so.
 
 clown1_ham:
 It must be se offendendo; it cannot be else. For here lies
-the point: if I drown myself wittingly, it argues an act; and an
+the point; if I drown myself wittingly, it argues an act; and an
 act hath three branches-it is to act, to do, and to perform;
 argal, she drown'd herself wittingly.
 
@@ -6787,7 +6787,7 @@ horatio:
 
 hamlet:
 No, faith, not a jot; but to follow him thither with modesty
-enough, and likelihood to lead it; as thus: Alexander died,
+enough, and likelihood to lead it; as thus; Alexander died,
 Alexander was buried, Alexander returneth into dust; the dust is
 earth; of earth we make loam; and why of that loam (whereto he
 was converted) might they not stop a beer barrel?
@@ -7326,7 +7326,7 @@ hamlet:
 The phrase would be more germane to the matter if we could
 carry cannon by our sides. I would it might be hangers till then. 
 But on! Six Barbary horses against six French swords, their
-assigns, and three liberal-conceited carriages: that's the French
+assigns, and three liberal-conceited carriages; that's the French
 bet against the Danish. Why is this all impon'd, as you call it?
 
 
@@ -7448,7 +7448,7 @@ repair hither and say you are not fit.
 hamlet:
 Not a whit, we defy augury; there's a special providence in
 the fall of a sparrow. If it be now, 'tis not to come; if it be
-not to come, it will be now; if it be not now, yet it will come:
+not to come, it will be now; if it be not now, yet it will come;
 the readiness is all. Since no man knows aught of what he leaves,
 what is't to leave betimes? Let be.
 

@@ -478,12 +478,20 @@ Against yourself. I know you are no truant.
 But what is your affair in Elsinore?
 We'll teach you to drink deep ere you depart.
 horatio:
+<<<<<<< HEAD
 My lord_Hamlet, I came to see your father_Ghost's funeral.
+=======
+My lord, I came to see your father_Ghost's funeral.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 I prithee do not mock me, fellow student.
 I think it was to see my mother_Gertrude's wedding.
 horatio:
+<<<<<<< HEAD
 Indeed, my lord_Hamlet, it followed hard upon.
+=======
+Indeed, my lord, it followed hard upon.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Thrift, thrift, Horatio! The funeral bak'd meats
 Did coldly furnish forth the marriage tables.
@@ -491,7 +499,11 @@ Would I had met my dearest foe in heaven
 Or ever I had seen that day, Horatio!
 My father_Ghost- methinks I see my father_Ghost.
 horatio:
+<<<<<<< HEAD
 O, where, my lord_Hamlet?
+=======
+O, where, my lord?
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 In my mind's eye, Horatio.
 horatio:
@@ -500,11 +512,19 @@ hamlet:
 He was a man, take him for all in all.
 I shall not look upon his like again.
 horatio:
+<<<<<<< HEAD
 My lord_Hamlet, I think I saw him yesternight.
 hamlet:
 Saw? who?
 horatio:
 My lord_Hamlet, the King your father_Ghost.
+=======
+My lord, I think I saw him yesternight.
+hamlet:
+Saw? who?
+horatio:
+My lord, the King your father_Ghost.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 The King my father_Ghost?
 horatio:
@@ -535,11 +555,19 @@ These hands are not more like.
 hamlet:
 But where was this?
 marcellus:
+<<<<<<< HEAD
 My lord_Hamlet, upon the platform where we watch'd.
 hamlet:
 Did you not speak to it?
 horatio:
 My lord_Hamlet, I did;
+=======
+My lord, upon the platform where we watch'd.
+hamlet:
+Did you not speak to it?
+horatio:
+My lord, I did;
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 But answer made it none. Yet once methought
 It lifted up it head and did address
 Itself to motion, like as it would speak;
@@ -556,6 +584,7 @@ hamlet:
 Indeed, indeed, sirs. But this troubles me.
 Hold you the watch to-night?
 marcellus:
+<<<<<<< HEAD
 [with Bernardo] We do, my lord_hamlet.]
 hamlet:
 Arm'd, say you?
@@ -569,6 +598,21 @@ hamlet:
 Then saw you not his face?
 horatio:
 O, yes, my lord_Hamlet! He wore his beaver up.
+=======
+[with Bernardo] We do, my lord.]
+hamlet:
+Arm'd, say you?
+marcellus:
+[with Bernardo] Arm'd, my lord.]
+hamlet:
+From top to toe?
+marcellus:
+[with Bernardo] My lord, from head to foot.]
+hamlet:
+Then saw you not his face?
+horatio:
+O, yes, my lord! He wore his beaver up.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 What, look'd he frowningly.
 horatio:
@@ -702,7 +746,11 @@ And you are stay'd for. There- my blessing with thee!
 And these few precepts in thy memory
 Look thou character. Give thy thoughts no tongue,
 Nor any unproportion'd thought his act.
+<<<<<<< HEAD
 Be thou familiar, but by no means vulgar:
+=======
+Be thou familiar, but by no means vulgar;
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 Those friends thou hast, and their adoption tried,
 Grapple them unto thy soul with hoops of steel;
 But do not dull thy palm with entertainment
@@ -724,7 +772,11 @@ And it must follow, as the night the day,
 Thou canst not then be false to any man.
 Farewell. My blessing season this in thee!
 laertes:
+<<<<<<< HEAD
 Most humbly do I take my leave, my lord_Polonius.
+=======
+Most humbly do I take my leave, my lord.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 polonius:
 The time invites you. Go, your servants tend.
 laertes:
@@ -750,14 +802,22 @@ You do not understand yourself so clearly
 As it behooves my daughter_Ophelia and your honour.
 What is between you? Give me up the truth.
 ophelia:
+<<<<<<< HEAD
 He hath, my lord_Polonius, of late made many tenders
+=======
+He hath, my lord, of late made many tenders
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 Of his affection to me.
 polonius:
 Affection? Pooh! You speak like a green girl,
 Unsifted in such perilous circumstance.
 Do you believe his tenders, as you call them?
 ophelia:
+<<<<<<< HEAD
 I do not know, my lord_Polonius, what I should think,
+=======
+I do not know, my lord, what I should think,
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 polonius:
 Marry, I will teach you! Think yourself a baby
 That you have ta'en these tenders for true pay,
@@ -765,12 +825,20 @@ Which are not sterling. Tender yourself more dearly,
 Or (not to crack the wind of the poor phrase,
 Running it thus) you'll tender me a fool.
 ophelia:
+<<<<<<< HEAD
 My lord_Polonius, he hath importun'd me with love
+=======
+My lord, he hath importun'd me with love
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 In honourable fashion.
 polonius:
 Ay, fashion you may call it. Go to, go to!
 ophelia:
+<<<<<<< HEAD
 And hath given countenance to his speech, my lord_Polonius,
+=======
+And hath given countenance to his speech, my lord,
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 With almost all the holy vows of heaven.
 polonius:
 Ay, springes to catch woodcocks! I do know,
@@ -795,7 +863,11 @@ Have you so slander any moment leisure
 As to give words or talk with the Lord Hamlet.
 Look to't, I charge you. Come your ways.
 ophelia:
+<<<<<<< HEAD
 I shall obey, my lord_Polonius.
+=======
+I shall obey, my lord.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 xxx:
 [Exeunt]
 ----------------------------------------
@@ -816,7 +888,11 @@ horatio:
 Indeed? I heard it not. It then draws near the season
 Wherein the spirit held his wont to walk.
 [A flourish of trumpets, and two pieces go off.]
+<<<<<<< HEAD
 What does this mean, my lord_Hamlet?
+=======
+What does this mean, my lord?
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 The King_Ghost doth wake to-night and takes his rouse,
 Keeps wassail, and the swagg'ring upspring reels,
@@ -854,7 +930,11 @@ Doth all the noble substance often dout To his own scandal.
 xxx:
 [Enter Ghost]
 horatio:
+<<<<<<< HEAD
 Look, my lord_Hamlet, it comes!
+=======
+Look, my lord, it comes!
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Angels and ministers of grace defend us!
 Be thou a spirit of health or goblin damn'd,
@@ -890,7 +970,11 @@ No, by no means!
 hamlet:
 It will not speak. Then will I follow it.
 horatio:
+<<<<<<< HEAD
 Do not, my lord_Hamlet!
+=======
+Do not, my lord!
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Why, what should be the fear?
 I do not set my life at a pin's fee;
@@ -898,7 +982,11 @@ And for my soul, what can it do to that,
 Being a thing immortal as itself?
 It waves me forth again. I'll follow it.
 horatio:
+<<<<<<< HEAD
 What if it tempt you toward the flood, my lord_Hamlet,
+=======
+What if it tempt you toward the flood, my lord,
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 Or to the dreadful summit of the cliff
 That beetles o'er his base into the sea,
 And there assume some other, horrible form
@@ -912,7 +1000,11 @@ hamlet:
 It waves me still.
 Go on. I'll follow thee.
 marcellus:
+<<<<<<< HEAD
 You shall not go, my lord_Hamlet.
+=======
+You shall not go, my lord.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Hold off your hands!
 horatio:
@@ -1081,11 +1173,19 @@ O villain, villain, smiling, damned villain!
 My tables! Meet it is I set it down
 That one may smile, and smile, and be a villain;
 At least I am sure it may be so in Denmark.  [Writes.]
+<<<<<<< HEAD
 So, uncle_Claudius, there you are. Now to my word:
 It is 'Adieu, adieu! Remember me.'
 I have sworn't.
 horatio:
 [within] My lord_Hamlet, my lord_Hamlet!]
+=======
+So, uncle_Claudius, there you are. Now to my word;
+It is 'Adieu, adieu! Remember me.'
+I have sworn't.
+horatio:
+[within] My lord, my lord!]
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 xxx:
 [Enter Horatio and Marcellus]
 marcellus:
@@ -1095,6 +1195,7 @@ Heaven secure him!
 hamlet:
 So be it!
 marcellus:
+<<<<<<< HEAD
 Illo, ho, ho, my lord_Hamlet!
 hamlet:
 Hillo, ho, ho, boy! Come, bird, come.
@@ -1112,16 +1213,43 @@ horatio:
 Not I, my lord_Hamlet, by heaven!
 marcellus:
 Nor I, my lord_Hamlet.
+=======
+Illo, ho, ho, my lord!
+hamlet:
+Hillo, ho, ho, boy! Come, bird, come.
+marcellus:
+How is't, my noble lord?
+horatio:
+What news, my lord?
+marcellus:
+O, wonderful!
+horatio:
+Good my lord, tell it.
+hamlet:
+No, you will reveal it.
+horatio:
+Not I, my lord, by heaven!
+marcellus:
+Nor I, my lord.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 How say you then? Would heart of man once think it?
 But you'll be secret?
 marcellus:
+<<<<<<< HEAD
 [with Horatio] Ay, by heaven, my lord_Hamlet.]
+=======
+[with Horatio] Ay, by heaven, my lord.]
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 There's neer a villain dwelling in all Denmark
 But he's an arrant knave.
 horatio:
+<<<<<<< HEAD
 There needs no ghost, my lord_Hamlet, come from the grave
+=======
+There needs no ghost, my lord, come from the grave
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 To tell us this.
 hamlet:
 Why, right! You are in the right!
@@ -1132,12 +1260,20 @@ For every man hath business and desire,
 Such as it is; and for my own poor part,
 Look you, I'll go pray.
 horatio:
+<<<<<<< HEAD
 These are but wild and whirling words, my lord_Hamlet.
+=======
+These are but wild and whirling words, my lord.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 I am sorry they offend you, heartily;
 Yes, faith, heartily.
 horatio:
+<<<<<<< HEAD
 There's no offence, my lord_Hamlet.
+=======
+There's no offence, my lord.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Yes, by Saint Patrick, but there is, Horatio,
 And much offence too. Touching this vision here,
@@ -1147,15 +1283,24 @@ O'ermaster't as you may. And now, good friends,
 As you are friends, scholars, and soldiers,
 Give me one poor request.
 horatio:
+<<<<<<< HEAD
 What is't, my lord_Hamlet? We will.
 hamlet:
 Never make known what you have seen to-night.
 marcellus:
 [with Horatio] My lord_Hamlet, we will not.]
+=======
+What is't, my lord? We will.
+hamlet:
+Never make known what you have seen to-night.
+marcellus:
+[with Horatio] My lord, we will not.]
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Nay, but swear't.
 horatio:
 In faith,
+<<<<<<< HEAD
 My lord_Hamlet, not I.
 marcellus:
 Nor I, my lord_Hamlet- in faith.
@@ -1163,6 +1308,15 @@ hamlet:
 Upon my sword.
 marcellus:
 We have sworn, my lord_Hamlet, already.
+=======
+My lord, not I.
+marcellus:
+Nor I, my lord- in faith.
+hamlet:
+Upon my sword.
+marcellus:
+We have sworn, my lord, already.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Indeed, upon my sword, indeed.
 xxx:
@@ -1174,7 +1328,11 @@ Aha boy, say'st thou so? Art thou there, truepenny?
 Come on! You hear this fellow in the cellarage.
 Consent to swear.
 horatio:
+<<<<<<< HEAD
 Propose the oath, my lord_Hamlet.
+=======
+Propose the oath, my lord.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Never to speak of this that you have seen.
 Swear by my sword.
@@ -1184,7 +1342,11 @@ hamlet:
 Hic et ubique? Then we'll shift our ground.
 Come hither, gentlemen,
 And lay your hands again upon my sword.
+<<<<<<< HEAD
 Never to speak of this that you have heard:
+=======
+Never to speak of this that you have heard;
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 Swear by my sword.
 hamghost:
 [beneath] Swear by his sword.]
@@ -1234,13 +1396,21 @@ xxx:
 polonius:
 Give him this money and these notes, Reynaldo.
 reynaldo:
+<<<<<<< HEAD
 I will, my lord_Polonius.
+=======
+I will, my lord.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 polonius:
 You shall do marvell's wisely, good Reynaldo,
 Before You visit him, to make inquire
 Of his behaviour.
 reynaldo:
+<<<<<<< HEAD
 My lord_Polonius, I did intend it.
+=======
+My lord, I did intend it.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 polonius:
 Marry, well said, very well said. Look you, sir,
 Enquire me first what Danskers are in Paris;
@@ -1253,7 +1423,11 @@ Take you, as 'twere, some distant knowledge of him;
 As thus, 'I know his father_Polonius and his friends,
 And in part him.' Do you mark this, Reynaldo?
 reynaldo:
+<<<<<<< HEAD
 Ay, very well, my lord_Polonius.
+=======
+Ay, very well, my lord.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 polonius:
 'And in part him, but,' you may say, 'not well.
 But if't be he I mean, he's very wild
@@ -1264,12 +1438,20 @@ But, sir, such wanton, wild, and usual slips
 As are companions noted and most known
 To youth and liberty.
 reynaldo:
+<<<<<<< HEAD
 As gaming, my lord_Polonius.
+=======
+As gaming, my lord.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 polonius:
 Ay, or drinking, fencing, swearing, quarrelling,
 Drabbing. You may go so far.
 reynaldo:
+<<<<<<< HEAD
 My lord_Polonius, that would dishonour him.
+=======
+My lord, that would dishonour him.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 polonius:
 Faith, no, as you may season it in the charge.
 You must not put another scandal on him,
@@ -1284,7 +1466,11 @@ But, my good lord_Polonius-
 polonius:
 Wherefore should you do this?
 reynaldo:
+<<<<<<< HEAD
 Ay, my lord_Polonius,
+=======
+Ay, my lord,
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 I would know that.
 polonius:
 Marry, sir, here's my drift,
@@ -1295,12 +1481,20 @@ Mark you,
 Your party in converse, him you would sound,
 Having ever seen in the prenominate crimes
 The youth you breathe of guilty, be assur'd
+<<<<<<< HEAD
 He closes with you in this consequence:
+=======
+He closes with you in this consequence;
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 'Good sir,' or so, or 'friend,' or 'gentleman'-
 According to the phrase or the addition
 Of man and country-
 reynaldo:
+<<<<<<< HEAD
 Very good, my lord_Polonius.
+=======
+Very good, my lord.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 polonius:
 And then, sir, does 'a this- 'a does- What was I about to say?
 By the mass, I was about to say something! Where did I leave?
@@ -1324,6 +1518,7 @@ By indirections find directions out.
 So, by my former lecture and advice,
 Shall you my son_Laertes. You have me, have you not?
 reynaldo:
+<<<<<<< HEAD
 My lord_Polonius, I have.
 polonius:
 God b' wi' ye, fare ye well!
@@ -1337,13 +1532,32 @@ polonius:
 And let him ply his music.
 reynaldo:
 Well, my lord_Polonius.
+=======
+My lord, I have.
+polonius:
+God b' wi' ye, fare ye well!
+reynaldo:
+Good my lord!                                    [Going.]
+polonius:
+Observe his inclination in yourself.
+reynaldo:
+I shall, my lord.
+polonius:
+And let him ply his music.
+reynaldo:
+Well, my lord.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 polonius:
 Farewell!
 [Exit Reynaldo.]
 [Enter Ophelia.]
 How now, Ophelia? What's the matter?
 ophelia:
+<<<<<<< HEAD
 O my lord_Polonius, my lord_Polonius, I have been so affrighted!
+=======
+O my lord, my lord, I have been so affrighted!
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 polonius:
 With what, i' th' name of God?
 ophelia:
@@ -1358,7 +1572,11 @@ To speak of horrors- he comes before me.
 polonius:
 Mad for thy love?
 ophelia:
+<<<<<<< HEAD
 My lord_Polonius, I do not know,
+=======
+My lord, I do not know,
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 But truly I do fear it.
 polonius:
 What said he?
@@ -1469,7 +1687,11 @@ Are joyfully return'd.
 claudius:
 Thou still hast been the father of good news.
 polonius:
+<<<<<<< HEAD
 Have I, my lord_Claudius? Assure you, my good liege,
+=======
+Have I, my lord? Assure you, my good liege,
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 I hold my duty as I hold my soul,
 Both to my God and to my gracious king_Claudius;
 And I do think- or else this brain of mine
@@ -1540,7 +1762,11 @@ gertrude:
 More matter, with less art.
 polonius:
 Madam_Gertrude, I swear I use no art at all.
+<<<<<<< HEAD
 That he is mad, 'tis true: 'tis true 'tis pity;
+=======
+That he is mad, 'tis true; 'tis true 'tis pity;
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 And pity 'tis 'tis true. A foolish figure!
 But farewell it, for I will use no art.
 Mad let us grant him then. And now remains
@@ -1592,7 +1818,11 @@ If I had play'd the desk or table book,
 Or given my heart a winking, mute and dumb,
 Or look'd upon this love with idle sight?
 What might you think? No, I went round to work
+<<<<<<< HEAD
 And my young mistress thus I did bespeak:
+=======
+And my young mistress thus I did bespeak;
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 'Lord Hamlet is a prince, out of thy star.
 This must not be.' And then I prescripts gave her,
 That she should lock herself from his resort,
@@ -1647,7 +1877,11 @@ How does my good Lord Hamlet?
 hamlet:
 Well, God-a-mercy.
 polonius:
+<<<<<<< HEAD
 Do you know me, my lord_Hamlet?
+=======
+Do you know me, my lord?
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Excellent well. You are a fishmonger.
 polonius:
@@ -1655,17 +1889,29 @@ Not I, my lord.
 hamlet:
 Then I would you were so honest a man.
 polonius:
+<<<<<<< HEAD
 Honest, my lord_Hamlet?
+=======
+Honest, my lord?
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Ay, sir. To be honest, as this world goes, is to be one man
 pick'd out of ten thousand.
 polonius:
+<<<<<<< HEAD
 That's very true, my lord_Hamlet.
+=======
+That's very true, my lord.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 For if the sun breed maggots in a dead dog, being a god
 kissing carrion- Have you a daughter_Ophelia?
 polonius:
+<<<<<<< HEAD
 I have, my lord_Hamlet.
+=======
+I have, my lord.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Let her not walk i' th' sun. Conception is a blessing, but not
 as your daughter_Ophelia may conceive. Friend, look to't.
@@ -1674,6 +1920,7 @@ polonius:
 he knew me not at first. He said I was a fishmonger. He is far
 gone, far gone! And truly in my youth I suff'red much extremity
 for love- very near this. I'll speak to him again.- What do you
+<<<<<<< HEAD
 read, my lord_Hamlet?
 hamlet:
 Words, words, words.
@@ -1683,6 +1930,17 @@ hamlet:
 Between who?
 polonius:
 I mean, the matter that you read, my lord_Hamlet.
+=======
+read, my lord?
+hamlet:
+Words, words, words.
+polonius:
+What is the matter, my lord?
+hamlet:
+Between who?
+polonius:
+I mean, the matter that you read, my lord.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Slanders, sir; for the satirical rogue says here that old men
 have grey beards; that their faces are wrinkled; their eyes
@@ -1693,7 +1951,11 @@ not honesty to have it thus set down; for you yourself, sir,
 should be old as I am if, like a crab, you could go backward.
 polonius:
 [aside] Though this be madness, yet there is a method in't.-]
+<<<<<<< HEAD
 Will You walk out of the air, my lord_Hamlet?
+=======
+Will You walk out of the air, my lord?
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Into my grave?
 polonius:
@@ -1710,7 +1972,11 @@ life,
 xxx:
 [Enter Rosencrantz and Guildenstern]
 polonius:
+<<<<<<< HEAD
 Fare you well, my lord_Hamlet.
+=======
+Fare you well, my lord.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 These tedious old fools!
 polonius:
@@ -1734,7 +2000,11 @@ On Fortune's cap we are not the very button.
 hamlet:
 Nor the soles of her shoe?
 rosencrantz:
+<<<<<<< HEAD
 Neither, my lord_Hamlet.
+=======
+Neither, my lord.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Then you live about her waist, or in the middle of her
 favours?
@@ -1744,14 +2014,22 @@ hamlet:
 In the secret parts of Fortune? O! most true! she is a
 strumpet. What news ?
 rosencrantz:
+<<<<<<< HEAD
 None, my lord_Hamlet, but that the world's grown honest.
+=======
+None, my lord, but that the world's grown honest.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Then is doomsday near! But your news is not true. Let me
 question more in particular. What have you, my good friends,
 deserved at the hands of Fortune that she sends you to prison
 hither?
 guildenstern:
+<<<<<<< HEAD
 Prison, my lord_Hamlet?
+=======
+Prison, my lord?
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Denmark's a prison.
 rosencrantz:
@@ -1760,7 +2038,11 @@ hamlet:
 A goodly one; in which there are many confines, wards, and
 dungeons, Denmark being one o' th' worst.
 rosencrantz:
+<<<<<<< HEAD
 We think not so, my lord_Hamlet.
+=======
+We think not so, my lord.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Why, then 'tis none to you; for there is nothing either good
 or bad but thinking makes it so. To me it is a prison.
@@ -1790,21 +2072,33 @@ servants; for, to speak to you like an honest man, I am most
 dreadfully attended. But in the beaten way of friendship, what
 make you at Elsinore?
 rosencrantz:
+<<<<<<< HEAD
 To visit you, my lord_Hamlet; no other occasion.
+=======
+To visit you, my lord; no other occasion.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Beggar that I am, I am even poor in thanks; but I thank you;
 and sure, dear friends, my thanks are too dear a halfpenny. Were
 you not sent for? Is it your own inclining? Is it a free
 visitation? Come, deal justly with me. Come, come! Nay, speak.
 guildenstern:
+<<<<<<< HEAD
 What should we say, my lord_Hamlet?
+=======
+What should we say, my lord?
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Why, anything- but to th' purpose. You were sent for; and
 there is a kind of confession in your looks, which your modesties
 have not craft enough to colour. I know the good King_Claudius and Queen_Gertrude
 have sent for you.
 rosencrantz:
+<<<<<<< HEAD
 To what end, my lord_Hamlet?
+=======
+To what end, my lord?
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 That you must teach me. But let me conjure you by the rights
 of our fellowship, by the consonancy of our youth, by the
@@ -1817,7 +2111,11 @@ hamlet:
 [aside] Nay then, I have an eye of you.- If you love me, hold]
 not off.
 guildenstern:
+<<<<<<< HEAD
 My lord_Hamlet, we were sent for.
+=======
+My lord, we were sent for.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 I will tell you why. So shall my anticipation prevent your
 discovery, and your secrecy to the King_Claudius and Queen_Gertrude moult no
@@ -1835,11 +2133,19 @@ beauty of the world, the paragon of animals! And yet to me what
 is this quintessence of dust? Man delights not me- no, nor woman
 neither, though by your smiling you seem to say so.
 rosencrantz:
+<<<<<<< HEAD
 My lord_Hamlet, there was no such stuff in my thoughts.
 hamlet:
 Why did you laugh then, when I said 'Man delights not me'?
 rosencrantz:
 To think, my lord_Hamlet, if you delight not in man, what lenten
+=======
+My lord, there was no such stuff in my thoughts.
+hamlet:
+Why did you laugh then, when I said 'Man delights not me'?
+rosencrantz:
+To think, my lord, if you delight not in man, what lenten
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 entertainment the players shall receive from you. We coted them
 on the way, and hither are they coming to offer you service.
 hamlet:
@@ -1892,7 +2198,11 @@ O, there has been much throwing about of brains.
 hamlet:
 Do the boys carry it away?
 rosencrantz:
+<<<<<<< HEAD
 Ay, that they do, my lord_Hamlet- Hercules and his load too.
+=======
+Ay, that they do, my lord- Hercules and his load too.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 It is not very strange; for my uncle_Claudius is King of Denmark, and
 those that would make mows at him while my father lived give
@@ -1930,9 +2240,15 @@ hamlet:
 I will prophesy he comes to tell me of the players. Mark it.-
 You say right, sir; a Monday morning; twas so indeed.
 polonius:
+<<<<<<< HEAD
 My lord_Hamlet, I have news to tell you.
 hamlet:
 My lord_Polonius, I have news to tell you. When Roscius was an actor in Rome-
+=======
+My lord, I have news to tell you.
+hamlet:
+My lord, I have news to tell you. When Roscius was an actor in Rome-
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 polonius:
 The actors are come hither, my lord.
 hamlet:
@@ -1951,7 +2267,11 @@ the only men.
 hamlet:
 O Jephthah_Polonius, judge of Israel, what a treasure hadst thou!
 polonius:
+<<<<<<< HEAD
 What treasure had he, my lord_Hamlet?
+=======
+What treasure had he, my lord?
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Why,
 'One fair daughter, and no more,
@@ -1961,7 +2281,11 @@ polonius:
 hamlet:
 Am I not i' th' right, old Jephthah_Polonius?
 polonius:
+<<<<<<< HEAD
 If you call me Jephthah_Polonius, my lord_Hamlet, I have a daughter_Ophelia that I
+=======
+If you call me Jephthah_Polonius, my lord, I have a daughter_Ophelia that I
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 love passing well.
 hamlet:
 Nay, that follows not.
@@ -2000,9 +2324,15 @@ affectation; but call'd it an honest method, as wholesome as
 sweet, and by very much more handsome than fine. One speech in't
 I chiefly lov'd. 'Twas AEneas' tale to Dido, and thereabout of it
 especially where he speaks of Priam's slaughter. If it live in
+<<<<<<< HEAD
 your memory, begin at this line- let me see, let me see:
 'The rugged Pyrrhus, like th' Hyrcanian beast-'
 'Tis not so; it begins with Pyrrhus:
+=======
+your memory, begin at this line- let me see, let me see;
+'The rugged Pyrrhus, like th' Hyrcanian beast-'
+'Tis not so; it begins with Pyrrhus;
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 'The rugged Pyrrhus, he whose sable arms,
 Black as his purpose, did the night resemble
 When he lay couched in the ominous horse,
@@ -2082,12 +2412,20 @@ Look, whe'r he has not turn'd his colour, and has tears in's
 eyes. Prithee no more!
 hamlet:
 'Tis well. I'll have thee speak out the rest of this soon.-
+<<<<<<< HEAD
 Good my lord_Hamlet, will you see the players well bestow'd? Do you
+=======
+Good my lord, will you see the players well bestow'd? Do you
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hear? Let them be well us'd; for they are the abstract and brief
 chronicles of the time. After your death you were better have a
 bad epitaph than their ill report while you live.
 polonius:
+<<<<<<< HEAD
 My lord_Hamlet, I will use them according to their desert.
+=======
+My lord, I will use them according to their desert.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 God's bodykins, man, much better! Use every man after his
 desert, and who should scape whipping? Use them after your own
@@ -2272,7 +2610,11 @@ xxx:
 xxx:
 [Enter Hamlet]
 hamlet:
+<<<<<<< HEAD
 To be, or not to be- that is the question:
+=======
+To be, or not to be- that is the question;
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 Whether 'tis nobler in the mind to suffer
 The slings and arrows of outrageous fortune
 Or to take arms against a sea of troubles,
@@ -2281,7 +2623,11 @@ No more; and by a sleep to say we end
 The heartache, and the thousand natural shocks
 That flesh is heir to. 'Tis a consummation
 Devoutly to be wish'd. To die- to sleep.
+<<<<<<< HEAD
 To sleep- perchance to dream: ay, there's the rub!
+=======
+To sleep- perchance to dream; ay, there's the rub!
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 For in that sleep of death what dreams may come
 When we have shuffled off this mortal coil,
 Must give us pause. There's the respect
@@ -2370,7 +2716,11 @@ nowhere but in's own house. Farewell.
 ophelia:
 O, help him, you sweet heavens!
 hamlet:
+<<<<<<< HEAD
 If thou dost marry, I'll give thee this plague for thy dowry:
+=======
+If thou dost marry, I'll give thee this plague for thy dowry;
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 be thou as chaste as ice, as pure as snow, thou shalt not escape
 calumny. Get thee to a nunnery. Go, farewell. Or if thou wilt
 needs marry, marry a fool; for wise men know well enough what
@@ -2409,7 +2759,11 @@ O'er which his melancholy sits on brood;
 And I do doubt the hatch and the disclose
 Will be some danger; which for to prevent,
 I have in quick determination
+<<<<<<< HEAD
 Thus set it down: he shall with speed to England
+=======
+Thus set it down; he shall with speed to England
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 For the demand of our neglected tribute.
 Haply the seas, and countries different,
 With variable objects, shall expel
@@ -2809,7 +3163,11 @@ xxx:
 hamlet:
 Why, let the strucken deer go weep,
 The hart ungalled play;
+<<<<<<< HEAD
 For some must watch, while some must sleep:
+=======
+For some must watch, while some must sleep;
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 Thus runs the world away.
 Would not this, sir, and a forest of feathers- if the rest of my
 fortunes turn Turk with me-with two Provincial roses on my raz'd
@@ -2882,7 +3240,11 @@ answer as I can make, you shall command; or rather, as you say,
 my mother. Therefore no more, but to the matter! My mother_Gertrude, you
 say-
 rosencrantz:
+<<<<<<< HEAD
 Then thus she says: your behaviour hath struck her into
+=======
+Then thus she says; your behaviour hath struck her into
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 amazement and admiration.
 hamlet:
 O wonderful son, that can so stonish a mother_Gertrude! But is there no
@@ -3202,7 +3564,11 @@ See what a grace was seated on this brow;
 Hyperion's curls; the front of Jove himself;
 An eye like Mars, to threaten and command;
 A station like the herald Mercury
+<<<<<<< HEAD
 New lighted on a heaven-kissing hill:
+=======
+New lighted on a heaven-kissing hill;
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 A combination and a form indeed
 Where every god did seem to set his seal
 To give the world assurance of a man.
@@ -3362,7 +3728,11 @@ One word more, good lady.
 gertrude:
 What shall I do?
 hamlet:
+<<<<<<< HEAD
 Not this, by no means, that I bid you do:
+=======
+Not this, by no means, that I bid you do;
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 Let the bloat King_Claudius tempt you again to bed;
 Pinch wanton on your cheek; call you his mouse;
 And let him, for a pair of reechy kisses,
@@ -3485,7 +3855,11 @@ xxx:
 xxx:
 [Enter Rosencrantz and Guildenstern]
 rosencrantz:
+<<<<<<< HEAD
 What have you done, my lord_Hamlet, with the dead body?
+=======
+What have you done, my lord, with the dead body?
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Compounded it with dust, whereto 'tis kin.
 rosencrantz:
@@ -3500,7 +3874,11 @@ That I can keep your counsel, and not mine own. Besides, to be
 demanded of a sponge, what replication should be made by the son
 of a king_Ghost?
 rosencrantz:
+<<<<<<< HEAD
 Take you me for a sponge, my lord_Hamlet?
+=======
+Take you me for a sponge, my lord?
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Ay, sir_Rosencrantz; that soaks up the King_Claudius's countenance, his rewards,
 his authorities. But such officers do the King_Claudius best service in
@@ -3509,17 +3887,29 @@ first mouth'd, to be last swallowed. When he needs what you have
 glean'd, it is but squeezing you and, sponge, you shall be dry
 again.
 rosencrantz:
+<<<<<<< HEAD
 I understand you not, my lord_Hamlet.
 hamlet:
 I am glad of it. A knavish speech sleeps in a foolish ear.
 rosencrantz:
 My lord_Hamlet, you must tell us where the body is and go with us to
+=======
+I understand you not, my lord.
+hamlet:
+I am glad of it. A knavish speech sleeps in a foolish ear.
+rosencrantz:
+My lord, you must tell us where the body is and go with us to
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 the King_Claudius.
 hamlet:
 The body is with the King_Claudius, but the King_Claudius is not with the body.
 The King_Claudius is a thing-
 guildenstern:
+<<<<<<< HEAD
 A thing, my lord_Hamlet?
+=======
+A thing, my lord?
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 Of nothing. Bring me to him. Hide fox, and all after.
 xxx:
@@ -3548,11 +3938,19 @@ We cannot get from him.
 claudius:
 But where is he?
 rosencrantz:
+<<<<<<< HEAD
 Without, my lord_Claudius; guarded, to know your pleasure.
 claudius:
 Bring him before us.
 rosencrantz:
 Ho, Guildenstern! Bring in my lord_Hamlet.
+=======
+Without, my lord; guarded, to know your pleasure.
+claudius:
+Bring him before us.
+rosencrantz:
+Ho, Guildenstern! Bring in my lord.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 xxx:
 [Enter Hamlet and Guildenstern (with Attendants)]
 claudius:
@@ -3647,7 +4045,11 @@ If that his Majesty_Claudius would aught with us,
 We shall express our duty in his eye;
 And let him know so.
 norcapt:
+<<<<<<< HEAD
 I will do't, my lord_Fortinbras.
+=======
+I will do't, my lord.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 fortinbras:
 Go softly on.
 xxx:
@@ -3689,7 +4091,11 @@ Why the man dies.- I humbly thank you, sir_Norcapt.
 norcapt:
 God b' wi' you, sir_Hamlet.         [Exit.]
 rosencrantz:
+<<<<<<< HEAD
 Will't please you go, my lord_Hamlet?
+=======
+Will't please you go, my lord?
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 hamlet:
 I'll be with you straight. Go a little before.
 [Exeunt all but Hamlet.]
@@ -3789,7 +4195,11 @@ Pray you mark.
 xxx:
 [Enter King_Claudia]
 gertrude:
+<<<<<<< HEAD
 Alas, look here, my lord_Claudia!
+=======
+Alas, look here, my lord!
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 ophelia:
 [Sings]
 Larded all with sweet flowers;
@@ -3805,7 +4215,11 @@ claudius:
 Conceit upon her father_Polonius.
 ophelia:
 Pray let's have no words of this; but when they ask, you what
+<<<<<<< HEAD
 it means, say you this:
+=======
+it means, say you this;
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 (Sings) To-morrow is Saint Valentine's day,
 All in the morning bedtime,
 And I a maid at your window,
@@ -3866,7 +4280,11 @@ Where are my Switzers? Let them guard the door.
 [Enter a Messenger.]
 What is the matter?
 messenger_ham:
+<<<<<<< HEAD
 Save Yourself, my lord_Claudius:
+=======
+Save Yourself, my lord;
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 The ocean, overpeering of his list,
 Eats not the flats with more impetuous haste
 Than Young Laertes, in a riotous head,
@@ -3923,7 +4341,11 @@ But not by him!
 claudius:
 Let him demand his fill.
 laertes:
+<<<<<<< HEAD
 How came he dead? I'll not be juggled with:
+=======
+How came he dead? I'll not be juggled with;
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 To hell, allegiance! vows, to the blackest devil
 Conscience and grace, to the profoundest pit!
 I dare damnation. To this point I stand,
@@ -3958,7 +4380,11 @@ And am most sensibly in grief for it,
 It shall as level to your judgment pierce
 As day does to your eye.
 xxx:
+<<<<<<< HEAD
 [A noise within: 'Let her come in.]
+=======
+[A noise within; 'Let her come in.]
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 laertes:
 How now? What noise is that?
 [Enter Ophelia. ]
@@ -4075,7 +4501,11 @@ very warlike appointment gave us chase. Finding ourselves too
 slow of sail, we put on a compelled valour, and in the grapple I
 boarded them. On the instant they got clear of our ship; so I
 alone became their prisoner. They have dealt with me like thieves
+<<<<<<< HEAD
 of mercy; but they knew what they did: I am to do a good turn for
+=======
+of mercy; but they knew what they did; I am to do a good turn for
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 them. Let the King have the letters I have sent, and repair thou
 to me with as much speed as thou wouldst fly death. I have words
 to speak in thine ear will make thee dumb; yet are they much too
@@ -4135,7 +4565,11 @@ And that, I hope, will teach you to imagine-
 [Enter a Messenger with letters.]
 How now? What news?
 messenger_ham:
+<<<<<<< HEAD
 Letters, my lord, from Hamlet:
+=======
+Letters, my lord, from Hamlet;
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 This to your Majesty_Claudius; this to the Queen_Gertrude.
 claudius:
 From Hamlet? Who brought them?
@@ -4210,9 +4644,15 @@ With the brave beast. So far he topp'd my thought
 That I, in forgery of shapes and tricks,
 Come short of what he did.
 laertes:
+<<<<<<< HEAD
 A Norman_Lamound was't?
 claudius:
 A Norman_Lamound.
+=======
+A Norman was't?
+claudius:
+A Norman.
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 laertes:
 Upon my life, Lamound.
 claudius:
@@ -4363,7 +4803,11 @@ clown2_ham:
 Why, 'tis found so.
 clown1_ham:
 It must be se offendendo; it cannot be else. For here lies
+<<<<<<< HEAD
 the point: if I drown myself wittingly, it argues an act; and an
+=======
+the point; if I drown myself wittingly, it argues an act; and an
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 act hath three branches-it is to act, to do, and to perform;
 argal, she drown'd herself wittingly.
 clown2_ham:
@@ -4630,7 +5074,11 @@ horatio:
 'Twere to consider too curiously, to consider so.
 hamlet:
 No, faith, not a jot; but to follow him thither with modesty
+<<<<<<< HEAD
 enough, and likelihood to lead it; as thus: Alexander died,
+=======
+enough, and likelihood to lead it; as thus; Alexander died,
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 Alexander was buried, Alexander returneth into dust; the dust is
 earth; of earth we make loam; and why of that loam (whereto he
 was converted) might they not stop a beer barrel?
@@ -4989,7 +5437,11 @@ hamlet:
 The phrase would be more germane to the matter if we could
 carry cannon by our sides. I would it might be hangers till then.
 But on! Six Barbary horses against six French swords, their
+<<<<<<< HEAD
 assigns, and three liberal-conceited carriages: that's the French
+=======
+assigns, and three liberal-conceited carriages; that's the French
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 bet against the Danish. Why is this all impon'd, as you call it?
 osric:
 The King_Claudius, sir, hath laid that, in a dozen passes between
@@ -5063,7 +5515,11 @@ repair hither and say you are not fit.
 hamlet:
 Not a whit, we defy augury; there's a special providence in
 the fall of a sparrow. If it be now, 'tis not to come; if it be
+<<<<<<< HEAD
 not to come, it will be now; if it be not now, yet it will come:
+=======
+not to come, it will be now; if it be not now, yet it will come;
+>>>>>>> 7145db9ca8829617bd21a2650c20bcd7d9465637
 the readiness is all. Since no man knows aught of what he leaves,
 what is't to leave betimes? Let be.
 xxx:

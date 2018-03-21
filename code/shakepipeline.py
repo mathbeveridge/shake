@@ -3,6 +3,7 @@ import updatealias
 import scriptanalysis
 import edgemerge
 import os
+import sys
 
 '''
 The driver file that turns a set of scripts into a network.
@@ -12,7 +13,7 @@ The driver file that turns a set of scripts into a network.
 Configuration assumptions:
 
 
-1. Your alias file must match your play file. 
+1. Your alias file must match your play file.
 For example: "macbeth.txt" and "macbeth.csv"
 
 2. The first name that appears in the alias file must match the name used in the dialog of the play.
@@ -26,9 +27,9 @@ When the Old Man speaks, his dialog is identified by "oldman_mac: xxxxxxxxx"
 include all-lowercase versions of your aliases. (That breaks part of the code right now...)
 
 4. You need to update your play and alias file to use underscore instead of dash.
-For example, I ran a Replace All to change "-mac" to "_mac". 
+For example, I ran a Replace All to change "-mac" to "_mac".
 
-The reason for this change: python treats underscore as a word character, 
+The reason for this change: python treats underscore as a word character,
 but treats dash as a non-word character.
 
 5. You must update your play.txt file as follows:
@@ -36,32 +37,33 @@ but treats dash as a non-word character.
 - Replace "Act 1, Scene 1" with "# Act 1, Scene 1", etc. This leading '#' indicates that
   this line is metadata (not dialog)
 
-6. WARNING: there is one quirk right now. The code identifys a speaker by a line that begins
+6. WARNING: there is one quirk right now. The code identifies a speaker by a line that begins
 Character: ....
-but this means that when Shakespeare starts a line with a word and then a colon 
-(eg "Hark: who goes there?") 
+but this means that when Shakespeare starts a line with a word and then a colon
+(eg "Hark: who goes there?")
 you will get a "Key Error" for "Hark"
 The workaround: edit the play.txt file and replace "Hark:" (colon) with "Hark;" (semicolon).
-This is a manual process, and there won't be too many of them (probably 5-10). 
+This is a manual process, and there won't be too many of them (probably 5-10).
 So I suggest that you just run the script, let it fail, change the offending colon, and repeat.
 
 '''
 
 
 ########################################
-# Configure the following to match your filesystem
-# and the play that you want to process
+# Choose the play
 
-#mydir
-my_dir = "/Users/abeverid/PycharmProjects/shake/"
-
-# play
-play = "henry4p1"
+# play, must be the name of the .txt
+# file without the .txt included
+play = "hamlet"
 
 
 
 
 ########################################
+
+#mydir
+my_dir = sys.path[0] + '/../'
+
 
 #datadir
 data_dir = my_dir + "data/"
@@ -100,5 +102,3 @@ edge_file_list = scriptanalysis.analyze(alias_script_file, alias_file_list, edge
 
 print("MERGING")
 edgemerge.merge(edge_file_list, final_edge_file)
-
-
