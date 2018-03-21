@@ -1,9 +1,12 @@
+from __future__ import print_function
 import updatescript
 import updatealias
 import scriptanalysis
 import edgemerge
 import os
 import sys
+
+
 
 '''
 The driver file that turns a set of scripts into a network.
@@ -49,6 +52,7 @@ So I suggest that you just run the script, let it fail, change the offending col
 '''
 
 
+
 ########################################
 # Choose the play
 
@@ -60,6 +64,8 @@ play = "hamlet"
 
 
 ########################################
+
+
 
 #mydir
 my_dir = sys.path[0] + '/../'
@@ -75,6 +81,29 @@ out_dir = my_dir + "out/" + play + "/"
 if not os.path.exists(out_dir):
     os.makedirs(out_dir)
 
+#check if this is main module
+if __name__ == "main":
+	if len(sys.argv) > 1:   #if there is an argument passed to the program, set it as the play
+		play = sys.argv[1]
+
+		#if it is a valid play then cache it and move on
+		if isValidPlay(play):
+			cache(play)
+		else:    #if it is not a valid play print usefull error message
+			print(play + " is not a valid play, terminating program.", file = sys.stderr)
+			sys.exit()
+			#TODO print valid plays in error message
+
+
+	else:
+		None
+	
+def isValidPlay(name):
+	return os.path.isfile(data_dir + name)
+
+def cache(name):
+	with open(my_dir + '.lastPlay', 'w') as file:
+		file.write(play)
 
 # currently support import of more than one alias file
 alias_file_list = [
