@@ -1,7 +1,7 @@
 import itertools
 import numpy as np
 import re
-import fileinput
+import csv
 
 
 #### Constants
@@ -440,6 +440,32 @@ def get_interaction_table(script, interaction_table_file, char_list):
     output_file.close()
 
 
+
+'''
+Translate the sorted timeline file to a file that can be visualized in Gephi
+Whenever an edge between an existing pair appear, increase the weight by 1.
+'''
+def process_timeline(sorted_timeline_file, all_timeline_file):
+    dict = {}
+    with open(sorted_timeline_file) as sample, open(all_timeline_file, "w") as out:
+        csv1 = csv.reader(sample, delimiter=',')
+        header = next(csv1, None)
+        csv_writer = csv.writer(out)
+        if header:
+            csv_writer.writerow(header)
+        for lst in csv1:
+            if (lst[0],lst[1]) in dict.keys():
+                dict[(lst[0],lst[1])] += 1
+                dict[(lst[1], lst[0])] += 1
+            else:
+                dict[(lst[0], lst[1])] = 1
+                dict[(lst[1], lst[0])] = 1
+            csv_writer.writerow([lst[0],lst[1],dict[(lst[0], lst[1])],'Undirected',lst[4]])
+
+
+
+
+
 ##########################
 #
 # MAIN
@@ -462,6 +488,7 @@ def analyze(source_file, char_file_list, out_file_prefix):
     reference_timeline = out_file_prefix + "-reference-timeline.csv"
     stage_timeline = out_file_prefix + "-stage-timeline.csv"
     all_timeline = out_file_prefix + "-all-timeline.csv"
+    sorted_all_timeline = out_file_prefix + "-sorted-all-timeline.csv"
 
     all_char_list = get_all_characters(char_file_list)
 
@@ -520,15 +547,28 @@ def analyze(source_file, char_file_list, out_file_prefix):
     for line in in1.readlines():
         all.write(line)
     in1.close()
+
     in2 = open(reference_timeline, "r")
     for line in in2.readlines()[1:]:
         all.write(line)
     in2.close()
+
     in3 = open(stage_timeline, "r")
     for line in in3.readlines()[1:]:
         all.write(line)
     in3.close()
     all.close()
+
+    with open(all_timeline) as sample, open(sorted_all_timeline, "w") as out:
+        csv1 = csv.reader(sample)
+        header = next(csv1, None)
+        csv_writer = csv.writer(out)
+        if header:
+            csv_writer.writerow(header)
+        csv_writer.writerows(sorted(csv1, key=lambda x: int(x[4])))
+
+    process_timeline(sorted_all_timeline, all_timeline)
+
 
     # return the names of the files that we just created
     return [ scene_file, dialog_file, ref_file, stage_file]
