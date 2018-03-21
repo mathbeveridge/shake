@@ -201,6 +201,7 @@ def get_inscene_characters(scene, char_list):
                         scene_char_list.append(name)
                         break
 
+    scene_char_list = list(set(scene_char_list))
     print("SCENE CHARACTERS:", scene_char_list)
     return scene_char_list
 
