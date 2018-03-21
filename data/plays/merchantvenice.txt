@@ -355,8 +355,7 @@ Nerissa, that I cannot choose one nor refuse none?
 
 
 Nerissa:
-Your father_cato was ever virtuous; and holy men at their
-death have good inspirations: therefore the lottery,
+Your father_Portia was ever virtuous; and holy men at their death have good inspirations: therefore the lottery,
 that he hath devised in these three chests of gold,
 silver and lead, whereof who chooses his meaning
 chooses you, will, no doubt, never be chosen by any
@@ -406,7 +405,7 @@ Portia_mv:
 God made him, and therefore let him pass for a man.
 In truth, I know it is a sin to be a mocker: but,
 he! why, he hath a horse better than the
-Neapolitan's, a better bad habit of frowning than
+Neapolitan_prince's, a better bad habit of frowning than
 the Count Palatine; he is every man in no man; if a
 throstle sing, he falls straight a capering: he will
 fence with his own shadow: if I should marry him, I
@@ -459,7 +458,7 @@ make shift to go without him.
 
 Nerissa:
 If he should offer to choose, and choose the right
-casket, you should refuse to perform your father_cato's
+casket, you should refuse to perform your father_Portia's
 will, if you should refuse to accept him.
 
 
@@ -476,21 +475,21 @@ You need not fear, lady, the having any of these
 lords; they have acquainted me with their
 determinations; which is, indeed, to return to their
 home and to trouble you with no more suit, unless
-you may be won by some other sort than your father_cato's
+you may be won by some other sort than your father_Portia's
 imposition depending on the caskets.
 
 
 Portia_mv:
 If I live to be as old as Sibylla, I will die as
 chaste as Diana, unless I be obtained by the manner
-of my father's will. I am glad this parcel of wooers
+of my father_Portia's will. I am glad this parcel of wooers
 are so reasonable, for there is not one among them
 but I dote on his very absence, and I pray God grant
 them a fair departure.
 
 
 Nerissa:
-Do you not remember, lady, in your father's time, a
+Do you not remember, lady_Portia, in your father_Portia's time, a
 Venetian_Bassanio, a scholar_Bassanio and a soldier_Bassanio, that came hither
 in company of the Marquis of Montferrat?
 
@@ -854,7 +853,7 @@ I will be with you.
 
 
 Antonio_mv:
-Hie thee, gentle Jew.
+Hie thee, gentle Jew_shylock.
 [Exit Shylock]
 The Hebrew will turn Christian: he grows kind.
 
@@ -890,7 +889,7 @@ Bring me the fairest creature northward born,
 Where Phoebus' fire scarce thaws the icicles,
 And let us make incision for your love,
 To prove whose blood is reddest, his or mine.
-I tell thee, lady, this aspect of mine
+I tell thee, lady_Portia, this aspect of mine
 Hath fear'd the valiant: by my love I swear
 The best-regarded virgins of our clime
 Have loved it too: I would not change this hue,
@@ -905,7 +904,7 @@ Bars me the right of voluntary choosing:
 But if my father_cato had not scanted me
 And hedged me by his wit, to yield myself
 His wife who wins me by that means I told you,
-Yourself, renowned prince, then stood as fair
+Yourself, renowned PrinceMorocco, then stood as fair
 As any comer I have look'd on yet
 For my affection.
 
@@ -966,7 +965,7 @@ xxx:
 
 Launcelot:
 Certainly my conscience will serve me to run from
-this Jew my master. The fiend is at mine elbow and
+this Jew_shylock my master. The fiend is at mine elbow and
 tempts me saying to me 'Gobbo, Launcelot Gobbo, good
 Launcelot,' or 'good Gobbo,' or good Launcelot
 Gobbo, use your legs, take the start, run away. My
@@ -980,7 +979,7 @@ says the fiend, 'and run.' Well, my conscience,
 hanging about the neck of my heart, says very wisely
 to me 'My honest friend Launcelot, being an honest
 man's son,' or rather an honest woman's son; for,
-indeed, my father did something smack, something
+indeed, my father_Gobbo did something smack, something
 grow to, he had a kind of taste; well, my conscience
 says 'Launcelot, budge not.' 'Budge,' says the
 fiend. 'Budge not,' says my conscience.
@@ -1004,25 +1003,25 @@ xxx:
 
 OldGobbo:
 Master young man, you, I pray you, which is the way
-to master Jew's?
+to master Jew_shylock's?
 
 
 Launcelot:
-[Aside] O heavens, this is my true-begotten father_shylock!
+[Aside] O heavens, this is my true-begotten father_Gobbo!
 who, being more than sand-blind, high-gravel blind,
 knows me not: I will try confusions with him.
 
 
 OldGobbo:
 Master young gentleman, I pray you, which is the way
-to master Jew's?
+to master Jew_shylock's?
 
 
 Launcelot:
 Turn up on your right hand at the next turning, but,
 at the next turning of all, on your left; marry, at
 the very next turning, turn of no hand, but turn
-down indirectly to the Jew's house.
+down indirectly to the Jew_shylock's house.
 
 
 OldGobbo:
@@ -1045,7 +1044,7 @@ and, God be thanked, well to live.
 
 
 Launcelot:
-Well, let his father be what a' will, we talk of
+Well, let his father_Gobbo be what a' will, we talk of
 young Master Launcelot.
 
 
@@ -1149,7 +1148,7 @@ master agree? I have brought him a present. How
 Launcelot:
 Well, well: but, for mine own part, as I have set
 up my rest to run away, so I will not rest till I
-have run some ground. My master's a very Jew: give
+have run some ground. My master's a very Jew_shylock: give
 him a present! give him a halter: I am famished in
 his service; you may tell every finger I have with
 my ribs. Father, I am glad you are come: give me
@@ -1188,12 +1187,12 @@ Gramercy! wouldst thou aught with me?
 
 
 OldGobbo:
-Here's my son, sir, a poor boy,--
+Here's my son_Launcelot, sir, a poor boy,--
 
 
 Launcelot:
 Not a poor boy, sir, but the rich Jew_shylock's man; that
-would, sir, as my father shall specify--
+would, sir, as my father_Gobbo shall specify--
 
 
 OldGobbo:
@@ -1202,7 +1201,7 @@ He hath a great infection, sir, as one would say, to serve--
 
 Launcelot:
 Indeed, the short and the long is, I serve the Jew_shylock,
-and have a desire, as my father shall specify--
+and have a desire, as my father_Gobbo shall specify--
 
 
 OldGobbo:
@@ -1212,7 +1211,7 @@ are scarce cater-cousins--
 
 Launcelot:
 To be brief, the very truth is that the Jew, having
-done me wrong, doth cause me, as my father, being, I
+done me wrong, doth cause me, as my father_Gobbo, being, I
 hope, an old man, shall frutify unto you--
 
 
@@ -1261,7 +1260,7 @@ More guarded than his fellows': see it done.
 
 
 Launcelot:
-Father, in. I cannot get a service, no; I have
+Father_Gobbo, in. I cannot get a service, no; I have
 ne'er a tongue in my head. Well, if any man in
 Italy have a fairer table which doth offer to swear
 upon a book, I shall have good fortune. Go to,
@@ -1272,7 +1271,7 @@ man; and then to 'scape drowning thrice, and to be
 in peril of my life with the edge of a feather-bed;
 here are simple scapes. Well, if Fortune be a
 woman, she's a good wench for this gear. Father,
-come; I'll take my leave of the Jew in the twinkling of an eye.
+come; I'll take my leave of the Jew_shylock in the twinkling of an eye.
 
 
 xxx:
@@ -1393,7 +1392,7 @@ But fare thee well, there is a ducat for thee:
 And, Launcelot, soon at supper shalt thou see
 Lorenzo, who is thy new master's guest:
 Give him this letter; do it secretly;
-And so farewell: I would not have my father
+And so farewell: I would not have my father_shylock
 See me in talk with thee.
 
 
@@ -1409,7 +1408,7 @@ Jessica:
 Farewell, good Launcelot.
 [Exit Launcelot]
 Alack, what heinous sin is it in me
-To be ashamed to be my father's child!
+To be ashamed to be my father_shylock's child!
 But though I am a daughter to his blood,
 I am not to his manners. O Lorenzo,
 If thou keep promise, I shall end this strife,
@@ -1479,7 +1478,7 @@ Whither goest thou?
 
 Launcelot:
 Marry, sir, to bid my old master the
-Jew_shylock to sup to-night with my new master the Christian.
+Jew_shylock to sup to-night with my new master the Christian_bassanio.
 
 
 Lorenzo:
@@ -1518,7 +1517,7 @@ Was not that letter from fair Jessica?
 
 Lorenzo:
 I must needs tell thee all. She hath directed
-How I shall take her from her father's house,
+How I shall take her from her father_shylock's house,
 What gold and jewels she is furnish'd with,
 What page's suit she hath in readiness.
 If e'er the Jew her father come to heaven,
@@ -1584,7 +1583,7 @@ For I did dream of money-bags to-night.
 
 
 Launcelot:
-I beseech you, sir, go: my young master_antonio doth expect
+I beseech you, sir, go: my young master_Bassanio doth expect
 your reproach.
 
 
@@ -1966,7 +1965,7 @@ And in their ship I am sure Lorenzo is not.
 
 
 Salanio:
-The villain Jew with outcries raised the duke,
+The villain Jew_shylock with outcries raised the duke,
 Who went with him to search Bassanio's ship.
 
 
@@ -2394,7 +2393,7 @@ xxx:
 
 Shylock:
 How now, Tubal! what news from Genoa? hast thou
-found my daughter?
+found my daughter_jessica?
 
 
 Tubal:
@@ -3827,7 +3826,7 @@ I pray you, let me look upon the bond.
 
 
 Shylock:
-Here 'tis, most reverend doctor, here it is.
+Here 'tis, most reverend portia, here it is.
 
 
 Portia_mv:
@@ -4718,7 +4717,7 @@ Therefore I scant this breathing courtesy.
 
 Gratiano_mv:
 [To NERISSA] By yonder moon I swear you do me wrong;
-In faith, I gave it to the judge's clerk:
+In faith, I gave it to the judge's Portia :
 Would he were gelt that had it, for my part,
 Since you do take it, love, so much at heart.
 
@@ -4741,8 +4740,8 @@ That you would wear it till your hour of death
 And that it should lie with you in your grave:
 Though not for me, yet for your vehement oaths,
 You should have been respective and have kept it.
-Gave it a judge's clerk! no, God's my judge,
-The clerk will ne'er wear hair on's face that had it.
+Gave it a judge's portia! no, God's my judge,
+The portia will ne'er wear hair on's face that had it.
 
 
 Gratiano_mv:
@@ -4756,7 +4755,7 @@ Ay, if a woman live to be a man.
 Gratiano_mv:
 Now, by this hand, I gave it to a youth,
 A kind of boy, a little scrubbed Portia ,
-No higher than thyself; the judge's clerk,
+No higher than thyself; the judge's portia,
 A prating boy, that begg'd it as a fee:
 I could not for my heart deny it him.
 
@@ -4783,7 +4782,7 @@ And swear I lost the ring defending it.
 Gratiano_mv:
 My Lord Bassanio gave his ring away
 Unto the judge that begg'd it and indeed
-Deserved it too; and then the boy, his clerk,
+Deserved it too; and then the boy, his portia,
 That took some pains in writing, he begg'd mine;
 And neither man nor master would take aught
 But the two rings.
@@ -4836,7 +4835,7 @@ I'll die for't but some woman had the ring.
 
 Bassanio:
 No, by my honour, madam, by my soul,
-No woman had it, but a civil doctor,
+No woman had it, but a civil portia,
 Which did refuse three thousand ducats of me
 And begg'd the ring; the which I did deny him
 And suffer'd him to go displeased away;
@@ -4848,11 +4847,11 @@ My honour would not let ingratitude
 So much besmear it. Pardon me, good lady;
 For, by these blessed candles of the night,
 Had you been there, I think you would have begg'd
-The ring of me to give the worthy doctor.
+The ring of me to give the worthy portia .
 
 
 Portia_mv:
-Let not that doctor e'er come near my house:
+Let not that Portia e'er come near my house:
 Since he hath got the jewel that I loved,
 And that which you did swear to keep for me,
 I will become as liberal as you;
@@ -4921,17 +4920,17 @@ Here, Lord Bassanio; swear to keep this ring.
 
 
 Bassanio:
-By heaven, it is the same I gave the doctor!
+By heaven, it is the same I gave the portia!
 
 
 Portia_mv:
 I had it of him: pardon me, Bassanio;
-For, by this ring, the doctor lay with me.
+For, by this ring, the portia lay with me.
 
 
 Nerissa:
 And pardon me, my gentle Gratiano;
-For that same scrubbed boy, the doctor's clerk,
+For that same scrubbed boy, the portia s clerk,
 In lieu of this last night did lie with me.
 
 
@@ -4963,11 +4962,11 @@ I am dumb.
 
 
 Bassanio:
-Were you the doctor and I knew you not?
+Were you the Portia and I knew you not?
 
 
 Gratiano_mv:
-Were you the clerk that is to make me cuckold?
+Were you the Nerissa that is to make me cuckold?
 
 
 Nerissa:

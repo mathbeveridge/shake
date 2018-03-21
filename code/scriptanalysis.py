@@ -1,6 +1,8 @@
 import itertools
 import numpy as np
 import re
+import csv
+
 
 #### Constants
 
@@ -199,6 +201,7 @@ def get_inscene_characters(scene, char_list):
                         scene_char_list.append(name)
                         break
 
+    scene_char_list = list(set(scene_char_list))
     print("SCENE CHARACTERS:", scene_char_list)
     return scene_char_list
 
@@ -382,6 +385,88 @@ def get_stage_timeline(script, stage_timeline_file, char_list):
     output_file.close()
 
 
+
+'''
+Creates a table: each line has [characters involved], interaction type, line number
+'''
+def get_interaction_table(script, interaction_table_file, char_list):
+    output_file = open(interaction_table_file, "w")
+    output_file.write("Characters,Interaction_Type,Type,Timestamp\n")
+
+    lineNum = 1
+
+    prev_speaker = None
+
+    for scene in script:
+        for line in scene:
+            if is_stage_direction(line) and not is_new_scene(line):
+                stage_tokens = re.split("(\W)", line)
+                indices =[i for i, x in enumerate(char_list) if x in stage_tokens]
+                if len(indices) > 0:
+                    arr = np.array(char_list)
+                    stage_list = arr[indices]
+
+                    output_file.write("[")
+                    i = 0
+                    for char in stage_list:
+                        if i == len(stage_list) - 1:
+                            output_file.write(char)
+                        else:
+                            output_file.write(char + ';')
+                        i += 1
+                    output_file.write("],stage,Undirected," + str(lineNum) + "\n")
+            elif not is_new_scene(line):
+                speaker = get_speaker(line)
+                if prev_speaker is not None:
+                    output_file.write("["+prev_speaker+";"+speaker+"],dialog,Undirected," + str(lineNum) + "\n")
+                prev_speaker = speaker
+
+                dialog_tokens = tokens = re.split("(\W)", get_dialog(line))
+
+                indices = [i for i, x in enumerate(char_list) if x in dialog_tokens]
+
+                if (len(indices) > 0):
+                    arr = np.array(char_list)
+                    ref_list = arr[indices]
+
+                    output_file.write("[" + speaker)
+
+                    for ref_char in ref_list:
+                        output_file.write(";" + ref_char)
+
+                    output_file.write("],reference,Undirected," + str(lineNum) + "\n")
+
+            lineNum += 1
+
+    output_file.close()
+
+
+
+'''
+Translate the sorted timeline file to a file that can be visualized in Gephi
+Whenever an edge between an existing pair appear, increase the weight by 1.
+'''
+def process_timeline(sorted_timeline_file, all_timeline_file):
+    dict = {}
+    with open(sorted_timeline_file) as sample, open(all_timeline_file, "w") as out:
+        csv1 = csv.reader(sample, delimiter=',')
+        header = next(csv1, None)
+        csv_writer = csv.writer(out)
+        if header:
+            csv_writer.writerow(header)
+        for lst in csv1:
+            if (lst[0],lst[1]) in dict.keys():
+                dict[(lst[0],lst[1])] += 1
+                dict[(lst[1], lst[0])] += 1
+            else:
+                dict[(lst[0], lst[1])] = 1
+                dict[(lst[1], lst[0])] = 1
+            csv_writer.writerow([lst[0],lst[1],dict[(lst[0], lst[1])],'Undirected',lst[4]])
+
+
+
+
+
 ##########################
 #
 # MAIN
@@ -395,6 +480,7 @@ def get_stage_timeline(script, stage_timeline_file, char_list):
 def analyze(source_file, char_file_list, out_file_prefix):
     # sourcefile="/mac/NarrativeEcosystem/script/season3/s3e01-alias-v5.txt";
 
+    interaction_table = out_file_prefix + "-interaction-table.csv"
     scene_file = out_file_prefix + "-scene.csv"
     dialog_file = out_file_prefix + "-dialog.csv"
     ref_file = out_file_prefix + "-reference.csv"
@@ -402,12 +488,19 @@ def analyze(source_file, char_file_list, out_file_prefix):
     dialog_timeline = out_file_prefix + "-dialog-timeline.csv"
     reference_timeline = out_file_prefix + "-reference-timeline.csv"
     stage_timeline = out_file_prefix + "-stage-timeline.csv"
+    all_timeline = out_file_prefix + "-all-timeline.csv"
+    sorted_all_timeline = out_file_prefix + "-sorted-all-timeline.csv"
 
     all_char_list = get_all_characters(char_file_list)
 
     print(all_char_list)
 
     script = create_script(source_file)
+
+    #############################
+    # Interaction 0: Create an overall interaction table
+    print("writing interactions table")
+    get_interaction_table(script, interaction_table, all_char_list)
 
     #############################
     # Interaction 1: in a scene together
@@ -448,6 +541,38 @@ def analyze(source_file, char_file_list, out_file_prefix):
     print("writing stage timeline")
     get_stage_timeline(script, stage_timeline, all_char_list)
 
+    #############################
+    # 5: combine all timelines
+    all = open(all_timeline, "w")
+    in1 = open(dialog_timeline, "r")
+    for line in in1.readlines():
+        all.write(line)
+    in1.close()
+
+    in2 = open(reference_timeline, "r")
+    for line in in2.readlines()[1:]:
+        all.write(line)
+    in2.close()
+
+    in3 = open(stage_timeline, "r")
+    for line in in3.readlines()[1:]:
+        all.write(line)
+    in3.close()
+    all.close()
+
+    with open(all_timeline) as sample, open(sorted_all_timeline, "w") as out:
+        csv1 = csv.reader(sample)
+        header = next(csv1, None)
+        csv_writer = csv.writer(out)
+        if header:
+            csv_writer.writerow(header)
+        csv_writer.writerows(sorted(csv1, key=lambda x: int(x[4])))
+
+    process_timeline(sorted_all_timeline, all_timeline)
+
+
     # return the names of the files that we just created
     return [ scene_file, dialog_file, ref_file, stage_file]
+
+
 

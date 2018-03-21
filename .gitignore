@@ -1,7 +1,11 @@
 .idea
-/.vs/config/applicationhost.config
-/.vs
-/shake.pyproj
-/code/__pycache__
-/shake.sln
-/out
+out/*
+!out/.gitkeep
+*.html
+
+__pycache__
+
+.vs/config/applicationhost.config
+.vs
+shake.pyproj
+shake.sln
